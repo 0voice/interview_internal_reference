@@ -58,3 +58,15 @@
 ##### 3.7 如何用 socket 编程实现 ftp 协议？
 
 ##### 3.8 请评估一下程序的执行结果？
+
+
+<br/>
+<br/>
+
+
+#### 专家架构交流3群：783153655
+#### 若群已满，添加QQ：469254771 , 备注github
+
+资料整理不易，欢迎打赏。
+
+![image](https://github.com/0voice/from_coder_to_expert/blob/master/Pay.jpg)
