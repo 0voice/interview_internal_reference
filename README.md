@@ -834,7 +834,7 @@
 
 ##### [12.1.2 zookeeper文件系统](12.1.2%20zookeeper%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F.md)
 
-##### 12.1.3 zookeeper的四种类型的znode
+##### [12.1.3 zookeeper的四种类型的znode](https://github.com/0voice/interview_internal_reference/blob/master/12.1.3%20zookeeper%E7%9A%84%E5%9B%9B%E7%A7%8D%E7%B1%BB%E5%9E%8B%E7%9A%84znode.md)
 
 ##### [12.1.4 zookeeper通知机制](12.1.4%20zookeeper%E9%80%9A%E7%9F%A5%E6%9C%BA%E5%88%B6.md)
 
@@ -923,6 +923,7 @@
 **关注公众号，更多权威架构设计方案。 另附企业内推，架构设计资料，相关视频资料**
 
 <img src = "arch.jpg" />
+
 
 
 
