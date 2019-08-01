@@ -930,31 +930,34 @@
 ##### 感谢各位贡献patch的朋友， 还很多在issue里面出谋划策的朋友，为此衷心感谢。使得该repo能够在github趋势榜，持续一周时间问鼎排行榜。
 
 <a href="https://github.com/zhiyong0804">
-    <img src="https://avatars2.githubusercontent.com/u/15864088?s=400&v=4" width="50px">
+    <img src="https://avatars2.githubusercontent.com/u/15864088?s=400&v=4" width="40px">
 </a> 
 <a href="https://github.com/wangbojing">
-    <img src="https://avatars2.githubusercontent.com/u/18027560?s=400&v=4" width="50px">
+    <img src="https://avatars2.githubusercontent.com/u/18027560?s=400&v=4" width="40px">
 </a> 
 <a href="https://github.com/pyinx">
-    <img src="https://avatars1.githubusercontent.com/u/3828540?s=400&v=4" width="50px">
+    <img src="https://avatars1.githubusercontent.com/u/3828540?s=400&v=4" width="40px">
 </a> 
 <a href="https://github.com/ileler">
-    <img src="https://avatars3.githubusercontent.com/u/3371163?s=400&v=4" width="50px">
+    <img src="https://avatars3.githubusercontent.com/u/3371163?s=400&v=4" width="40px">
 </a> 
 <a href="https://github.com/jiaoqiyuan">
-    <img src="https://avatars3.githubusercontent.com/u/13357933?s=400&v=4" width="50px">
+    <img src="https://avatars3.githubusercontent.com/u/13357933?s=400&v=4" width="40px">
 </a> 
 <a href="https://github.com/seniorcandy">
-    <img src="https://avatars1.githubusercontent.com/u/11422477?s=400&v=4" width="50px">
+    <img src="https://avatars1.githubusercontent.com/u/11422477?s=400&v=4" width="40px">
 </a> 
 <a href="https://github.com/kphn">
-    <img src="https://avatars1.githubusercontent.com/u/35964821?s=400&v=4" width="50px">
+    <img src="https://avatars1.githubusercontent.com/u/35964821?s=400&v=4" width="40px">
 </a> 
 <a href="https://github.com/OhIAmFine">
-    <img src="https://avatars0.githubusercontent.com/u/10390004?s=400&v=4" width="50px">
+    <img src="https://avatars0.githubusercontent.com/u/10390004?s=400&v=4" width="40px">
 </a> 
 <a href="https://github.com/ArtarisCN">
-    <img src="https://avatars2.githubusercontent.com/u/19167403?s=400&v=4" width="50px">
+    <img src="https://avatars2.githubusercontent.com/u/19167403?s=400&v=4" width="40px">
+</a>
+<a href="https://github.com/Octobug">
+    <img src="https://avatars1.githubusercontent.com/u/8007022?s=400&v=4" width="40px">
 </a> 
 
 
