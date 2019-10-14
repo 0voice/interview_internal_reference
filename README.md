@@ -988,3 +988,9 @@
 <a href="https://github.com/likunyao">
     <img src="https://avatars3.githubusercontent.com/u/16969814?s=400&v=4" width="40px">
 </a> 
+
+<br>
+<br>
+
+## 加入 gitter 讨论组 
+https://gitter.im/im0voice/interview_internal_reference
