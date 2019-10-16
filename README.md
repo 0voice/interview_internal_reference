@@ -988,6 +988,13 @@
 <a href="https://github.com/likunyao">
     <img src="https://avatars3.githubusercontent.com/u/16969814?s=400&v=4" width="40px">
 </a> 
+<tr>
+<a href="https://github.com/xiepeiyang">
+    <img src="https://avatars0.githubusercontent.com/u/8435589?s=400&v=4" width="40px">
+</a> 
+<a href="https://github.com/fnlearner">
+    <img src="https://avatars3.githubusercontent.com/u/38586156?s=400&v=4" width="40px">
+</a> 
 
 <br>
 <br>
