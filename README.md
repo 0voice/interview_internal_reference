@@ -1004,7 +1004,9 @@
 <a href="https://github.com/fnlearner">
     <img src="https://avatars3.githubusercontent.com/u/38586156?s=400&v=4" width="40px">
 </a> 
-
+<a href="https://github.com/Macyrate">
+    <img src="https://avatars2.githubusercontent.com/u/20154121?s=400&v=4" width="40px">
+</a> 
 <br>
 <br>
 
