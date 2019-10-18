@@ -606,9 +606,18 @@
 ##### 6.4.3 redis sharding有哪些做法
 
 ##### 6.4.4 当大量数据要求用redis保存，单机单点难以满足需要，设计（换寻找）一个负载均衡的方案
+
 ##### 6.4.5 当redis 采用hash做sharding，现在有8个节点，负载方案是 pos = hash(key) % 8，然后保存在pos节点上。这样做有什么好处坏处？当8个节点要扩充到10个节点，应该怎么办？有什么更方便扩充的方案吗？（一致性hash, presharding）
 
 ##### 6.4.6 如何保证redis和数据库数据的一致性。比如用户名既保存在数据库，又保存在redis做缓存。有如下操作 update_db(username); update_redis(username)。但是执行update_db后故障，update_redis没有执行。有什么简单办法解决这个问题。
+
+##### 6.5.0 数据库表包含三列：广告编号ad_id，广告开始投放时间ad_start，广告投放结束时间ad_end。用一行SQL语句查询给定时间段内存在的广告。
+
+##### 6.5.1 讲讲MapReduce的原理。
+
+##### 6.5.2 举出几种进程通信、线程通信的方式。
+
+##### 6.5.3 对列表中每一个元素找出比它大的第一个元素：输入一个listin，返回一个listout。对于任意listin[x]，将满足 y > x 且 listin[y] > listin[x] 的第一个 listin[y] 值作为 listout[x] 的值。时间复杂度限制为O(n)。
 
 
 <h3 id="7">滴滴篇</h3>
