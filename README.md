@@ -11,7 +11,7 @@
 * [京东篇](#8)
 * [MySQL篇](#9)
 * [Redis篇](#10)
-* [MongDB篇](#11)
+* [MongoDB篇](#11)
 * [Zookeeper篇](#12)
 * [Nginx篇](#13)
 * [算法篇](#14)
@@ -606,9 +606,18 @@
 ##### 6.4.3 redis sharding有哪些做法
 
 ##### 6.4.4 当大量数据要求用redis保存，单机单点难以满足需要，设计（换寻找）一个负载均衡的方案
+
 ##### 6.4.5 当redis 采用hash做sharding，现在有8个节点，负载方案是 pos = hash(key) % 8，然后保存在pos节点上。这样做有什么好处坏处？当8个节点要扩充到10个节点，应该怎么办？有什么更方便扩充的方案吗？（一致性hash, presharding）
 
 ##### 6.4.6 如何保证redis和数据库数据的一致性。比如用户名既保存在数据库，又保存在redis做缓存。有如下操作 update_db(username); update_redis(username)。但是执行update_db后故障，update_redis没有执行。有什么简单办法解决这个问题。
+
+##### 6.5.0 数据库表包含三列：广告编号ad_id，广告开始投放时间ad_start，广告投放结束时间ad_end。用一行SQL语句查询给定时间段内存在的广告。
+
+##### 6.5.1 讲讲MapReduce的原理。
+
+##### 6.5.2 举出几种进程通信、线程通信的方式。
+
+##### 6.5.3 对列表中每一个元素找出比它大的第一个元素：输入一个listin，返回一个listout。对于任意listin[x]，将满足 y > x 且 listin[y] > listin[x] 的第一个 listin[y] 值作为 listout[x] 的值。时间复杂度限制为O(n)。
 
 
 <h3 id="7">滴滴篇</h3>
@@ -828,43 +837,43 @@
 <h3 id="12">Zookeeper篇</h3> 
 
 ---
-##### [12.1.0 zookeeper是什么？](12.1.0%20zookeeper%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F.md)
+##### [12.1.0 zookeeper是什么？](12.Zookeeper篇/12.1.0%20zookeeper%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F.md)
 
-##### [12.1.1 zookeeper提供了什么？](12.1.1%20zookeeper%E6%8F%90%E4%BE%9B%E4%BA%86%E4%BB%80%E4%B9%88%EF%BC%9F.md)
+##### [12.1.1 zookeeper提供了什么？](12.Zookeeper篇/12.1.1%20zookeeper%E6%8F%90%E4%BE%9B%E4%BA%86%E4%BB%80%E4%B9%88%EF%BC%9F.md)
 
-##### [12.1.2 zookeeper文件系统](12.1.2%20zookeeper%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F.md)
+##### [12.1.2 zookeeper文件系统](12.Zookeeper篇/12.1.2%20zookeeper%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F.md)
 
 ##### [12.1.3 zookeeper的四种类型的znode](https://github.com/0voice/interview_internal_reference/blob/master/12.1.3%20zookeeper%E7%9A%84%E5%9B%9B%E7%A7%8D%E7%B1%BB%E5%9E%8B%E7%9A%84znode.md)
 
-##### [12.1.4 zookeeper通知机制](12.1.4%20zookeeper%E9%80%9A%E7%9F%A5%E6%9C%BA%E5%88%B6.md)
+##### [12.1.4 zookeeper通知机制](12.Zookeeper篇/12.1.4%20zookeeper%E9%80%9A%E7%9F%A5%E6%9C%BA%E5%88%B6.md)
 
-##### [12.1.5 zookeeper有哪些应用场景？](12.1.5%20zookeeper%E6%9C%89%E5%93%AA%E4%BA%9B%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF%EF%BC%9F.md)
+##### [12.1.5 zookeeper有哪些应用场景？](12.Zookeeper篇/12.1.5%20zookeeper%E6%9C%89%E5%93%AA%E4%BA%9B%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF%EF%BC%9F.md)
 
-##### [12.1.6 zk的命名服务](12.1.6%20zk%E7%9A%84%E5%91%BD%E5%90%8D%E6%9C%8D%E5%8A%A1.md)
+##### [12.1.6 zk的命名服务](12.Zookeeper篇/12.1.6%20zk%E7%9A%84%E5%91%BD%E5%90%8D%E6%9C%8D%E5%8A%A1.md)
 
-##### [12.1.7 zk的配置管理服务](12.1.7%20zk%E7%9A%84%E9%85%8D%E7%BD%AE%E7%AE%A1%E7%90%86%E6%9C%8D%E5%8A%A1.md)
+##### [12.1.7 zk的配置管理服务](12.Zookeeper篇/12.1.7%20zk%E7%9A%84%E9%85%8D%E7%BD%AE%E7%AE%A1%E7%90%86%E6%9C%8D%E5%8A%A1.md)
 
-##### [12.1.8 zk的集群管理](12.1.8%20zk%E7%9A%84%E9%9B%86%E7%BE%A4%E7%AE%A1%E7%90%86.md)
+##### [12.1.8 zk的集群管理](12.Zookeeper篇/12.1.8%20zk%E7%9A%84%E9%9B%86%E7%BE%A4%E7%AE%A1%E7%90%86.md)
 
-##### [12.1.9 zk的分布式锁](12.1.9%20zk%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81.md)
+##### [12.1.9 zk的分布式锁](12.Zookeeper篇/12.1.9%20zk%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81.md)
 
-##### [12.2.0 zk队列管理](12.2.0%20zk%E9%98%9F%E5%88%97%E7%AE%A1%E7%90%86.md)
+##### [12.2.0 zk队列管理](12.Zookeeper篇/12.2.0%20zk%E9%98%9F%E5%88%97%E7%AE%A1%E7%90%86.md)
 
-##### [12.2.1 zk数据复制](12.2.1%20zk%E6%95%B0%E6%8D%AE%E5%A4%8D%E5%88%B6.md)
+##### [12.2.1 zk数据复制](12.Zookeeper篇/12.2.1%20zk%E6%95%B0%E6%8D%AE%E5%A4%8D%E5%88%B6.md)
 
-##### [12.2.2 zk的工作原理](12.2.2%20zk%E7%9A%84%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86.md)
+##### [12.2.2 zk的工作原理](12.Zookeeper篇/12.2.2%20zk%E7%9A%84%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86.md)
 
-##### [12.2.3 zk是如何保证事物的顺序一致性](12.2.3%20zk%E6%98%AF%E5%A6%82%E4%BD%95%E4%BF%9D%E8%AF%81%E4%BA%8B%E7%89%A9%E7%9A%84%E9%A1%BA%E5%BA%8F%E4%B8%80%E8%87%B4%E6%80%A7.md)
+##### [12.2.3 zk是如何保证事物的顺序一致性](12.Zookeeper篇/12.2.3%20zk%E6%98%AF%E5%A6%82%E4%BD%95%E4%BF%9D%E8%AF%81%E4%BA%8B%E7%89%A9%E7%9A%84%E9%A1%BA%E5%BA%8F%E4%B8%80%E8%87%B4%E6%80%A7.md)
 
-##### [12.2.4 zk集群下server工作状态](12.2.4%20zk%E9%9B%86%E7%BE%A4%E4%B8%8Bserver%E5%B7%A5%E4%BD%9C%E7%8A%B6%E6%80%81.md)
+##### [12.2.4 zk集群下server工作状态](12.Zookeeper篇/12.2.4%20zk%E9%9B%86%E7%BE%A4%E4%B8%8Bserver%E5%B7%A5%E4%BD%9C%E7%8A%B6%E6%80%81.md)
 
-##### [12.2.5 zk是如何选举Leader的？](12.2.5%20zk%E6%98%AF%E5%A6%82%E4%BD%95%E9%80%89%E4%B8%BELeader%E7%9A%84%EF%BC%9F.md)
+##### [12.2.5 zk是如何选举Leader的？](12.Zookeeper篇/12.2.5%20zk%E6%98%AF%E5%A6%82%E4%BD%95%E9%80%89%E4%B8%BELeader%E7%9A%84%EF%BC%9F.md)
 
-##### [12.2.6 zk同步流程](12.2.6%20zk%E5%90%8C%E6%AD%A5%E6%B5%81%E7%A8%8B.md)
+##### [12.2.6 zk同步流程](12.Zookeeper篇/12.2.6%20zk%E5%90%8C%E6%AD%A5%E6%B5%81%E7%A8%8B.md)
 
-##### [12.2.7 分布式通知和协调](12.2.7%20%E5%88%86%E5%B8%83%E5%BC%8F%E9%80%9A%E7%9F%A5%E5%92%8C%E5%8D%8F%E8%B0%83.md)
+##### [12.2.7 分布式通知和协调](12.Zookeeper篇/12.2.7%20%E5%88%86%E5%B8%83%E5%BC%8F%E9%80%9A%E7%9F%A5%E5%92%8C%E5%8D%8F%E8%B0%83.md)
 
-##### 12.2.8 zk的session机制
+##### [12.2.8 zk的session机制](12.Zookeeper篇/12.2.8%20zk的session机制.md)
 
 
 <br>
@@ -916,7 +925,7 @@
 <br/>
 <br/>
 
-**获取大牛视频资料，专家架构交流3群：783153655**
+**获取大牛视频资料，决胜校招，Linux项目C/C++精讲群：725377106**
 
 **C/C++ Linux技术交流群：762073882**
 
@@ -961,5 +970,48 @@
 <a href="https://github.com/Octobug">
     <img src="https://avatars1.githubusercontent.com/u/8007022?s=400&v=4" width="40px">
 </a> 
+<a href="https://github.com/SenZhangAI">
+    <img src="https://avatars0.githubusercontent.com/u/8464676?s=400&v=4" width="40px">
+</a> 
+<a href="https://github.com/wansho">
+    <img src="https://avatars2.githubusercontent.com/u/28779244?s=400&v=4" width="40px">
+</a> 
+<a href="https://github.com/dengchaoyun007">
+    <img src="https://avatars1.githubusercontent.com/u/38239467?s=400&v=4" width="40px">
+</a> 
+<a href="https://github.com/FanShikun">
+    <img src="https://avatars1.githubusercontent.com/u/30170514?s=400&v=4" width="40px">
+</a> 
+<a href="https://github.com/Carmon-Lee">
+    <img src="https://avatars3.githubusercontent.com/u/29457756?s=400&v=4" width="40px">
+</a> 
+<a href="https://github.com/gytHW">
+    <img src="https://avatars3.githubusercontent.com/u/13961667?s=400&v=4" width="40px">
+</a> 
+<a href="https://github.com/keytouch">
+    <img src="https://avatars0.githubusercontent.com/u/20770013?s=400&v=4" width="40px">
+</a> 
+<a href="https://github.com/SJshenjian">
+    <img src="https://avatars0.githubusercontent.com/u/25132537?s=400&v=4" width="40px">
+</a> 
+<a href="https://github.com/likunyao">
+    <img src="https://avatars3.githubusercontent.com/u/16969814?s=400&v=4" width="40px">
+</a> 
+<tr>
+<a href="https://github.com/xiepeiyang">
+    <img src="https://avatars0.githubusercontent.com/u/8435589?s=400&v=4" width="40px">
+</a> 
+<a href="https://github.com/fnlearner">
+    <img src="https://avatars3.githubusercontent.com/u/38586156?s=400&v=4" width="40px">
+</a> 
+<a href="https://github.com/Macyrate">
+    <img src="https://avatars2.githubusercontent.com/u/20154121?s=400&v=4" width="40px">
+</a> 
+<a href="https://github.com/63isOK">
+    <img src="https://avatars2.githubusercontent.com/u/45553405?s=400&v=4" width="40px">
+</a> 
+<br>
+<br>
 
-
+## 加入 gitter 讨论组 
+https://gitter.im/im0voice/interview_internal_reference
