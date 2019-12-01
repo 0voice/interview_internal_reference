@@ -606,9 +606,18 @@
 ##### 6.4.3 redis sharding有哪些做法
 
 ##### 6.4.4 当大量数据要求用redis保存，单机单点难以满足需要，设计（换寻找）一个负载均衡的方案
+
 ##### 6.4.5 当redis 采用hash做sharding，现在有8个节点，负载方案是 pos = hash(key) % 8，然后保存在pos节点上。这样做有什么好处坏处？当8个节点要扩充到10个节点，应该怎么办？有什么更方便扩充的方案吗？（一致性hash, presharding）
 
 ##### 6.4.6 如何保证redis和数据库数据的一致性。比如用户名既保存在数据库，又保存在redis做缓存。有如下操作 update_db(username); update_redis(username)。但是执行update_db后故障，update_redis没有执行。有什么简单办法解决这个问题。
+
+##### 6.5.0 数据库表包含三列：广告编号ad_id，广告开始投放时间ad_start，广告投放结束时间ad_end。用一行SQL语句查询给定时间段内存在的广告。
+
+##### 6.5.1 讲讲MapReduce的原理。
+
+##### 6.5.2 举出几种进程通信、线程通信的方式。
+
+##### 6.5.3 对列表中每一个元素找出比它大的第一个元素：输入一个listin，返回一个listout。对于任意listin[x]，将满足 y > x 且 listin[y] > listin[x] 的第一个 listin[y] 值作为 listout[x] 的值。时间复杂度限制为O(n)。
 
 
 <h3 id="7">滴滴篇</h3>
@@ -754,7 +763,7 @@
 
 ##### [11.2.2 非关系型数据库有哪些类型？](11.MongoDB篇/11.2.2%20%E9%9D%9E%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93%E6%9C%89%E5%93%AA%E4%BA%9B%E7%B1%BB%E5%9E%8B%EF%BC%9F.md)
 
-##### [11.2.3 为什么用MOngoDB？](11.MongoDB篇/11.2.3%20%E4%B8%BA%E4%BB%80%E4%B9%88%E7%94%A8MOngoDB%EF%BC%9F.md)
+##### [11.2.3 为什么用MongoDB？](11.MongoDB篇/11.2.3%20%E4%B8%BA%E4%BB%80%E4%B9%88%E7%94%A8MOngoDB%EF%BC%9F.md)
 
 ##### [11.2.4 在哪些场景使用MongoDB？](11.MongoDB篇/11.2.4%20%E5%9C%A8%E5%93%AA%E4%BA%9B%E5%9C%BA%E6%99%AF%E4%BD%BF%E7%94%A8MongoDB%EF%BC%9F.md)
 
@@ -798,7 +807,7 @@
 
 ##### [11.4.4 “ObjectID”有哪些部分组成？](11.MongoDB篇/11.4.4%20%E2%80%9CObjectID%E2%80%9D%E6%9C%89%E5%93%AA%E4%BA%9B%E9%83%A8%E5%88%86%E7%BB%84%E6%88%90%EF%BC%9F.md)
 
-##### [11.4.5 在MongoDb中什么是索引？](11.MongoDB篇/11.4.5%20%E5%9C%A8MongoDb%E4%B8%AD%E4%BB%80%E4%B9%88%E6%98%AF%E7%B4%A2%E5%BC%95%EF%BC%9F.md)
+##### [11.4.5 在MongoDB中什么是索引？](11.MongoDB篇/11.4.5%20%E5%9C%A8MongoDb%E4%B8%AD%E4%BB%80%E4%B9%88%E6%98%AF%E7%B4%A2%E5%BC%95%EF%BC%9F.md)
 
 ##### [11.4.6 如何添加索引？](11.MongoDB篇/11.4.6%20%E5%A6%82%E4%BD%95%E6%B7%BB%E5%8A%A0%E7%B4%A2%E5%BC%95%EF%BC%9F.md)
 
@@ -916,7 +925,7 @@
 <br/>
 <br/>
 
-**获取大牛视频资料，专家架构交流3群：783153655**
+**获取大牛视频资料，决胜校招，Linux项目C/C++精讲群：725377106**
 
 **C/C++ Linux技术交流群：762073882**
 
@@ -979,4 +988,33 @@
 <a href="https://github.com/gytHW">
     <img src="https://avatars3.githubusercontent.com/u/13961667?s=400&v=4" width="40px">
 </a> 
+<a href="https://github.com/keytouch">
+    <img src="https://avatars0.githubusercontent.com/u/20770013?s=400&v=4" width="40px">
+</a> 
+<a href="https://github.com/SJshenjian">
+    <img src="https://avatars0.githubusercontent.com/u/25132537?s=400&v=4" width="40px">
+</a> 
+<a href="https://github.com/likunyao">
+    <img src="https://avatars3.githubusercontent.com/u/16969814?s=400&v=4" width="40px">
+</a> 
+<tr>
+<a href="https://github.com/xiepeiyang">
+    <img src="https://avatars0.githubusercontent.com/u/8435589?s=400&v=4" width="40px">
+</a> 
+<a href="https://github.com/fnlearner">
+    <img src="https://avatars3.githubusercontent.com/u/38586156?s=400&v=4" width="40px">
+</a> 
+<a href="https://github.com/Macyrate">
+    <img src="https://avatars2.githubusercontent.com/u/20154121?s=400&v=4" width="40px">
+</a> 
+<a href="https://github.com/63isOK">
+    <img src="https://avatars2.githubusercontent.com/u/45553405?s=400&v=4" width="40px">
+</a> 
+<a href="https://github.com/Innei">
+    <img src="https://avatars3.githubusercontent.com/u/41265413?s=400&v=4" width="40px">
+</a> 
+<br>
+<br>
 
+## 加入 gitter 讨论组 
+https://gitter.im/im0voice/interview_internal_reference
