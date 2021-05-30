@@ -843,7 +843,7 @@
 
 ##### [12.1.2 zookeeper文件系统](12.Zookeeper篇/12.1.2%20zookeeper%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F.md)
 
-##### [12.1.3 zookeeper的四种类型的znode](https://github.com/0voice/interview_internal_reference/blob/master/12.1.3%20zookeeper%E7%9A%84%E5%9B%9B%E7%A7%8D%E7%B1%BB%E5%9E%8B%E7%9A%84znode.md)
+##### [12.1.3 zookeeper的四种类型的znode](12.Zookeeper篇/12.1.3%20zookeeper%E7%9A%84%E5%9B%9B%E7%A7%8D%E7%B1%BB%E5%9E%8B%E7%9A%84znode.md)
 
 ##### [12.1.4 zookeeper通知机制](12.Zookeeper篇/12.1.4%20zookeeper%E9%80%9A%E7%9F%A5%E6%9C%BA%E5%88%B6.md)
 
@@ -861,9 +861,9 @@
 
 ##### [12.2.1 zk数据复制](12.Zookeeper篇/12.2.1%20zk%E6%95%B0%E6%8D%AE%E5%A4%8D%E5%88%B6.md)
 
-##### [12.2.2 zk的工作原理](12.Zookeeper篇/12.2.2%20zk%E7%9A%84%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86.md)
+##### [12.2.2 zk的工作原理](12.Zookeeper篇/12.2.2%20zk%E4%B8%ADzab%E7%9A%84%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86.md)
 
-##### [12.2.3 zk是如何保证事物的顺序一致性](12.Zookeeper篇/12.2.3%20zk%E6%98%AF%E5%A6%82%E4%BD%95%E4%BF%9D%E8%AF%81%E4%BA%8B%E7%89%A9%E7%9A%84%E9%A1%BA%E5%BA%8F%E4%B8%80%E8%87%B4%E6%80%A7.md)
+##### [12.2.3 zk是如何保证事物的顺序一致性](12.Zookeeper篇/12.2.3%20zk%E6%98%AF%E5%A6%82%E4%BD%95%E4%BF%9D%E8%AF%81%E4%BA%8B%E5%8A%A1%E7%9A%84%E9%A1%BA%E5%BA%8F%E4%B8%80%E8%87%B4%E6%80%A7.md)
 
 ##### [12.2.4 zk集群下server工作状态](12.Zookeeper篇/12.2.4%20zk%E9%9B%86%E7%BE%A4%E4%B8%8Bserver%E5%B7%A5%E4%BD%9C%E7%8A%B6%E6%80%81.md)
 
