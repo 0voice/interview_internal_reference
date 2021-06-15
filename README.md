@@ -929,10 +929,10 @@
 
 ---
 
-**每天晚上8点免费技术分享直播，扫码即可加入，小姐姐给你发每天的直播链接，备注"github面试"** <br/>
-**若网络问题，二维码无法显示，可撩小姐姐wx: yy3007537140**
+**每天晚上8点免费技术分享直播，扫码即可加入【wx:cz1625358265】，小姐姐给你发每天的直播链接，备注"github面试"**<br/>
+**直播内容：C/C++，Linux，Nginx，ZeroMQ，MySQL，Redis，fastdfs，MongoDB，ZK，流媒体，CDN，P2P，K8S，Docker，TCP/IP，协程，DPDK等等多个知识点技术分享**
 
-<img src = "contact.jpg" />
+![image](https://github.com/0voice/interview_internal_reference/blob/master/contact.jpg)
 
 
 ## 鸣谢
