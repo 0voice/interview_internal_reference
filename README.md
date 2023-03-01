@@ -85,7 +85,7 @@
 <h3 id="2">华为篇</h3> 
 
 ---
-##### 2.1.0 static有什么用途？（请至少说明两种）
+##### [2.1.0 static有什么用途？（请至少说明两种）](https://github.com/0voice/interview_internal_reference/blob/master/02.%E5%8D%8E%E4%B8%BA%E7%AF%87/2.1.1%20static%E6%9C%89%E4%BB%80%E4%B9%88%E7%94%A8%E9%80%94%EF%BC%9F%EF%BC%88%E8%AF%B7%E8%87%B3%E5%B0%91%E8%AF%B4%E6%98%8E%E4%B8%A4%E7%A7%8D%EF%BC%89.md)
 
 ###### 2.1.1 引用与指针有什么区别？
 
