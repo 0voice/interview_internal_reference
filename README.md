@@ -87,7 +87,7 @@
 ---
 ##### [2.1.0 static有什么用途？（请至少说明两种）](https://github.com/0voice/interview_internal_reference/blob/master/02.%E5%8D%8E%E4%B8%BA%E7%AF%87/2.1.1%20static%E6%9C%89%E4%BB%80%E4%B9%88%E7%94%A8%E9%80%94%EF%BC%9F%EF%BC%88%E8%AF%B7%E8%87%B3%E5%B0%91%E8%AF%B4%E6%98%8E%E4%B8%A4%E7%A7%8D%EF%BC%89.md)
 
-###### 2.1.1 引用与指针有什么区别？
+##### [2.1.1 变量的声明和定义有什么区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#1%E5%8F%98%E9%87%8F%E7%9A%84%E5%A3%B0%E6%98%8E%E5%92%8C%E5%AE%9A%E4%B9%89%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB)
 
 ##### 2.1.2 描述实时系统的基本特性
 
