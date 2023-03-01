@@ -14246,4 +14246,3 @@ const int *p1 = &a; //“*”代表指针，因此按顺序读取为：常量指
 int *const p2 = &a; //指针常量
 ```
 
-原文地址：http://www.k6k4.com/bbs/show/bbsnqn4141586096495700
