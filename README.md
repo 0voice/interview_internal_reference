@@ -89,9 +89,9 @@
 
 ##### [2.1.1 变量的声明和定义有什么区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#1%E5%8F%98%E9%87%8F%E7%9A%84%E5%A3%B0%E6%98%8E%E5%92%8C%E5%AE%9A%E4%B9%89%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB)
 
-##### 2.1.2 描述实时系统的基本特性
+##### [2.1.2 sizeof 和 strlen 的区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#3sizeof-%E5%92%8C-strlen-%E7%9A%84%E5%8C%BA%E5%88%AB)
 
-##### 2.1.3 全局变量和局部变量在内存中是否有区别？如果有，是什么区别？
+##### [2.1.3 C 语言的关键字 static 和 C++ 的关键字 static 有什么区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#4c-%E8%AF%AD%E8%A8%80%E7%9A%84%E5%85%B3%E9%94%AE%E5%AD%97-static-%E5%92%8C-c-%E7%9A%84%E5%85%B3%E9%94%AE%E5%AD%97-static-%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB)
 
 ##### 2.1.4 什么是平衡二叉树？
 
