@@ -191,101 +191,101 @@
 
 ---
 
-##### 3.1.0 在函数内定义一个字符数组，用gets函数输入字符串的时候，如果输入越界，为什么程序会崩溃？
+##### [3.1.0 提高c++性能，你用过哪些方式去提升](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#68%E6%8F%90%E9%AB%98c%E6%80%A7%E8%83%BD%E4%BD%A0%E7%94%A8%E8%BF%87%E5%93%AA%E4%BA%9B%E6%96%B9%E5%BC%8F%E5%8E%BB%E6%8F%90%E5%8D%87)
 
-##### 3.1.1 C++中引用与指针的区别
+##### [3.1.1 引用和指针的区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#74%E5%BC%95%E7%94%A8%E5%92%8C%E6%8C%87%E9%92%88%E7%9A%84%E5%8C%BA%E5%88%AB)
 
-##### 3.1.2 C/C++程序的内存分区
+##### [3.1.2 从汇编层去解释一下引用](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#75%E4%BB%8E%E6%B1%87%E7%BC%96%E5%B1%82%E5%8E%BB%E8%A7%A3%E9%87%8A%E4%B8%80%E4%B8%8B%E5%BC%95%E7%94%A8)
 
-##### 3.1.3 快速排序的思想、时间复杂度、实现以及优化方法
+##### [3.1.3 C++中的指针参数传递和引用参数传递](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#76c%E4%B8%AD%E7%9A%84%E6%8C%87%E9%92%88%E5%8F%82%E6%95%B0%E4%BC%A0%E9%80%92%E5%92%8C%E5%BC%95%E7%94%A8%E5%8F%82%E6%95%B0%E4%BC%A0%E9%80%92)
 
-##### 3.1.4 IO模型——IO多路复用机制?
+##### [3.1.4 形参与实参的区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#77%E5%BD%A2%E5%8F%82%E4%B8%8E%E5%AE%9E%E5%8F%82%E7%9A%84%E5%8C%BA%E5%88%AB)
 
-##### 3.1.5 常用的Linux命令
+##### [3.1.5 static的用法和作用？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#78static%E7%9A%84%E7%94%A8%E6%B3%95%E5%92%8C%E4%BD%9C%E7%94%A8)
 
-##### 3.1.6 C中变量的存储类型有哪些？
+##### [3.1.6 静态变量什么时候初始化](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#79%E9%9D%99%E6%80%81%E5%8F%98%E9%87%8F%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%88%9D%E5%A7%8B%E5%8C%96)
 
-##### 3.1.7 动态规划的本质
+##### [3.1.7 const?](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#80const)
 
-##### 3.1.8 实践中如何优化MySQL?
+##### [3.1.8 const成员函数的理解和应用？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#81const%E6%88%90%E5%91%98%E5%87%BD%E6%95%B0%E7%9A%84%E7%90%86%E8%A7%A3%E5%92%8C%E5%BA%94%E7%94%A8)
 
-##### 3.1.9 什么情况下设置了索引但无法使用?
+##### [3.1.9 指针和const的用法](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#82%E6%8C%87%E9%92%88%E5%92%8Cconst%E7%9A%84%E7%94%A8%E6%B3%95)
 
-##### 3.2.0 SQL语句的优化
+##### [3.2.0 mutable](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#83mutable)
 
-##### 3.2.1 数据库索引的底层实现原理和优化
+##### [3.2.1 extern用法？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#84extern%E7%94%A8%E6%B3%95)
 
-##### 3.2.2 HTTP和HTTPS的主要区别?
+##### [3.2.2 int转字符串字符串转int?strcat,strcpy,strncpy,memset,memcpy的内部实现？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#85int%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%ACintstrcatstrcpystrncpymemsetmemcpy%E7%9A%84%E5%86%85%E9%83%A8%E5%AE%9E%E7%8E%B0)
 
-##### 3.2.3 如何设计一个高并发的系统?
+##### [3.2.3 深拷贝与浅拷贝？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#86%E6%B7%B1%E6%8B%B7%E8%B4%9D%E4%B8%8E%E6%B5%85%E6%8B%B7%E8%B4%9D)
 
-##### 3.2.4 两条相交的单向链表，如何求他们的第一个公共节点?
+##### [3.2.4 C++模板是什么，底层怎么实现的？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#87c%E6%A8%A1%E6%9D%BF%E6%98%AF%E4%BB%80%E4%B9%88%E5%BA%95%E5%B1%82%E6%80%8E%E4%B9%88%E5%AE%9E%E7%8E%B0%E7%9A%84)
 
-##### 3.2.5 求单向局部循环链表的环入口?
+##### [3.2.5 C语言struct和C++struct区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#88c%E8%AF%AD%E8%A8%80struct%E5%92%8Ccstruct%E5%8C%BA%E5%88%AB)
 
-##### 3.2.6 IP地址如何在数据库中存储?
+##### [3.2.6 虚函数可以声明为inline吗?](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#89%E8%99%9A%E5%87%BD%E6%95%B0%E5%8F%AF%E4%BB%A5%E5%A3%B0%E6%98%8E%E4%B8%BAinline%E5%90%97)
 
-##### 3.2.7 new/delete和malloc/free的底层实现?
+##### [3.2.7 类成员初始化方式？构造函数的执行顺序 ？为什么用成员初始化列表会快一些？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#90%E7%B1%BB%E6%88%90%E5%91%98%E5%88%9D%E5%A7%8B%E5%8C%96%E6%96%B9%E5%BC%8F%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0%E7%9A%84%E6%89%A7%E8%A1%8C%E9%A1%BA%E5%BA%8F-%E4%B8%BA%E4%BB%80%E4%B9%88%E7%94%A8%E6%88%90%E5%91%98%E5%88%9D%E5%A7%8B%E5%8C%96%E5%88%97%E8%A1%A8%E4%BC%9A%E5%BF%AB%E4%B8%80%E4%BA%9B)
 
-##### 3.2.8 overload、override、overwrite的介绍?
+##### [3.2.8 成员列表初始化？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#91%E6%88%90%E5%91%98%E5%88%97%E8%A1%A8%E5%88%9D%E5%A7%8B%E5%8C%96)
 
-##### 3.2.9 小端/大端机器?
+##### [3.2.9 构造函数为什么不能为虚函数？析构函数为什么要虚函数？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#92%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%83%BD%E4%B8%BA%E8%99%9A%E5%87%BD%E6%95%B0%E6%9E%90%E6%9E%84%E5%87%BD%E6%95%B0%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%99%9A%E5%87%BD%E6%95%B0)
 
-##### 3.3.0 守护进程
+##### [3.3.0 析构函数的作用，如何起作用？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#93%E6%9E%90%E6%9E%84%E5%87%BD%E6%95%B0%E7%9A%84%E4%BD%9C%E7%94%A8%E5%A6%82%E4%BD%95%E8%B5%B7%E4%BD%9C%E7%94%A8)
 
-##### 3.3.1 多线程的优缺点
+##### [3.3.1 构造函数和析构函数可以调用虚函数吗，为什么？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#94%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0%E5%92%8C%E6%9E%90%E6%9E%84%E5%87%BD%E6%95%B0%E5%8F%AF%E4%BB%A5%E8%B0%83%E7%94%A8%E8%99%9A%E5%87%BD%E6%95%B0%E5%90%97%E4%B8%BA%E4%BB%80%E4%B9%88)
 
-##### 3.3.2 长连接与短连接
+##### [3.3.2 构造函数的执行顺序？析构函数的执行顺序？构造函数内部干了啥？拷贝构造干了啥？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#95%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0%E7%9A%84%E6%89%A7%E8%A1%8C%E9%A1%BA%E5%BA%8F%E6%9E%90%E6%9E%84%E5%87%BD%E6%95%B0%E7%9A%84%E6%89%A7%E8%A1%8C%E9%A1%BA%E5%BA%8F%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0%E5%86%85%E9%83%A8%E5%B9%B2%E4%BA%86%E5%95%A5%E6%8B%B7%E8%B4%9D%E6%9E%84%E9%80%A0%E5%B9%B2%E4%BA%86%E5%95%A5)
 
-##### 3.3.3 二分图应用于最佳匹配问题（游客对房间的满意度之和最大问题）
+##### [3.3.3 虚析构函数的作用，父类的析构函数是否要设置为虚函数？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#96%E8%99%9A%E6%9E%90%E6%9E%84%E5%87%BD%E6%95%B0%E7%9A%84%E4%BD%9C%E7%94%A8%E7%88%B6%E7%B1%BB%E7%9A%84%E6%9E%90%E6%9E%84%E5%87%BD%E6%95%B0%E6%98%AF%E5%90%A6%E8%A6%81%E8%AE%BE%E7%BD%AE%E4%B8%BA%E8%99%9A%E5%87%BD%E6%95%B0)
 
-##### 3.3.4 class与struct的区别？
+##### [3.3.4 构造函数析构函数可否抛出异常](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#97%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0%E6%9E%90%E6%9E%84%E5%87%BD%E6%95%B0%E5%8F%AF%E5%90%A6%E6%8A%9B%E5%87%BA%E5%BC%82%E5%B8%B8)
 
-##### 3.3.5 虚函数和纯虚函数
+##### [3.3.5 类如何实现只能静态分配和只能动态分配](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#98%E7%B1%BB%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E5%8F%AA%E8%83%BD%E9%9D%99%E6%80%81%E5%88%86%E9%85%8D%E5%92%8C%E5%8F%AA%E8%83%BD%E5%8A%A8%E6%80%81%E5%88%86%E9%85%8D)
 
-##### 3.3.6 menset()函数
+##### [3.3.6 如果想将某个类用作基类，为什么该类必须定义而非声明？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#99%E5%A6%82%E6%9E%9C%E6%83%B3%E5%B0%86%E6%9F%90%E4%B8%AA%E7%B1%BB%E7%94%A8%E4%BD%9C%E5%9F%BA%E7%B1%BB%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%A5%E7%B1%BB%E5%BF%85%E9%A1%BB%E5%AE%9A%E4%B9%89%E8%80%8C%E9%9D%9E%E5%A3%B0%E6%98%8E)
 
-##### 3.3.7 实现一个函数，对一个正整数n，算得到1需要的最少操作次数。操作规则为：如果n为偶数，将其除以2；如果n为奇数，可以加1或减1；一直处理下去。
+##### [3.3.7 什么情况会自动生成默认构造函数？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#100%E4%BB%80%E4%B9%88%E6%83%85%E5%86%B5%E4%BC%9A%E8%87%AA%E5%8A%A8%E7%94%9F%E6%88%90%E9%BB%98%E8%AE%A4%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0)
 
-##### 3.3.8 找到满足条件的数组
+##### [3.3.8 什么是类的继承？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#101%E4%BB%80%E4%B9%88%E6%98%AF%E7%B1%BB%E7%9A%84%E7%BB%A7%E6%89%BF)
 
-##### 3.3.9 一个大的含有50M个URL的记录，一个小的含有500个URL的记录，找出两个记录里相同的URL
+##### [3.3.9 什么是组合？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#102%E4%BB%80%E4%B9%88%E6%98%AF%E7%BB%84%E5%90%88)
 
-##### 3.4.0 海量日志数据，提取出某日访问百度次数最多的那个IP
+##### [3.4.0 抽象基类为什么不能创建对象？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#103%E6%8A%BD%E8%B1%A1%E5%9F%BA%E7%B1%BB%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%83%BD%E5%88%9B%E5%BB%BA%E5%AF%B9%E8%B1%A1)
 
-##### 3.4.1 有10个文件，每个文件1G，每个文件的每一行都存放的是用户的query，每个文件的query都可能重复。如何按照query的频度排序？
+##### [3.4.1 类什么时候会析构？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#104%E7%B1%BB%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E4%BC%9A%E6%9E%90%E6%9E%84)
 
-##### 3.4.2 蚂蚁爬杆问题
+##### [3.4.2 为什么友元函数必须在类内部声明？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#105%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%8B%E5%85%83%E5%87%BD%E6%95%B0%E5%BF%85%E9%A1%BB%E5%9C%A8%E7%B1%BB%E5%86%85%E9%83%A8%E5%A3%B0%E6%98%8E)
 
-##### 3.4.3 当在浏览器中输入一个url后回车，后台发生了什么？比如输入url后，你看到了百度的首页，那么这一切是如何发生的呢？
+##### [3.4.3 介绍一下C++里面的多态？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#106%E4%BB%8B%E7%BB%8D%E4%B8%80%E4%B8%8Bc%E9%87%8C%E9%9D%A2%E7%9A%84%E5%A4%9A%E6%80%81)
 
-##### 3.4.4 判断两棵树是否相等，请实现两棵树是否相等的比较，相等返回1，否则返回其他值，并说明算法复杂度
+##### [3.4.4 用C语言实现C++的继承](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#107%E7%94%A8c%E8%AF%AD%E8%A8%80%E5%AE%9E%E7%8E%B0c%E7%9A%84%E7%BB%A7%E6%89%BF)
 
-##### 3.4.5 三个警察和三个囚徒的过河问题
+##### [3.4.5 继承机制中对象之间如何转换？指针和引用之间如何转换？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#108%E7%BB%A7%E6%89%BF%E6%9C%BA%E5%88%B6%E4%B8%AD%E5%AF%B9%E8%B1%A1%E4%B9%8B%E9%97%B4%E5%A6%82%E4%BD%95%E8%BD%AC%E6%8D%A2%E6%8C%87%E9%92%88%E5%92%8C%E5%BC%95%E7%94%A8%E4%B9%8B%E9%97%B4%E5%A6%82%E4%BD%95%E8%BD%AC%E6%8D%A2)
 
-##### 3.4.6 从300万字符串中找到最热门的10条
+##### [3.4.6 组合与继承优缺点？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#109%E7%BB%84%E5%90%88%E4%B8%8E%E7%BB%A7%E6%89%BF%E4%BC%98%E7%BC%BA%E7%82%B9)
 
-##### 3.4.7 如何找出字典中的兄弟单词。给定一个单词a，如果通过交换单词中字母的顺序可以得到另外的单词b，那么定义b是a的兄弟单词。现在给定一个字典，用户输入一个单词，如何根据字典找出这个单词有多少个兄弟单词？
+##### [3.4.7 左值右值](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#110%E5%B7%A6%E5%80%BC%E5%8F%B3%E5%80%BC)
 
-##### 3.4.8 找出数组中出现次数超过一半的数，现在有一个数组，已知一个数出现的次数超过了一半，请用O(n)的复杂度的算法找出这个数。
+##### [3.4.8 移动构造函数](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#111%E7%A7%BB%E5%8A%A8%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0)
 
-##### 3.4.9 找出被修改过的数字
+##### [3.4.9 C语言的编译链接过程？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#112c%E8%AF%AD%E8%A8%80%E7%9A%84%E7%BC%96%E8%AF%91%E9%93%BE%E6%8E%A5%E8%BF%87%E7%A8%8B)
 
-##### 3.5.0 设计DNS服务器中cache的数据结构。要求设计一个DNS的Cache结构，要求能够满足每秒5000以上的查询，满足IP数据的快速插入，查询的速度要快。（题目还给出了一系列的数据，比如：站点数总共为5000万，IP地址有1000万，等等）
+##### [3.5.0 vector与list的区别与应用？怎么找某vector或者list的倒数第二个元素](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#113vector%E4%B8%8Elist%E7%9A%84%E5%8C%BA%E5%88%AB%E4%B8%8E%E5%BA%94%E7%94%A8%E6%80%8E%E4%B9%88%E6%89%BE%E6%9F%90vector%E6%88%96%E8%80%85list%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%AC%E4%BA%8C%E4%B8%AA%E5%85%83%E7%B4%A0)
 
-##### 3.5.1 找出给定字符串对应的序号
+##### [3.5.1 STL vector的实现，删除其中的元素，迭代器如何变化？为什么是两倍扩容？释放空间？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#114stl-vector%E7%9A%84%E5%AE%9E%E7%8E%B0%E5%88%A0%E9%99%A4%E5%85%B6%E4%B8%AD%E7%9A%84%E5%85%83%E7%B4%A0%E8%BF%AD%E4%BB%A3%E5%99%A8%E5%A6%82%E4%BD%95%E5%8F%98%E5%8C%96%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E4%B8%A4%E5%80%8D%E6%89%A9%E5%AE%B9%E9%87%8A%E6%94%BE%E7%A9%BA%E9%97%B4)
 
-##### 3.5.2 找出第k大的数字所在的位置。写一段程序，找出数组中第k大小的数，输出数所在的位置。例如{2，4，3，4，7}中，第一大的数是7，位置在4。第二大、第三大的数都是4，位置在1、3随便输出哪一个均可。
+##### [3.5.2 容器内部删除一个元素](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#115%E5%AE%B9%E5%99%A8%E5%86%85%E9%83%A8%E5%88%A0%E9%99%A4%E4%B8%80%E4%B8%AA%E5%85%83%E7%B4%A0)
 
-##### 3.5.3 给40亿个不重复的unsigned int的整数，没排过序的，然后再给几个数，如何快速判断这几个数是否在那40亿个数当中?
+##### [3.5.3 STL迭代器如何实现](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#116stl%E8%BF%AD%E4%BB%A3%E5%99%A8%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0)
 
-##### 3.5.4 在一个文件中有10G个整数，乱序排列，要求找出中位数。内存限制为2G。
+##### [3.5.4 set与hash_set的区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#117set%E4%B8%8Ehash_set%E7%9A%84%E5%8C%BA%E5%88%AB)
 
-##### 3.5.5 时分秒针在一天之类重合多少次？（24小时）
+##### [3.5.5 hashmap与map的区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#118hashmap%E4%B8%8Emap%E7%9A%84%E5%8C%BA%E5%88%AB)
 
-##### 3.5.6 将多个集合合并成没有交集的集合。
+##### [3.5.6 map、set是怎么实现的，红黑树是怎么能够同时实现这两种容器？ 为什么使用红黑树？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#119mapset%E6%98%AF%E6%80%8E%E4%B9%88%E5%AE%9E%E7%8E%B0%E7%9A%84%E7%BA%A2%E9%BB%91%E6%A0%91%E6%98%AF%E6%80%8E%E4%B9%88%E8%83%BD%E5%A4%9F%E5%90%8C%E6%97%B6%E5%AE%9E%E7%8E%B0%E8%BF%99%E4%B8%A4%E7%A7%8D%E5%AE%B9%E5%99%A8-%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%BF%E7%94%A8%E7%BA%A2%E9%BB%91%E6%A0%91)
 
-##### 3.5.7 平面内有11个点，由它们连成48条不同的直线，由这些点可连成多少个三角形？
+##### [3.5.7 如何在共享内存上使用stl标准库？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#120%E5%A6%82%E4%BD%95%E5%9C%A8%E5%85%B1%E4%BA%AB%E5%86%85%E5%AD%98%E4%B8%8A%E4%BD%BF%E7%94%A8stl%E6%A0%87%E5%87%86%E5%BA%93)
 
 <br>
 
