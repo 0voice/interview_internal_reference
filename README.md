@@ -293,45 +293,45 @@
 
 ---
 
-#### Java基础
 
-##### 4.1.0 JAVA中的几种基本数据类型是什么，各自占用多少字节。
 
-##### 4.1.1 String类能被继承吗，为什么。
+##### [4.1.0 [map插入方式有几种？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#121map%E6%8F%92%E5%85%A5%E6%96%B9%E5%BC%8F%E6%9C%89%E5%87%A0%E7%A7%8D)
 
-##### 4.1.2 String，Stringbuffer，StringBuilder的区别。
+##### [4.1.1 STL中unordered_map(hash_map)和map的区别，hash_map如何解决冲突以及扩容](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#122stl%E4%B8%ADunordered_maphash_map%E5%92%8Cmap%E7%9A%84%E5%8C%BA%E5%88%ABhash_map%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3%E5%86%B2%E7%AA%81%E4%BB%A5%E5%8F%8A%E6%89%A9%E5%AE%B9)
 
-##### 4.1.3 ArrayList和LinkedList有什么区别。
+##### [4.1.2 vector越界访问下标，map越界访问下标？vector删除元素时会不会释放空间？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#123vector%E8%B6%8A%E7%95%8C%E8%AE%BF%E9%97%AE%E4%B8%8B%E6%A0%87map%E8%B6%8A%E7%95%8C%E8%AE%BF%E9%97%AE%E4%B8%8B%E6%A0%87vector%E5%88%A0%E9%99%A4%E5%85%83%E7%B4%A0%E6%97%B6%E4%BC%9A%E4%B8%8D%E4%BC%9A%E9%87%8A%E6%94%BE%E7%A9%BA%E9%97%B4)
 
-##### 4.1.4 讲讲类的实例化顺序，比如父类静态数据，构造函数，字段，子类静态数据，构造函数，字段，当new的时候，他们的执行顺序。
+##### [4.1.3 map[]与find的区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#124map%E4%B8%8Efind%E7%9A%84%E5%8C%BA%E5%88%AB)
 
-##### 4.1.5 用过哪些Map类，都有什么区别，HashMap是线程安全的吗,并发下使用的Map是什么，他们内部原理分别是什么，比如存储方式，hashcode，扩容，默认容量等。
+##### [4.1.4 STL中list与queue之间的区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#125stl%E4%B8%ADlist%E4%B8%8Equeue%E4%B9%8B%E9%97%B4%E7%9A%84%E5%8C%BA%E5%88%AB)
 
-##### 4.1.6 JAVA8的ConcurrentHashMap为什么放弃了分段锁，有什么问题吗，如果你来设计，你如何设计。
+##### [4.1.5 STL中的allocator,deallocator](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#126stl%E4%B8%AD%E7%9A%84allocatordeallocator)
 
-##### 4.1.7 有没有有顺序的Map实现类，如果有，他们是怎么保证有序的。
+##### [4.1.6 STL中hash_map扩容发生什么？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#127stl%E4%B8%ADhash_map%E6%89%A9%E5%AE%B9%E5%8F%91%E7%94%9F%E4%BB%80%E4%B9%88)
 
-##### 4.1.8 抽象类和接口的区别，类可以继承多个类么，接口可以继承多个接口么,类可以实现多个接口么。
+##### [4.1.7 map如何创建？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#128map%E5%A6%82%E4%BD%95%E5%88%9B%E5%BB%BA)
 
-##### 4.1.9 继承和聚合的区别在哪。
+##### [4.1.8 vector的增加删除都是怎么做的？为什么是1.5倍？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#129vector%E7%9A%84%E5%A2%9E%E5%8A%A0%E5%88%A0%E9%99%A4%E9%83%BD%E6%98%AF%E6%80%8E%E4%B9%88%E5%81%9A%E7%9A%84%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF15%E5%80%8D)
 
-##### 4.2.0 IO模型有哪些，讲讲你理解的nio ，他和bio，aio的区别是啥，谈谈reactor模型。
+##### [4.1.9 函数指针？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#130%E5%87%BD%E6%95%B0%E6%8C%87%E9%92%88)
 
-##### 4.2.1 反射的原理，反射创建类实例的三种方式是什么。
+##### [4.2.0 说说你对c和c++的看法，c和c++的区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#131%E8%AF%B4%E8%AF%B4%E4%BD%A0%E5%AF%B9c%E5%92%8Cc%E7%9A%84%E7%9C%8B%E6%B3%95c%E5%92%8Cc%E7%9A%84%E5%8C%BA%E5%88%AB)
 
-##### 4.2.2 反射中，Class.forName和ClassLoader区别 。
+##### [4.2.1 c/c++的内存分配，详细说一下栈、堆、静态存储区？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#132cc%E7%9A%84%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D%E8%AF%A6%E7%BB%86%E8%AF%B4%E4%B8%80%E4%B8%8B%E6%A0%88%E5%A0%86%E9%9D%99%E6%80%81%E5%AD%98%E5%82%A8%E5%8C%BA)
 
-##### 4.2.3 描述动态代理的几种实现方式，分别说出相应的优缺点。
+##### [4.2.2 堆与栈的区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#133%E5%A0%86%E4%B8%8E%E6%A0%88%E7%9A%84%E5%8C%BA%E5%88%AB)
 
-##### 4.2.4 动态代理与cglib实现的区别。
+##### [4.2.3 野指针是什么？如何检测内存泄漏？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#134%E9%87%8E%E6%8C%87%E9%92%88%E6%98%AF%E4%BB%80%E4%B9%88%E5%A6%82%E4%BD%95%E6%A3%80%E6%B5%8B%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F)
 
-##### 4.2.5 为什么CGlib方式可以对接口实现代理。
+##### [4.2.4 悬空指针和野指针有什么区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#135%E6%82%AC%E7%A9%BA%E6%8C%87%E9%92%88%E5%92%8C%E9%87%8E%E6%8C%87%E9%92%88%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB)
 
-##### 4.2.6 final的用途。
+##### [4.2.5 内存泄漏](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#136%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F)
 
-##### 4.2.7 写出三种单例模式实现 。
+##### [4.2.6 new和malloc的区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#137new%E5%92%8Cmalloc%E7%9A%84%E5%8C%BA%E5%88%AB)
 
-##### 4.2.8 如何在父类中为子类自动完成所有的hashcode和equals实现？这么做有何优劣。
+##### [4.2.7 delete p;与delete[]p，allocator](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#138delete-p%E4%B8%8Edeletepallocator)
+
+##### [4.2.8 new和delete的实现原理， delete是如何知道释放内存的大小的额？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#139new%E5%92%8Cdelete%E7%9A%84%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86-delete%E6%98%AF%E5%A6%82%E4%BD%95%E7%9F%A5%E9%81%93%E9%87%8A%E6%94%BE%E5%86%85%E5%AD%98%E7%9A%84%E5%A4%A7%E5%B0%8F%E7%9A%84%E9%A2%9D)
 
 ##### 4.2.9 请结合OO设计理念，谈谈访问修饰符public、private、protected、default在应用设计中的作用。
 
