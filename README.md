@@ -333,101 +333,99 @@
 
 ##### [4.2.8 new和delete的实现原理， delete是如何知道释放内存的大小的额？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#139new%E5%92%8Cdelete%E7%9A%84%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86-delete%E6%98%AF%E5%A6%82%E4%BD%95%E7%9F%A5%E9%81%93%E9%87%8A%E6%94%BE%E5%86%85%E5%AD%98%E7%9A%84%E5%A4%A7%E5%B0%8F%E7%9A%84%E9%A2%9D)
 
-##### 4.2.9 请结合OO设计理念，谈谈访问修饰符public、private、protected、default在应用设计中的作用。
+##### [4.2.9 malloc申请的存储空间能用delete释放吗](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#140malloc%E7%94%B3%E8%AF%B7%E7%9A%84%E5%AD%98%E5%82%A8%E7%A9%BA%E9%97%B4%E8%83%BD%E7%94%A8delete%E9%87%8A%E6%94%BE%E5%90%97)
 
-##### 4.3.0 深拷贝和浅拷贝区别。
+##### [4.3.0 malloc与free的实现原理？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#141malloc%E4%B8%8Efree%E7%9A%84%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86)
 
-##### 4.3.1 数组和链表数据结构描述，各自的时间复杂度。
+##### [4.3.1 malloc、realloc、calloc的区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#142mallocrealloccalloc%E7%9A%84%E5%8C%BA%E5%88%AB)
 
-##### 4.3.2 error和exception的区别，CheckedException，RuntimeException的区别。
+##### [4.3.2 __stdcall和__cdecl的区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#143__stdcall%E5%92%8C__cdecl%E7%9A%84%E5%8C%BA%E5%88%AB)
 
-##### 4.3.3 请列出5个运行时异常。
+##### [4.3.3 使用智能指针管理内存资源，RAII](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#144%E4%BD%BF%E7%94%A8%E6%99%BA%E8%83%BD%E6%8C%87%E9%92%88%E7%AE%A1%E7%90%86%E5%86%85%E5%AD%98%E8%B5%84%E6%BA%90raii)
 
-##### 4.3.4 在自己的代码中，如果创建一个java.lang.String类，这个类是否可以被类加载器加载？为什么。
+##### [4.3.4 手写实现智能指针类](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#145%E6%89%8B%E5%86%99%E5%AE%9E%E7%8E%B0%E6%99%BA%E8%83%BD%E6%8C%87%E9%92%88%E7%B1%BB)
 
-##### 4.3.5 说一说你对java.lang.Object对象中hashCode和equals方法的理解。在什么场景下需要重新实现这两个方法。
+##### [4.3.5 内存对齐？位域？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#146%E5%86%85%E5%AD%98%E5%AF%B9%E9%BD%90%E4%BD%8D%E5%9F%9F)
 
-##### 4.3.6 在jdk1.5中，引入了泛型，泛型的存在是用来解决什么问题。
+##### [4.3.6 结构体变量比较是否相等](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#147%E7%BB%93%E6%9E%84%E4%BD%93%E5%8F%98%E9%87%8F%E6%AF%94%E8%BE%83%E6%98%AF%E5%90%A6%E7%9B%B8%E7%AD%89)
 
-##### 4.3.7 这样的a.hashcode() 有什么用，与a.equals(b)有什么关系。
+##### [4.3.7 位运算](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#148%E4%BD%8D%E8%BF%90%E7%AE%97)
 
-##### 4.3.8 有没有可能2个不相等的对象有相同的hashcode。
+##### [4.3.8 为什么内存对齐](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#149%E4%B8%BA%E4%BB%80%E4%B9%88%E5%86%85%E5%AD%98%E5%AF%B9%E9%BD%90)
 
-##### 4.3.9 Java中的HashSet内部是如何工作的。
+##### [4.3.9 函数调用过程栈的变化，返回值和参数变量哪个先入栈？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#150%E5%87%BD%E6%95%B0%E8%B0%83%E7%94%A8%E8%BF%87%E7%A8%8B%E6%A0%88%E7%9A%84%E5%8F%98%E5%8C%96%E8%BF%94%E5%9B%9E%E5%80%BC%E5%92%8C%E5%8F%82%E6%95%B0%E5%8F%98%E9%87%8F%E5%93%AA%E4%B8%AA%E5%85%88%E5%85%A5%E6%A0%88)
 
-##### 4.4.0 什么是序列化，怎么序列化，为什么序列化，反序列化会遇到什么问题，如何解决。
+##### [4.4.0 怎样判断两个浮点数是否相等？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#151%E6%80%8E%E6%A0%B7%E5%88%A4%E6%96%AD%E4%B8%A4%E4%B8%AA%E6%B5%AE%E7%82%B9%E6%95%B0%E6%98%AF%E5%90%A6%E7%9B%B8%E7%AD%89)
 
-##### 4.4.1 java8的新特性。
+##### [4.4.1 宏定义一个取两个数中较大值的功能](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#152%E5%AE%8F%E5%AE%9A%E4%B9%89%E4%B8%80%E4%B8%AA%E5%8F%96%E4%B8%A4%E4%B8%AA%E6%95%B0%E4%B8%AD%E8%BE%83%E5%A4%A7%E5%80%BC%E7%9A%84%E5%8A%9F%E8%83%BD)
 
-#### JVM
 
-##### 4.4.2 什么情况下会发生栈内存溢出。
 
-##### 4.4.3 JVM的内存结构，Eden和Survivor比例。
+##### [4.4.2 define、const、typedef、inline使用方法？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#153defineconsttypedefinline%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95)
 
-##### 4.4.4 JVM内存为什么要分成新生代，老年代，持久代。新生代中为什么要分为Eden和Survivor。
+##### [4.4.3 printf实现原理？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#154printf%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86)
 
-##### 4.4.5 JVM中一次完整的GC流程是怎样的，对象如何晋升到老年代，说说你知道的几种主要的JVM参数。
+##### [4.4.4 #include 的顺序以及尖叫括号和双引号的区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#155include-%E7%9A%84%E9%A1%BA%E5%BA%8F%E4%BB%A5%E5%8F%8A%E5%B0%96%E5%8F%AB%E6%8B%AC%E5%8F%B7%E5%92%8C%E5%8F%8C%E5%BC%95%E5%8F%B7%E7%9A%84%E5%8C%BA%E5%88%AB)
 
-##### 4.4.6 你知道哪几种垃圾收集器，各自的优缺点，重点讲下cms和G1，包括原理，流程，优缺点。
+##### [4.4.5 lambda函数](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#156lambda%E5%87%BD%E6%95%B0)
 
-##### 4.4.7 垃圾回收算法的实现原理。
+##### [4.4.6 hello world 程序开始到打印到屏幕上的全过程?](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#157hello-world-%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%A7%8B%E5%88%B0%E6%89%93%E5%8D%B0%E5%88%B0%E5%B1%8F%E5%B9%95%E4%B8%8A%E7%9A%84%E5%85%A8%E8%BF%87%E7%A8%8B)
 
-##### 4.4.8 当出现了内存溢出，你怎么排错。
+##### [4.4.7 模板类和模板函数的区别是什么？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#158%E6%A8%A1%E6%9D%BF%E7%B1%BB%E5%92%8C%E6%A8%A1%E6%9D%BF%E5%87%BD%E6%95%B0%E7%9A%84%E5%8C%BA%E5%88%AB%E6%98%AF%E4%BB%80%E4%B9%88)
 
-##### 4.4.9 JVM内存模型的相关知识了解多少，比如重排序，内存屏障，happen-before，主内存，工作内存等。
+##### [4.4.8 为什么模板类一般都是放在一个h文件中](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#159%E4%B8%BA%E4%BB%80%E4%B9%88%E6%A8%A1%E6%9D%BF%E7%B1%BB%E4%B8%80%E8%88%AC%E9%83%BD%E6%98%AF%E6%94%BE%E5%9C%A8%E4%B8%80%E4%B8%AAh%E6%96%87%E4%BB%B6%E4%B8%AD)
 
-##### 4.5.0 简单说说你了解的类加载器，可以打破双亲委派么，怎么打破。
+##### [4.4.9 C++中类成员的访问权限和继承权限问题。](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#160c%E4%B8%AD%E7%B1%BB%E6%88%90%E5%91%98%E7%9A%84%E8%AE%BF%E9%97%AE%E6%9D%83%E9%99%90%E5%92%8C%E7%BB%A7%E6%89%BF%E6%9D%83%E9%99%90%E9%97%AE%E9%A2%98)
 
-##### 4.5.1 讲讲JAVA的反射机制。
+##### [4.5.0 cout和printf有什么区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#161cout%E5%92%8Cprintf%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB)
 
-##### 4.5.2 你们线上应用的JVM参数有哪些。
+##### [4.5.1 重载运算符？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#162%E9%87%8D%E8%BD%BD%E8%BF%90%E7%AE%97%E7%AC%A6)
 
-##### 4.5.3 g1和cms区别,吞吐量优先和响应优先的垃圾收集器选择。
+##### [4.5.2 函数重载函数匹配原则](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#163%E5%87%BD%E6%95%B0%E9%87%8D%E8%BD%BD%E5%87%BD%E6%95%B0%E5%8C%B9%E9%85%8D%E5%8E%9F%E5%88%99)
 
-##### 4.5.4 怎么打出线程栈信息。
+##### [4.5.3 定义和声明的区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#164%E5%AE%9A%E4%B9%89%E5%92%8C%E5%A3%B0%E6%98%8E%E7%9A%84%E5%8C%BA%E5%88%AB)
 
-#### 开源框架
+##### [4.5.4 C++类型转换有四种](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#165c%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2%E6%9C%89%E5%9B%9B%E7%A7%8D)
 
-##### 4.5.5 简单讲讲tomcat结构，以及其类加载器流程，线程模型等。
 
-##### 4.5.6 tomcat如何调优，涉及哪些参数 。
+##### [4.5.5 全局变量和static变量的区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#166%E5%85%A8%E5%B1%80%E5%8F%98%E9%87%8F%E5%92%8Cstatic%E5%8F%98%E9%87%8F%E7%9A%84%E5%8C%BA%E5%88%AB)
 
-##### 4.5.7 讲讲Spring加载流程。
+##### [4.5.6 静态成员与普通成员的区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#167%E9%9D%99%E6%80%81%E6%88%90%E5%91%98%E4%B8%8E%E6%99%AE%E9%80%9A%E6%88%90%E5%91%98%E7%9A%84%E5%8C%BA%E5%88%AB)
 
-##### 4.5.8 Spring AOP的实现原理。
+##### [4.5.7 说一下理解 ifdef endif](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#168%E8%AF%B4%E4%B8%80%E4%B8%8B%E7%90%86%E8%A7%A3-ifdef-endif)
 
-##### 4.5.9 讲讲Spring事务的传播属性。
+##### [4.5.8 隐式转换，如何消除隐式转换？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#169%E9%9A%90%E5%BC%8F%E8%BD%AC%E6%8D%A2%E5%A6%82%E4%BD%95%E6%B6%88%E9%99%A4%E9%9A%90%E5%BC%8F%E8%BD%AC%E6%8D%A2)
 
-##### 4.6.0 Spring如何管理事务的。
+##### [4.5.9 多继承的优缺点，作为一个开发者怎么看待多继承](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#171%E5%A4%9A%E7%BB%A7%E6%89%BF%E7%9A%84%E4%BC%98%E7%BC%BA%E7%82%B9%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E5%BC%80%E5%8F%91%E8%80%85%E6%80%8E%E4%B9%88%E7%9C%8B%E5%BE%85%E5%A4%9A%E7%BB%A7%E6%89%BF)
 
-##### 4.6.1 Spring怎么配置事务（具体说出一些关键的xml 元素）。
+##### [4.6.0 迭代器++it,it++哪个好，为什么](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#172%E8%BF%AD%E4%BB%A3%E5%99%A8itit%E5%93%AA%E4%B8%AA%E5%A5%BD%E4%B8%BA%E4%BB%80%E4%B9%88)
 
-##### 4.6.2 说说你对Spring的理解，非单例注入的原理？它的生命周期？循环注入的原理，aop的实现原理，说说aop中的几个术语，它们是怎么相互工作的。
+##### [4.6.1 模板和实现可不可以不写在一个文件里面？为什么？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#173%E6%A8%A1%E6%9D%BF%E5%92%8C%E5%AE%9E%E7%8E%B0%E5%8F%AF%E4%B8%8D%E5%8F%AF%E4%BB%A5%E4%B8%8D%E5%86%99%E5%9C%A8%E4%B8%80%E4%B8%AA%E6%96%87%E4%BB%B6%E9%87%8C%E9%9D%A2%E4%B8%BA%E4%BB%80%E4%B9%88)
 
-##### 4.6.3 Springmvc 中DispatcherServlet初始化过程。
+##### [4.6.2 在成员函数中调用delete this会出现什么问题？对象还可以使用吗？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#174%E5%9C%A8%E6%88%90%E5%91%98%E5%87%BD%E6%95%B0%E4%B8%AD%E8%B0%83%E7%94%A8delete-this%E4%BC%9A%E5%87%BA%E7%8E%B0%E4%BB%80%E4%B9%88%E9%97%AE%E9%A2%98%E5%AF%B9%E8%B1%A1%E8%BF%98%E5%8F%AF%E4%BB%A5%E4%BD%BF%E7%94%A8%E5%90%97)
 
-##### 4.6.4 netty的线程模型，netty如何基于reactor模型上实现的。
+##### [4.6.3 智能指针的作用](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#175%E6%99%BA%E8%83%BD%E6%8C%87%E9%92%88%E7%9A%84%E4%BD%9C%E7%94%A8)
 
-##### 4.6.5 为什么选择netty。
+##### [4.6.4 auto_ptr作用](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#176auto_ptr%E4%BD%9C%E7%94%A8)
 
-##### 4.6.6 什么是TCP粘包，拆包。解决方式是什么。
+##### [4.6.5 class、union、struct的区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#177classunionstruct%E7%9A%84%E5%8C%BA%E5%88%AB)
 
-##### 4.6.7 netty的fashwheeltimer的用法，实现原理，是否出现过调用不够准时，怎么解决。
+##### [4.6.6 动态联编与静态联编](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#178%E5%8A%A8%E6%80%81%E8%81%94%E7%BC%96%E4%B8%8E%E9%9D%99%E6%80%81%E8%81%94%E7%BC%96)
 
-##### 4.6.8 netty的心跳处理在弱网下怎么办。
+##### [4.6.7 动态编译与静态编译](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#179%E5%8A%A8%E6%80%81%E7%BC%96%E8%AF%91%E4%B8%8E%E9%9D%99%E6%80%81%E7%BC%96%E8%AF%91)
 
-##### 4.6.9 netty的通讯协议是什么样的。
+##### [4.6.8 动态链接和静态链接区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#180%E5%8A%A8%E6%80%81%E9%93%BE%E6%8E%A5%E5%92%8C%E9%9D%99%E6%80%81%E9%93%BE%E6%8E%A5%E5%8C%BA%E5%88%AB)
 
-##### 4.7.0 springmvc用到的注解，作用是什么，原理。
+##### [4.6.9 在不使用额外空间的情况下，交换两个数？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#181%E5%9C%A8%E4%B8%8D%E4%BD%BF%E7%94%A8%E9%A2%9D%E5%A4%96%E7%A9%BA%E9%97%B4%E7%9A%84%E6%83%85%E5%86%B5%E4%B8%8B%E4%BA%A4%E6%8D%A2%E4%B8%A4%E4%B8%AA%E6%95%B0)
 
-##### 4.7.1 springboot启动机制。
+##### [4.7.0 strcpy和memcpy的区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#182strcpy%E5%92%8Cmemcpy%E7%9A%84%E5%8C%BA%E5%88%AB)
 
-#### 操作系统
+##### [4.7.1 执行int main(int argc, char *argv[])时的内存结构](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#183%E6%89%A7%E8%A1%8Cint-mainint-argc-char-argv%E6%97%B6%E7%9A%84%E5%86%85%E5%AD%98%E7%BB%93%E6%9E%84)
 
-##### 4.7.2 Linux系统下你关注过哪些内核参数，说说你知道的。
 
-##### 4.7.3 Linux下IO模型有几种，各自的含义是什么。
+##### [4.7.2 volatile关键字的作用？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#184volatile%E5%85%B3%E9%94%AE%E5%AD%97%E7%9A%84%E4%BD%9C%E7%94%A8)
+
+##### [4.7.3 讲讲大端小端，如何检测（三种方法）](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#185%E8%AE%B2%E8%AE%B2%E5%A4%A7%E7%AB%AF%E5%B0%8F%E7%AB%AF%E5%A6%82%E4%BD%95%E6%A3%80%E6%B5%8B%E4%B8%89%E7%A7%8D%E6%96%B9%E6%B3%95)
 
 ##### 4.7.4 epoll和poll有什么区别。
 
