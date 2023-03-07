@@ -1059,6 +1059,94 @@
 
 ##### [14.1.7 什么是黑盒测试和白盒测试？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#399%E4%BB%80%E4%B9%88%E6%98%AF%E9%BB%91%E7%9B%92%E6%B5%8B%E8%AF%95%E5%92%8C%E7%99%BD%E7%9B%92%E6%B5%8B%E8%AF%95)
 
+##### [14.1.8 你知道的类模版有哪些](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#400%E4%BD%A0%E7%9F%A5%E9%81%93%E7%9A%84%E7%B1%BB%E6%A8%A1%E7%89%88%E6%9C%89%E5%93%AA%E4%BA%9B)
+
+##### [14.1.9 new可以搭配free吗，为什么？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#401new%E5%8F%AF%E4%BB%A5%E6%90%AD%E9%85%8Dfree%E5%90%97%E4%B8%BA%E4%BB%80%E4%B9%88)
+
+##### [14.2.1 怎么查看内存泄漏](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#402%E6%80%8E%E4%B9%88%E6%9F%A5%E7%9C%8B%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F)
+
+##### [14.2.2 什么是内存溢出](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#403%E4%BB%80%E4%B9%88%E6%98%AF%E5%86%85%E5%AD%98%E6%BA%A2%E5%87%BA0
+
+##### [14.2.3 内存溢出的解决方案](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#404%E5%86%85%E5%AD%98%E6%BA%A2%E5%87%BA%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%880
+
+##### [14.2.4 函数指针与指针函数分别是什么](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#405%E5%87%BD%E6%95%B0%E6%8C%87%E9%92%88%E4%B8%8E%E6%8C%87%E9%92%88%E5%87%BD%E6%95%B0%E5%88%86%E5%88%AB%E6%98%AF%E4%BB%80%E4%B9%88)
+
+##### [14.2.5 C++11新特性了解吗](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#406c11%E6%96%B0%E7%89%B9%E6%80%A7%E4%BA%86%E8%A7%A3%E5%90%97)
+
+##### [14.2.6 接口和抽象类的区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#407%E6%8E%A5%E5%8F%A3%E5%92%8C%E6%8A%BD%E8%B1%A1%E7%B1%BB%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+##### [14.2.7 预编译在做些什么事情？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#408%E9%A2%84%E7%BC%96%E8%AF%91%E5%9C%A8%E5%81%9A%E4%BA%9B%E4%BB%80%E4%B9%88%E4%BA%8B%E6%83%85)
+
+##### [14.2.8 动态库和静态库？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#410%E5%8A%A8%E6%80%81%E5%BA%93%E5%92%8C%E9%9D%99%E6%80%81%E5%BA%93)
+
+##### [14.2.9 堆和栈的区别，以及为什么栈效率高](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#411%E5%A0%86%E5%92%8C%E6%A0%88%E7%9A%84%E5%8C%BA%E5%88%AB%E4%BB%A5%E5%8F%8A%E4%B8%BA%E4%BB%80%E4%B9%88%E6%A0%88%E6%95%88%E7%8E%87%E9%AB%98)
+
+##### [14.3.1 函数参数压栈方式为什么是从右到左的？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#412%E5%87%BD%E6%95%B0%E5%8F%82%E6%95%B0%E5%8E%8B%E6%A0%88%E6%96%B9%E5%BC%8F%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E4%BB%8E%E5%8F%B3%E5%88%B0%E5%B7%A6%E7%9A%84)
+
+##### [14.3.2 C++中的智能指针](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#413c%E4%B8%AD%E7%9A%84%E6%99%BA%E8%83%BD%E6%8C%87%E9%92%88)
+
+##### [14.3.3 基类里private成员函数可以声明为虚函数吗？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#414%E5%9F%BA%E7%B1%BB%E9%87%8Cprivate%E6%88%90%E5%91%98%E5%87%BD%E6%95%B0%E5%8F%AF%E4%BB%A5%E5%A3%B0%E6%98%8E%E4%B8%BA%E8%99%9A%E5%87%BD%E6%95%B0%E5%90%97)
+
+##### [14.3.4 函数A调用函数B的时候，有什么需要压栈？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#415%E5%87%BD%E6%95%B0a%E8%B0%83%E7%94%A8%E5%87%BD%E6%95%B0b%E7%9A%84%E6%97%B6%E5%80%99%E6%9C%89%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81%E5%8E%8B%E6%A0%88)
+
+##### [14.3.5 数组和指针区别？数组和链表呢？双向链表和单向链表？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#416%E6%95%B0%E7%BB%84%E5%92%8C%E6%8C%87%E9%92%88%E5%8C%BA%E5%88%AB%E6%95%B0%E7%BB%84%E5%92%8C%E9%93%BE%E8%A1%A8%E5%91%A2%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8%E5%92%8C%E5%8D%95%E5%90%91%E9%93%BE%E8%A1%A8)
+
+##### [14.3.6 vector底层实现？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#417vector%E5%BA%95%E5%B1%82%E5%AE%9E%E7%8E%B0)
+
+##### [14.3.7 vector与list的区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#418vector%E4%B8%8Elist%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+##### [14.3.8 变量的声明和定义有什么区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#419%E5%8F%98%E9%87%8F%E7%9A%84%E5%A3%B0%E6%98%8E%E5%92%8C%E5%AE%9A%E4%B9%89%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB)
+
+##### [14.3.9 简述#ifdef、#else、#endif和#ifndef的作用](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#420%E7%AE%80%E8%BF%B0ifdefelseendif%E5%92%8Cifndef%E7%9A%84%E4%BD%9C%E7%94%A8)
+
+##### [14.4.1 写出int、bool、float、指针变量与“零值”比较的if语句](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#421%E5%86%99%E5%87%BAintboolfloat%E6%8C%87%E9%92%88%E5%8F%98%E9%87%8F%E4%B8%8E%E9%9B%B6%E5%80%BC%E6%AF%94%E8%BE%83%E7%9A%84if%E8%AF%AD%E5%8F%A5)
+
+##### [14.4.2 结构体可以直接赋值吗？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#422%E7%BB%93%E6%9E%84%E4%BD%93%E5%8F%AF%E4%BB%A5%E7%9B%B4%E6%8E%A5%E8%B5%8B%E5%80%BC%E5%90%97)
+
+##### [14.4.3 sizeof和strlen的区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#423sizeof%E5%92%8Cstrlen%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+##### [14.4.4 c语言的关键字static和c++关键字static有什么区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#424c%E8%AF%AD%E8%A8%80%E7%9A%84%E5%85%B3%E9%94%AE%E5%AD%97static%E5%92%8Cc%E5%85%B3%E9%94%AE%E5%AD%97static%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB)
+
+##### [14.4.5 c语言的malloc和c++中的new有什么区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#425c%E8%AF%AD%E8%A8%80%E7%9A%84malloc%E5%92%8Cc%E4%B8%AD%E7%9A%84new%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB)
+
+##### [14.4.6 写一个”标准“宏MIN](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#426%E5%86%99%E4%B8%80%E4%B8%AA%E6%A0%87%E5%87%86%E5%AE%8Fmin)
+
+##### [14.4.7 ++i和i++的区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#427i%E5%92%8Ci%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+##### [14.4.8 volatile有什么作用](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#428volatile%E6%9C%89%E4%BB%80%E4%B9%88%E4%BD%9C%E7%94%A8)
+
+##### [14.4.9 一个参数可以既是const又是volatile吗](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#429%E4%B8%80%E4%B8%AA%E5%8F%82%E6%95%B0%E5%8F%AF%E4%BB%A5%E6%97%A2%E6%98%AFconst%E5%8F%88%E6%98%AFvolatile%E5%90%97)
+
+##### [14.5.1 a和&a有什么区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#430a%E5%92%8Ca%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB)
+
+##### [14.5.2 用c编写一个死循环程序](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#431%E7%94%A8c%E7%BC%96%E5%86%99%E4%B8%80%E4%B8%AA%E6%AD%BB%E5%BE%AA%E7%8E%AF%E7%A8%8B%E5%BA%8F)
+
+##### [14.5.3 结构体内存对齐的问题](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#432%E7%BB%93%E6%9E%84%E4%BD%93%E5%86%85%E5%AD%98%E5%AF%B9%E9%BD%90%E7%9A%84%E9%97%AE%E9%A2%98)
+
+##### [14.5.4 全局变量和局部变量有什么区别？是怎么是实现的？操作系统和编译器是怎么知道的？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#433%E5%85%A8%E5%B1%80%E5%8F%98%E9%87%8F%E5%92%8C%E5%B1%80%E9%83%A8%E5%8F%98%E9%87%8F%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB%E6%98%AF%E6%80%8E%E4%B9%88%E6%98%AF%E5%AE%9E%E7%8E%B0%E7%9A%84%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%92%8C%E7%BC%96%E8%AF%91%E5%99%A8%E6%98%AF%E6%80%8E%E4%B9%88%E7%9F%A5%E9%81%93%E7%9A%84)
+
+##### [14.5.5 简述c、c++程序编译的内存分配情况](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#434%E7%AE%80%E8%BF%B0cc%E7%A8%8B%E5%BA%8F%E7%BC%96%E8%AF%91%E7%9A%84%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D%E6%83%85%E5%86%B5)
+
+##### [14.5.6 简述strcpy、sprintf、memcpy的区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#435%E7%AE%80%E8%BF%B0strcpysprintfmemcpy%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+##### [14.5.7 解析（(void()())0)()的含义](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#436%E8%A7%A3%E6%9E%90void0%E7%9A%84%E5%90%AB%E4%B9%89)
+
+##### [14.5.8 c语言的指针和引用和c++的有什么区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#437c%E8%AF%AD%E8%A8%80%E7%9A%84%E6%8C%87%E9%92%88%E5%92%8C%E5%BC%95%E7%94%A8%E5%92%8Cc%E7%9A%84%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB)
+
+##### [14.5.9 new与malloc的区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#438new%E4%B8%8Emalloc%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+##### [14.6.1 malloc/free 为什么还要 new/delete？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#439mallocfree-%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%98%E8%A6%81-newdelete)
+
+##### [14.6.2 delete与 delete []区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#440delete%E4%B8%8E-delete-%E5%8C%BA%E5%88%AB)
+
+##### [14.6.3 在物理内存为1G的计算机中能否malloc(1.2G)？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#441%E5%9C%A8%E7%89%A9%E7%90%86%E5%86%85%E5%AD%98%E4%B8%BA1g%E7%9A%84%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%AD%E8%83%BD%E5%90%A6malloc12g)
+
+##### [14.6.4 用C写个程序，如何判断一个操作系统是16位还是32位的？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#442%E7%94%A8c%E5%86%99%E4%B8%AA%E7%A8%8B%E5%BA%8F%E5%A6%82%E4%BD%95%E5%88%A4%E6%96%AD%E4%B8%80%E4%B8%AA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%98%AF16%E4%BD%8D%E8%BF%98%E6%98%AF32%E4%BD%8D%E7%9A%84)
+
+##### [14.6.5 解释下位域，为什么要用位域，位域的好处？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#443%E8%A7%A3%E9%87%8A%E4%B8%8B%E4%BD%8D%E5%9F%9F%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%94%A8%E4%BD%8D%E5%9F%9F%E4%BD%8D%E5%9F%9F%E7%9A%84%E5%A5%BD%E5%A4%84)
+
+##### [14.6.6 位操作](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#444%E4%BD%8D%E6%93%8D%E4%BD%9C)
+
 <br/>
 <br/>
 
