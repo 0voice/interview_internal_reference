@@ -676,7 +676,7 @@
 
 ##### [8.2.1 什么是继承？什么是多态？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#303-%E4%BB%80%E4%B9%88%E6%98%AF%E7%BB%A7%E6%89%BF%E4%BB%80%E4%B9%88%E6%98%AF%E5%A4%9A%E6%80%81)
 
-##### 8.2.2 SCTP协议是什么？如何使用 SCTP 优化网络？
+##### [8.2.2 虚函数与纯虚函数的区别？含有纯虚函数的类叫什么？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#306-%E8%99%9A%E5%87%BD%E6%95%B0%E4%B8%8E%E7%BA%AF%E8%99%9A%E5%87%BD%E6%95%B0%E7%9A%84%E5%8C%BA%E5%88%AB%E5%90%AB%E6%9C%89%E7%BA%AF%E8%99%9A%E5%87%BD%E6%95%B0%E7%9A%84%E7%B1%BB%E5%8F%AB%E4%BB%80%E4%B9%88)
 
 <br>
 
