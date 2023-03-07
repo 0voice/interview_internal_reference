@@ -927,9 +927,9 @@
 
 ---
 
-#### 加入学习交流Q群【[762073882](https://jq.qq.com/?_wv=1027&k=sEIbk6yO)】，获取本repo最全PDF学习文档！
+#### 加入学习交流Q群【[762073882](https://jq.qq.com/?_wv=1027&k=sEIbk6yO)】，获取本repo最全PDF学习文档！群内不定期发放现金红包福利！欢迎大家的加入！！
 
-#### 【每晚八点】c/c++Linux服务器开发学习直播技术分享地址：https://ke.qq.com/course/417774?flowToken=1024646
+#### 【每晚八点】[C/C++，Linux，Nginx，ZeroMQ，MySQL，Redis，fastdfs，MongoDB，ZK，流媒体，CDN，P2P，K8S，Docker，TCP/IP，协程，DPDK等等多个知识点高级技术分享.](https://ke.qq.com/course/417774?flowToken=1024646)
 
 
 ## 鸣谢
