@@ -427,21 +427,21 @@
 
 ##### [4.7.3 讲讲大端小端，如何检测（三种方法）](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#185%E8%AE%B2%E8%AE%B2%E5%A4%A7%E7%AB%AF%E5%B0%8F%E7%AB%AF%E5%A6%82%E4%BD%95%E6%A3%80%E6%B5%8B%E4%B8%89%E7%A7%8D%E6%96%B9%E6%B3%95)
 
-##### 4.7.4 epoll和poll有什么区别。
+##### [4.7.4 查看内存的方法](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#186%E6%9F%A5%E7%9C%8B%E5%86%85%E5%AD%98%E7%9A%84%E6%96%B9%E6%B3%95)
 
-##### 4.7.5 平时用到哪些Linux命令。
+##### [4.7.5 空类会默认添加哪些东西？怎么写？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#187%E7%A9%BA%E7%B1%BB%E4%BC%9A%E9%BB%98%E8%AE%A4%E6%B7%BB%E5%8A%A0%E5%93%AA%E4%BA%9B%E4%B8%9C%E8%A5%BF%E6%80%8E%E4%B9%88%E5%86%99)
 
-##### 4.7.6 用一行命令查看文件的最后五行。
+##### [4.7.6 标准库是什么？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#188%E6%A0%87%E5%87%86%E5%BA%93%E6%98%AF%E4%BB%80%E4%B9%88)
 
-##### 4.7.7 用一行命令输出正在运行的java进程。
+##### [4.7.7 new、delete、operator new、operator delete、placement new、placement delete](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#189newdeleteoperator-newoperator-deleteplacement-newplacement-delete)
 
-##### 4.7.8 介绍下你理解的操作系统中线程切换过程。
+##### [4.7.8 为什么拷贝构造函数必须传引用不能传值？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#190%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8B%B7%E8%B4%9D%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0%E5%BF%85%E9%A1%BB%E4%BC%A0%E5%BC%95%E7%94%A8%E4%B8%8D%E8%83%BD%E4%BC%A0%E5%80%BC)
 
-##### 4.7.9 进程和线程的区别。
+##### [4.7.9 空类的大小是多少？为什么？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#191%E7%A9%BA%E7%B1%BB%E7%9A%84%E5%A4%A7%E5%B0%8F%E6%98%AF%E5%A4%9A%E5%B0%91%E4%B8%BA%E4%BB%80%E4%B9%88)
 
-##### 4.8.0 top 命令之后有哪些内容，有什么作用。
+##### [4.8.0 你什么情况用指针当参数，什么时候用引用，为什么？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#192%E4%BD%A0%E4%BB%80%E4%B9%88%E6%83%85%E5%86%B5%E7%94%A8%E6%8C%87%E9%92%88%E5%BD%93%E5%8F%82%E6%95%B0%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E7%94%A8%E5%BC%95%E7%94%A8%E4%B8%BA%E4%BB%80%E4%B9%88)
 
-##### 4.8.1 线上CPU爆高，请问你如何找到问题所在。
+##### [4.8.1 大内存申请时候选用哪种？C++变量存在哪？变量的大小存在哪？符号表存在哪？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#193%E5%A4%A7%E5%86%85%E5%AD%98%E7%94%B3%E8%AF%B7%E6%97%B6%E5%80%99%E9%80%89%E7%94%A8%E5%93%AA%E7%A7%8Dc%E5%8F%98%E9%87%8F%E5%AD%98%E5%9C%A8%E5%93%AA%E5%8F%98%E9%87%8F%E7%9A%84%E5%A4%A7%E5%B0%8F%E5%AD%98%E5%9C%A8%E5%93%AA%E7%AC%A6%E5%8F%B7%E8%A1%A8%E5%AD%98%E5%9C%A8%E5%93%AA)
 
 <br>
 
@@ -449,85 +449,85 @@
 
 ---
 
-##### 5.1.0 java虚拟机内存模型
+##### [5.1.0 为什么会有大端小端，htol这一类函数的作用](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#194%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E6%9C%89%E5%A4%A7%E7%AB%AF%E5%B0%8F%E7%AB%AFhtol%E8%BF%99%E4%B8%80%E7%B1%BB%E5%87%BD%E6%95%B0%E7%9A%84%E4%BD%9C%E7%94%A8)
 
-##### 5.1.1 内存溢出一般发生在哪个区？永久代会不会导致内存溢出？
+##### [5.1.1 静态函数能定义为虚函数吗？常函数?](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#195%E9%9D%99%E6%80%81%E5%87%BD%E6%95%B0%E8%83%BD%E5%AE%9A%E4%B9%89%E4%B8%BA%E8%99%9A%E5%87%BD%E6%95%B0%E5%90%97%E5%B8%B8%E5%87%BD%E6%95%B0)
 
-##### 5.1.2 动态加载类的框架了解哪些？
+##### [5.1.2 this指针调用成员变量时，堆栈会发生什么变化？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#196this%E6%8C%87%E9%92%88%E8%B0%83%E7%94%A8%E6%88%90%E5%91%98%E5%8F%98%E9%87%8F%E6%97%B6%E5%A0%86%E6%A0%88%E4%BC%9A%E5%8F%91%E7%94%9F%E4%BB%80%E4%B9%88%E5%8F%98%E5%8C%96)
 
-##### 5.1.3 动态代理一般有哪几种实现方式？动态代理的应用场景有哪些？
+##### [5.1.3 静态绑定和动态绑定的介绍](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#197%E9%9D%99%E6%80%81%E7%BB%91%E5%AE%9A%E5%92%8C%E5%8A%A8%E6%80%81%E7%BB%91%E5%AE%9A%E7%9A%84%E4%BB%8B%E7%BB%8D)
 
-##### 5.1.4 栈会不会溢出？栈溢出一般抛什么异常？jvm在哪里设置栈的大小？设置的参数是什么？
+##### [5.1.4 设计一个类计算子类的个数](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#198%E8%AE%BE%E8%AE%A1%E4%B8%80%E4%B8%AA%E7%B1%BB%E8%AE%A1%E7%AE%97%E5%AD%90%E7%B1%BB%E7%9A%84%E4%B8%AA%E6%95%B0)
 
-##### 5.1.5 用过哪些命令查看jvm的状态、堆栈信息？
+##### [5.1.5 怎么快速定位错误出现的地方](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#199%E6%80%8E%E4%B9%88%E5%BF%AB%E9%80%9F%E5%AE%9A%E4%BD%8D%E9%94%99%E8%AF%AF%E5%87%BA%E7%8E%B0%E7%9A%84%E5%9C%B0%E6%96%B9)
 
-##### 5.1.6 jvm的垃圾回收机制？
+##### [5.1.6 虚函数的代价？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#200%E8%99%9A%E5%87%BD%E6%95%B0%E7%9A%84%E4%BB%A3%E4%BB%B7)
 
-##### 5.1.7 java类加载机制？如何实现自定义类加载器？findClass与loadClass的区别？
+##### [5.1.7 类对象的大小](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#201%E7%B1%BB%E5%AF%B9%E8%B1%A1%E7%9A%84%E5%A4%A7%E5%B0%8F)
 
-##### 5.1.8 String、StringBuffer、StringBuilder的区别？对应的使用场景？
+##### [5.1.8 移动构造函数](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#202%E7%A7%BB%E5%8A%A8%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0)
 
-##### 5.1.9 如何实现不可变的类？
+##### [5.1.9 何时需要合成构造函数](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#203%E4%BD%95%E6%97%B6%E9%9C%80%E8%A6%81%E5%90%88%E6%88%90%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0)
 
-##### 5.2.0 浅复制和深复制？怎样实现深复制？
+##### [5.2.0 何时需要合成复制构造函数](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#204%E4%BD%95%E6%97%B6%E9%9C%80%E8%A6%81%E5%90%88%E6%88%90%E5%A4%8D%E5%88%B6%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0)
 
-##### 5.2.1 HashMap、HashTable、ConcurrentHashMap的区别？
+##### [5.2.1 何时需要成员初始化列表？过程是什么？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#205%E4%BD%95%E6%97%B6%E9%9C%80%E8%A6%81%E6%88%90%E5%91%98%E5%88%9D%E5%A7%8B%E5%8C%96%E5%88%97%E8%A1%A8%E8%BF%87%E7%A8%8B%E6%98%AF%E4%BB%80%E4%B9%88)
 
-##### 5.2.2 CAS是一种什么样的同步机制？
+##### [5.2.2 程序员定义的析构函数被扩展的过程？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#206%E7%A8%8B%E5%BA%8F%E5%91%98%E5%AE%9A%E4%B9%89%E7%9A%84%E6%9E%90%E6%9E%84%E5%87%BD%E6%95%B0%E8%A2%AB%E6%89%A9%E5%B1%95%E7%9A%84%E8%BF%87%E7%A8%8B)
 
-##### 5.2.3 NIO的原理，包括哪几个组件？
+##### [5.2.3 构造函数的执行算法？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#207%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0%E7%9A%84%E6%89%A7%E8%A1%8C%E7%AE%97%E6%B3%95)
 
-##### 5.2.4 简单介绍一下java的反射机制？反射在哪些地方有应用场景？
+##### [5.2.4 构造函数的扩展过程？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#208%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0%E7%9A%84%E6%89%A9%E5%B1%95%E8%BF%87%E7%A8%8B)
 
-##### 5.2.5 spring加载bean的流程？
+##### [5.2.5 哪些函数不能是虚函数](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#209%E5%93%AA%E4%BA%9B%E5%87%BD%E6%95%B0%E4%B8%8D%E8%83%BD%E6%98%AF%E8%99%9A%E5%87%BD%E6%95%B0)
 
-##### 5.2.6 java线程池？线程池构造函数的几个参数含义？keepAliveTime解释一下？
+##### [5.2.6 sizeof 和strlen 的区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#210sizeof-%E5%92%8Cstrlen-%E7%9A%84%E5%8C%BA%E5%88%AB)
 
-##### 5.2.7 一个接口，要去调用另外5个接口，每一个接口都会返回数据给这个调用接口，调用接口要对数据进行合并并返回给上层。这样一种场景可能用到并发包下的哪些类？你会怎么去实现这样的业务场景？
+##### [5.2.7 简述strcpy、sprintf与memcpy的区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#211%E7%AE%80%E8%BF%B0strcpysprintf%E4%B8%8Ememcpy%E7%9A%84%E5%8C%BA%E5%88%AB)
 
-##### 5.2.8 CountDownLatch和CyclicBarrier的区别？
+##### [5.2.8 编码实现某一变量某位清0或置1](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#212%E7%BC%96%E7%A0%81%E5%AE%9E%E7%8E%B0%E6%9F%90%E4%B8%80%E5%8F%98%E9%87%8F%E6%9F%90%E4%BD%8D%E6%B8%850%E6%88%96%E7%BD%AE1)
 
-##### 5.2.9 线程加锁有哪些方式？synchronized和lock的区别？
+##### [5.2.9 将“引用”作为函数参数有哪些特点？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#213%E5%B0%86%E5%BC%95%E7%94%A8%E4%BD%9C%E4%B8%BA%E5%87%BD%E6%95%B0%E5%8F%82%E6%95%B0%E6%9C%89%E5%93%AA%E4%BA%9B%E7%89%B9%E7%82%B9)
 
-##### 5.3.0 volatile关键字的作用？为什么使用AtomicLong而不使用Long?AtomicLong的底层是怎么实现的？
+##### [5.3.0 分别写出BOOL,int,float,指针类型的变量a 与“零”的比较语句。](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#214%E5%88%86%E5%88%AB%E5%86%99%E5%87%BAboolintfloat%E6%8C%87%E9%92%88%E7%B1%BB%E5%9E%8B%E7%9A%84%E5%8F%98%E9%87%8Fa-%E4%B8%8E%E9%9B%B6%E7%9A%84%E6%AF%94%E8%BE%83%E8%AF%AD%E5%8F%A5)
 
-##### 5.3.1 mysql的存储引擎有哪几种？
+##### [5.3.1 局部变量全局变量的问题？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#215%E5%B1%80%E9%83%A8%E5%8F%98%E9%87%8F%E5%85%A8%E5%B1%80%E5%8F%98%E9%87%8F%E7%9A%84%E9%97%AE%E9%A2%98)
 
-##### 5.3.2 sql优化有哪些着手点？组合索引的最左前缀原则的含义？
+##### [5.3.2 数组和指针的区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#216%E6%95%B0%E7%BB%84%E5%92%8C%E6%8C%87%E9%92%88%E7%9A%84%E5%8C%BA%E5%88%AB)
 
-##### 5.3.3 springmvc处理请求的流程？
+##### [5.3.3 C++如何阻止一个类被实例化？一般在什么时候将构造函数声明为private？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#217c%E5%A6%82%E4%BD%95%E9%98%BB%E6%AD%A2%E4%B8%80%E4%B8%AA%E7%B1%BB%E8%A2%AB%E5%AE%9E%E4%BE%8B%E5%8C%96%E4%B8%80%E8%88%AC%E5%9C%A8%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%B0%86%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0%E5%A3%B0%E6%98%8E%E4%B8%BAprivate)
 
-##### 5.3.4 spring的事务怎么使用？事务回滚？自定义异常？
+##### [5.3.4 如何禁止自动生成拷贝构造函数？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#218%E5%A6%82%E4%BD%95%E7%A6%81%E6%AD%A2%E8%87%AA%E5%8A%A8%E7%94%9F%E6%88%90%E6%8B%B7%E8%B4%9D%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0)
 
-##### 5.3.5 脏读？幻读？
+##### [5.3.5 assert与NDEBUGE](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#219assert%E4%B8%8Endebuge)
 
-##### 5.3.6 tcp四次挥手的过程？TIME_WAIT为什么至少设置两倍的MSL时间？
+##### [5.3.6 Denug和release的区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#220denug%E5%92%8Crelease%E7%9A%84%E5%8C%BA%E5%88%AB)
 
-##### 5.3.7 get和post请求的区别？
+##### [5.3.7 main函数有没有返回值](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#221main%E5%87%BD%E6%95%B0%E6%9C%89%E6%B2%A1%E6%9C%89%E8%BF%94%E5%9B%9E%E5%80%BC)
 
-##### 5.3.8 cookie和session的请求？
+##### [5.3.8 写一个比较大小的模板函数](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#222%E5%86%99%E4%B8%80%E4%B8%AA%E6%AF%94%E8%BE%83%E5%A4%A7%E5%B0%8F%E7%9A%84%E6%A8%A1%E6%9D%BF%E5%87%BD%E6%95%B0)
 
-##### 5.3.9 了解哪些开源的中间件？缓存？消息？分布式框架？
+##### [5.3.9 c++怎么实现一个函数先于main函数运行](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#223c%E6%80%8E%E4%B9%88%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E5%87%BD%E6%95%B0%E5%85%88%E4%BA%8Emain%E5%87%BD%E6%95%B0%E8%BF%90%E8%A1%8C)
 
-##### 5.4.0 用到过哪些设计模式？单例模式的实现？
+##### [5.4.0 虚函数与纯虚函数的区别在于](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#224%E8%99%9A%E5%87%BD%E6%95%B0%E4%B8%8E%E7%BA%AF%E8%99%9A%E5%87%BD%E6%95%B0%E7%9A%84%E5%8C%BA%E5%88%AB%E5%9C%A8%E4%BA%8E)
 
-##### 5.4.1 数据库的事务实现原理、操作过程、如何做到事物之间的独立性等问题
+##### [5.4.1 智能指针怎么用？智能指针出现循环引用怎么解决？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#225%E6%99%BA%E8%83%BD%E6%8C%87%E9%92%88%E6%80%8E%E4%B9%88%E7%94%A8%E6%99%BA%E8%83%BD%E6%8C%87%E9%92%88%E5%87%BA%E7%8E%B0%E5%BE%AA%E7%8E%AF%E5%BC%95%E7%94%A8%E6%80%8E%E4%B9%88%E8%A7%A3%E5%86%B3)
 
-##### 5.4.2 数据库的脏读，幻读，不可重复读出现的原因原理，解决办法
+##### [5.4.2 strcpy函数和strncpy函数的区别？哪个函数更安全？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#226strcpy%E5%87%BD%E6%95%B0%E5%92%8Cstrncpy%E5%87%BD%E6%95%B0%E7%9A%84%E5%8C%BA%E5%88%AB%E5%93%AA%E4%B8%AA%E5%87%BD%E6%95%B0%E6%9B%B4%E5%AE%89%E5%85%A8)
 
-##### 5.4.3 数据库的隔离级别、MVCC
+##### [5.4.3 为什么要用static_cast转换而不用c语言中的转换？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#227%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%94%A8static_cast%E8%BD%AC%E6%8D%A2%E8%80%8C%E4%B8%8D%E7%94%A8c%E8%AF%AD%E8%A8%80%E4%B8%AD%E7%9A%84%E8%BD%AC%E6%8D%A2)
 
-##### 5.4.4 乐观锁、悲观锁、互斥锁、读写锁的原理实现与区别
+##### [5.4.4 成员函数里memset(this,0,sizeof(*this))会发生什么](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#228%E6%88%90%E5%91%98%E5%87%BD%E6%95%B0%E9%87%8Cmemsetthis0sizeofthis%E4%BC%9A%E5%8F%91%E7%94%9F%E4%BB%80%E4%B9%88)
 
-##### 5.4.5 线程的生命周期
+##### [5.4.5 方法调用的原理（栈，汇编）](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#229%E6%96%B9%E6%B3%95%E8%B0%83%E7%94%A8%E7%9A%84%E5%8E%9F%E7%90%86%E6%A0%88%E6%B1%87%E7%BC%96)
 
-##### 5.4.6 一致性hash算法原理与应用
+##### [5.4.6 回调函数的作用](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#231%E5%9B%9E%E8%B0%83%E5%87%BD%E6%95%B0%E7%9A%84%E4%BD%9C%E7%94%A8)
 
-##### 5.4.7 CAP原则
+##### [随机数的生成](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#232%E9%9A%8F%E6%9C%BA%E6%95%B0%E7%9A%84%E7%94%9F%E6%88%90)
 
-##### 5.4.8 CAS操作
+##### [5.4.8 变量的声明和定义有什么区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#233%E5%8F%98%E9%87%8F%E7%9A%84%E5%A3%B0%E6%98%8E%E5%92%8C%E5%AE%9A%E4%B9%89%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB)
 
-##### 5.4.9 分布式raft算法
+##### [5.4.9 请简述#ifdef、#else、#endif、和#ifndef的作用是？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#234%E8%AF%B7%E7%AE%80%E8%BF%B0ifdefelseendif%E5%92%8Cifndef%E7%9A%84%E4%BD%9C%E7%94%A8%E6%98%AF)
 
 <br>
 
@@ -535,7 +535,7 @@
 
 ---
 
-##### 6.1.0 5个人去一个海岛寻宝，最后一共找到了100枚金币。他们约定了一个分配方案。
+##### [6.1.0 请写出int、bool、float、指针变量与"零值"比较的if语句？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#235%E8%AF%B7%E5%86%99%E5%87%BAintboolfloat%E6%8C%87%E9%92%88%E5%8F%98%E9%87%8F%E4%B8%8E%E9%9B%B6%E5%80%BC%E6%AF%94%E8%BE%83%E7%9A%84if%E8%AF%AD%E5%8F%A5)
 
 ##### 6.1.1 给你一个有序整数数组，数组中的数可以是正数、负数、零，请实现一个函数，这个函数返回一个整数：返回这个数组所有数的平方值中有多少种不同的取值。
 
