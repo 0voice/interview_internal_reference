@@ -40,7 +40,7 @@
 
 ##### [1.1.7 MySQL的数据如何恢复到任意时间点？](01.阿里篇/1.1.7%20MySQL%E7%9A%84%E6%95%B0%E6%8D%AE%E5%A6%82%E4%BD%95%E6%81%A2%E5%A4%8D%E5%88%B0%E4%BB%BB%E6%84%8F%E6%97%B6%E9%97%B4%E7%82%B9%EF%BC%9F.md)
 
-##### 1.1.8 NFS 和 SMB 是最常见的两种 NAS（Network Attached Storage）协议，当把一个文件系统同时通过 NFS 和 SMB 协议共享给多个主机访问时，以下哪些说法是错误的
+##### [1.1.8 什么是静态关联？什么是动态关联？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#304-%E4%BB%80%E4%B9%88%E6%98%AF%E9%9D%99%E6%80%81%E5%85%B3%E8%81%94%E4%BB%80%E4%B9%88%E6%98%AF%E5%8A%A8%E6%80%81%E5%85%B3%E8%81%94)
 
 ##### [1.1.9 输入 ping IP 后敲回车，发包前会发生什么？](01.阿里篇/1.1.9%20%E8%BE%93%E5%85%A5%20ping%20IP%20%E5%90%8E%E6%95%B2%E5%9B%9E%E8%BD%A6%EF%BC%8C%E5%8F%91%E5%8C%85%E5%89%8D%E4%BC%9A%E5%8F%91%E7%94%9F%E4%BB%80%E4%B9%88%EF%BC%9F.md)
 
@@ -64,7 +64,7 @@
 
 ##### [1.2.9 你理解常见如阿里，和友商大数据平台的技术体系差异以及发展趋势和技术瓶颈，在存储和计算两个方面进行概述](01.阿里篇/1.2.9%20%E4%BD%A0%E7%90%86%E8%A7%A3%E5%B8%B8%E8%A7%81%E5%A6%82%E9%98%BF%E9%87%8C%EF%BC%8C%E5%92%8C%E5%8F%8B%E5%95%86%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0%E7%9A%84%E6%8A%80%E6%9C%AF%E4%BD%93%E7%B3%BB%E5%B7%AE%E5%BC%82%E4%BB%A5%E5%8F%8A%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF%E5%92%8C%E6%8A%80%E6%9C%AF%E7%93%B6%E9%A2%88%EF%BC%8C%E5%9C%A8%E5%AD%98%E5%82%A8%E5%92%8C%E8%AE%A1%E7%AE%97%E4%B8%A4%E4%B8%AA%E6%96%B9%E9%9D%A2%E8%BF%9B%E8%A1%8C%E6%A6%82%E8%BF%B0.md)
 
-##### 1.3.0 在云计算大数据处理场景中，每天运行着成千上万的任务，每个任务都要进行 IO 读写。存储系统为了更好的服务，经常会保证高优先级的任务优先执行。当多个作业或用户访问存储系统时,如何保证优先级和公平性
+##### [1.3.0 虚函数是如何实现的？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#305-%E8%99%9A%E5%87%BD%E6%95%B0%E6%98%AF%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%9A%84)
 
 ##### [1.3.1 最大频率栈](01.阿里篇/1.3.1%20%E6%9C%80%E5%A4%A7%E9%A2%91%E7%8E%87%E6%A0%88.md)
 
@@ -622,29 +622,29 @@
 
 ---
 
-##### 7.1.0 B+树、B-树的区别?
+##### [7.1.0 C++是不是类型安全的？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#277-c%E6%98%AF%E4%B8%8D%E6%98%AF%E7%B1%BB%E5%9E%8B%E5%AE%89%E5%85%A8%E7%9A%84)
 
-##### 7.1.1 数据库隔离级别，幻读和不可重复读的区别？
+##### [7.1.1 main 函数执行以前，还会执行什么代码？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#278-main-%E5%87%BD%E6%95%B0%E6%89%A7%E8%A1%8C%E4%BB%A5%E5%89%8D%E8%BF%98%E4%BC%9A%E6%89%A7%E8%A1%8C%E4%BB%80%E4%B9%88%E4%BB%A3%E7%A0%81)
 
-##### 7.1.2 有hell, well, hello, world等字符串组，现在问能否拼接成helloworld，代码实现。
+##### [7.1.2 描述内存分配方式以及它们的区别?](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#279-%E6%8F%8F%E8%BF%B0%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D%E6%96%B9%E5%BC%8F%E4%BB%A5%E5%8F%8A%E5%AE%83%E4%BB%AC%E7%9A%84%E5%8C%BA%E5%88%AB)
 
-##### 7.1.3 快排算法实现
+##### [7.1.3 分别写出BOOL,int,float,指针类型的变量a 与“零”的比较语句。](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#280%E5%88%86%E5%88%AB%E5%86%99%E5%87%BAboolintfloat%E6%8C%87%E9%92%88%E7%B1%BB%E5%9E%8B%E7%9A%84%E5%8F%98%E9%87%8Fa-%E4%B8%8E%E9%9B%B6%E7%9A%84%E6%AF%94%E8%BE%83%E8%AF%AD%E5%8F%A5)
 
-##### 7.1.4 线程安全的单例模式
+##### [7.1.4 请说出const与#define 相比，有何优点？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#281%E8%AF%B7%E8%AF%B4%E5%87%BAconst%E4%B8%8Edefine-%E7%9B%B8%E6%AF%94%E6%9C%89%E4%BD%95%E4%BC%98%E7%82%B9)
 
-##### 7.1.5 25匹马赛跑，有一个赛场，只有五个赛道，没有计时器，只能通过目测来记录快慢，求出第三3快的马要多少场比赛？
+##### [7.1.5 简述数组与指针的区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#282%E7%AE%80%E8%BF%B0%E6%95%B0%E7%BB%84%E4%B8%8E%E6%8C%87%E9%92%88%E7%9A%84%E5%8C%BA%E5%88%AB)
 
-##### 7.1.6 kmp算法next数组的求解思路
+##### [7.1.6 int (*s[10])(int) 表示的是什么？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#283-int-s10int-%E8%A1%A8%E7%A4%BA%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88)
 
-##### 7.1.7 数组中有三个数字出现超过3/4，求这三个数字？
+##### [7.1.7 栈内存与文字常量区](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#284%E6%A0%88%E5%86%85%E5%AD%98%E4%B8%8E%E6%96%87%E5%AD%97%E5%B8%B8%E9%87%8F%E5%8C%BA)
 
-##### 7.1.8 1到n+2个数组中缺了两个数，如何用O(n)时间，O(1)空间找到这两个数字。
+##### [7.1.8 将程序跳转到指定内存地址](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#285%E5%B0%86%E7%A8%8B%E5%BA%8F%E8%B7%B3%E8%BD%AC%E5%88%B0%E6%8C%87%E5%AE%9A%E5%86%85%E5%AD%98%E5%9C%B0%E5%9D%80)
 
-##### 7.1.9 一条线段长为1，随机选两个点，将改线段分为三段，三段能成三角形的概率是多少？
+##### [7.1.9 int id[sizeof(unsigned long)];这个对吗？为什么？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#286int-idsizeofunsigned-long%E8%BF%99%E4%B8%AA%E5%AF%B9%E5%90%97%E4%B8%BA%E4%BB%80%E4%B9%88)
 
-##### 7.2.0 有一个教授，他三个学生，脑袋背后分别各写了一个数字，其中一个数字是另外两个数字的和，经过几轮后，有一个学生猜出了自己的数字请问是什么原因？
+##### [7.2.0 引用与指针有什么区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#287%E5%BC%95%E7%94%A8%E4%B8%8E%E6%8C%87%E9%92%88%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB)
 
-##### 7.2.1 B+树做索引时，B+树通常高度为多少层？要参考哪些条件？
+##### [7.2.1 const 与 #define 的比较 ，const有什么优点?](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#288const-%E4%B8%8E-define-%E7%9A%84%E6%AF%94%E8%BE%83-const%E6%9C%89%E4%BB%80%E4%B9%88%E4%BC%98%E7%82%B9)
 
 <br>
 
@@ -652,29 +652,29 @@
 
 ---
 
-##### 8.1.0 一般sql注入怎么发现触点的，从源码阐述sqlmap如何测试注入点的。
+##### [8.1.0 内存的分配方式有几种?](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#289%E5%86%85%E5%AD%98%E7%9A%84%E5%88%86%E9%85%8D%E6%96%B9%E5%BC%8F%E6%9C%89%E5%87%A0%E7%A7%8D)
 
-##### 8.1.1 masscan扫描端口时靠什么检测，为什么这么快? 请详述.
+##### [8.1.1 基类的析构函数不是虚函数，会带来什么问题？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#290%E5%9F%BA%E7%B1%BB%E7%9A%84%E6%9E%90%E6%9E%84%E5%87%BD%E6%95%B0%E4%B8%8D%E6%98%AF%E8%99%9A%E5%87%BD%E6%95%B0%E4%BC%9A%E5%B8%A6%E6%9D%A5%E4%BB%80%E4%B9%88%E9%97%AE%E9%A2%98)
 
-##### 8.1.2 你写过哪些小工具，你为你使用过的工具做过什么修改.
+##### [8.1.2 全局变量和局部变量有什么区别？是怎么实现的？操作系统和编译器是怎么知道的？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#291%E5%85%A8%E5%B1%80%E5%8F%98%E9%87%8F%E5%92%8C%E5%B1%80%E9%83%A8%E5%8F%98%E9%87%8F%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB%E6%98%AF%E6%80%8E%E4%B9%88%E5%AE%9E%E7%8E%B0%E7%9A%84%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%92%8C%E7%BC%96%E8%AF%91%E5%99%A8%E6%98%AF%E6%80%8E%E4%B9%88%E7%9F%A5%E9%81%93%E7%9A%84)
 
-##### 8.1.3 如何提高采用python编写的扫描速度，谈谈对GIL锁的了解.
+##### [8.1.3 const关键字（反义词mutable）](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#292-const%E5%85%B3%E9%94%AE%E5%AD%97%E5%8F%8D%E4%B9%89%E8%AF%8Dmutable)
 
-##### 8.1.4 你觉得你发现的那个漏洞影响比较大.
+##### [8.1.4 static关键字](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#293-static%E5%85%B3%E9%94%AE%E5%AD%97)
 
-##### 8.1.5 常见的web漏洞有哪些.
+##### [8.1.5 extern关键字](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#294-extern%E5%85%B3%E9%94%AE%E5%AD%97)
 
-##### 8.1.6 有没有玩过硬件安全，研究程度如何.
+##### [8.1.6 指针和引用的区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#295-%E6%8C%87%E9%92%88%E5%92%8C%E5%BC%95%E7%94%A8%E7%9A%84%E5%8C%BA%E5%88%AB)
 
-##### 8.1.7 反爬虫，如果是你如何进行反爬虫，如何绕过反爬措施。 使用无头浏览器被检测到了，如何绕过
+##### [8.1.7 explicit是干什么用的 ?](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#296explicit%E6%98%AF%E5%B9%B2%E4%BB%80%E4%B9%88%E7%94%A8%E7%9A%84-)
 
-##### 8.1.8 nmap扫描如何进行扫描。发包与协议，握手和不握手，哪些协议握手，哪些不握手. 如何不直接接触目标服务器探测对方端口是否开放
+##### [8.1.8 浅拷贝与深拷贝？为什么要使用深拷贝？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#299-%E6%B5%85%E6%8B%B7%E8%B4%9D%E4%B8%8E%E6%B7%B1%E6%8B%B7%E8%B4%9D%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E4%BD%BF%E7%94%A8%E6%B7%B1%E6%8B%B7%E8%B4%9D)
 
-##### 8.1.9 有没有自己编写过yara扫描模块，如果要解决扫描{k1:v1, k2:v2, k3:v3} ，保证同时在k1中的v1里出现特定值，k2中出现v2特定值，以及k3,v3。怎么实现
+##### [8.1.9 深入谈谈堆和栈？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#300%E6%B7%B1%E5%85%A5%E8%B0%88%E8%B0%88%E5%A0%86%E5%92%8C%E6%A0%88)
 
-##### 8.2.0 xss什么原理，如何自己实现一个beef类似的xss平台. 既然这样实现，面临的跨域如何解决?
+##### [8.2.0 内存的静态分配和动态分配的区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#301%E5%86%85%E5%AD%98%E7%9A%84%E9%9D%99%E6%80%81%E5%88%86%E9%85%8D%E5%92%8C%E5%8A%A8%E6%80%81%E5%88%86%E9%85%8D%E7%9A%84%E5%8C%BA%E5%88%AB)
 
-##### 8.2.1 ip 频率限制, ip信誉度模型？
+##### [8.2.1 什么是继承？什么是多态？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#303-%E4%BB%80%E4%B9%88%E6%98%AF%E7%BB%A7%E6%89%BF%E4%BB%80%E4%B9%88%E6%98%AF%E5%A4%9A%E6%80%81)
 
 ##### 8.2.2 SCTP协议是什么？如何使用 SCTP 优化网络？
 
