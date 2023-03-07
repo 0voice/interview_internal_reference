@@ -1065,9 +1065,9 @@
 
 ##### [14.2.1 怎么查看内存泄漏](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#402%E6%80%8E%E4%B9%88%E6%9F%A5%E7%9C%8B%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F)
 
-##### [14.2.2 什么是内存溢出](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#403%E4%BB%80%E4%B9%88%E6%98%AF%E5%86%85%E5%AD%98%E6%BA%A2%E5%87%BA0
+##### [14.2.2 什么是内存溢出](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#403%E4%BB%80%E4%B9%88%E6%98%AF%E5%86%85%E5%AD%98%E6%BA%A2%E5%87%BA)
 
-##### [14.2.3 内存溢出的解决方案](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#404%E5%86%85%E5%AD%98%E6%BA%A2%E5%87%BA%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%880
+##### [14.2.3 内存溢出的解决方案](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#404%E5%86%85%E5%AD%98%E6%BA%A2%E5%87%BA%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88)
 
 ##### [14.2.4 函数指针与指针函数分别是什么](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#405%E5%87%BD%E6%95%B0%E6%8C%87%E9%92%88%E4%B8%8E%E6%8C%87%E9%92%88%E5%87%BD%E6%95%B0%E5%88%86%E5%88%AB%E6%98%AF%E4%BB%80%E4%B9%88)
 
