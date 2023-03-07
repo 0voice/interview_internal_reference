@@ -876,51 +876,134 @@
 
 <br>
 
-<h3 id="13">nginx篇</h3> 
+<h3 id="13">其他中大厂700道精选面试题</h3> 
 
 ---
-##### 13.1.0 请解释一下什么是Nginx?
+##### [13.1.0 多重继承如何解决？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#307-%E5%A4%9A%E9%87%8D%E7%BB%A7%E6%89%BF%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3)
 
-##### 13.1.1 请列举Nginx的一些特性?
+##### [13.1.1 派生类与虚函数概述](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#308-%E6%B4%BE%E7%94%9F%E7%B1%BB%E4%B8%8E%E8%99%9A%E5%87%BD%E6%95%B0%E6%A6%82%E8%BF%B0)
 
-##### 13.1.2 请列举Nginx和Apache 之间的不同点?
+##### [13.1.2 为什么析构函数要定义为虚函数？哪些函数不能是虚函数？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#309-%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9E%90%E6%9E%84%E5%87%BD%E6%95%B0%E8%A6%81%E5%AE%9A%E4%B9%89%E4%B8%BA%E8%99%9A%E5%87%BD%E6%95%B0%E5%93%AA%E4%BA%9B%E5%87%BD%E6%95%B0%E4%B8%8D%E8%83%BD%E6%98%AF%E8%99%9A%E5%87%BD%E6%95%B0)
 
-##### 13.1.3 请解释Nginx如何处理HTTP请求。
+##### [13.1.3 析构函数可以抛出异常吗？为什么不能抛出异常？除了资源泄露，还有其他需考虑的因素吗？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#310-%E6%9E%90%E6%9E%84%E5%87%BD%E6%95%B0%E5%8F%AF%E4%BB%A5%E6%8A%9B%E5%87%BA%E5%BC%82%E5%B8%B8%E5%90%97%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%83%BD%E6%8A%9B%E5%87%BA%E5%BC%82%E5%B8%B8%E9%99%A4%E4%BA%86%E8%B5%84%E6%BA%90%E6%B3%84%E9%9C%B2%E8%BF%98%E6%9C%89%E5%85%B6%E4%BB%96%E9%9C%80%E8%80%83%E8%99%91%E7%9A%84%E5%9B%A0%E7%B4%A0%E5%90%97)
 
-##### 13.1.4 在Nginx中，如何使用未定义的服务器名称来阻止处理请求?
+##### [13.1.4 动态链接库的两种使用方法及特点？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#311%E5%8A%A8%E6%80%81%E9%93%BE%E6%8E%A5%E5%BA%93%E7%9A%84%E4%B8%A4%E7%A7%8D%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95%E5%8F%8A%E7%89%B9%E7%82%B9)
 
-##### 13.1.5 使用“反向代理服务器”的优点是什么?
+##### [13.1.5 STL各类容器（3个顺序+4个关联+1个无序关联）的实现原理及使用情形](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#312-stl%E5%90%84%E7%B1%BB%E5%AE%B9%E5%99%A83%E4%B8%AA%E9%A1%BA%E5%BA%8F4%E4%B8%AA%E5%85%B3%E8%81%941%E4%B8%AA%E6%97%A0%E5%BA%8F%E5%85%B3%E8%81%94%E7%9A%84%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86%E5%8F%8A%E4%BD%BF%E7%94%A8%E6%83%85%E5%BD%A2)
 
-##### 13.1.6 请列举Nginx服务器的最佳用途。
+##### [13.1.6 什么是STL？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#313%E4%BB%80%E4%B9%88%E6%98%AFstl)
 
-##### 13.1.7 请解释Nginx服务器上的Master和Worker进程分别是什么?
+##### [13.1.7 什么是智能指针？底层实现？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#314-%E4%BB%80%E4%B9%88%E6%98%AF%E6%99%BA%E8%83%BD%E6%8C%87%E9%92%88%E5%BA%95%E5%B1%82%E5%AE%9E%E7%8E%B0))
 
-##### 13.1.8 请解释你如何通过不同于80的端口开启Nginx?
+##### [13.1.8 多进程与多线程之间的区别？（最好要了解透彻）](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#315-%E5%A4%9A%E8%BF%9B%E7%A8%8B%E4%B8%8E%E5%A4%9A%E7%BA%BF%E7%A8%8B%E4%B9%8B%E9%97%B4%E7%9A%84%E5%8C%BA%E5%88%AB%E6%9C%80%E5%A5%BD%E8%A6%81%E4%BA%86%E8%A7%A3%E9%80%8F%E5%BD%BB)
 
-##### 13.1.9  请解释是否有可能将Nginx的错误替换为502错误、503?
+##### 13.1.9  [什么是进程池和线程池？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#316-%E4%BB%80%E4%B9%88%E6%98%AF%E8%BF%9B%E7%A8%8B%E6%B1%A0%E5%92%8C%E7%BA%BF%E7%A8%8B%E6%B1%A0)
 
-##### 13.2.0 在Nginx中，解释如何在URL中保留双斜线?
+##### [13.2.0 进程间的通信方式有哪些？如何实现的？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#317%E8%BF%9B%E7%A8%8B%E9%97%B4%E7%9A%84%E9%80%9A%E4%BF%A1%E6%96%B9%E5%BC%8F%E6%9C%89%E5%93%AA%E4%BA%9B%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%9A%84)
 
-##### 13.2.1 请解释ngx_http_upstream_module的作用是什么?
+##### [13.2.1 简述inux中的同步与异步机制？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#318-%E7%AE%80%E8%BF%B0inux%E4%B8%AD%E7%9A%84%E5%90%8C%E6%AD%A5%E4%B8%8E%E5%BC%82%E6%AD%A5%E6%9C%BA%E5%88%B6)
 
-##### 13.2.2 请解释什么是C10K问题，后来是怎么解决的？
+##### [13.2.2 简述阻塞与非阻塞？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#319%E7%AE%80%E8%BF%B0%E9%98%BB%E5%A1%9E%E4%B8%8E%E9%9D%9E%E9%98%BB%E5%A1%9E)
 
-##### 13.2.3 请陈述stub_status和sub_filter指令的作用是什么?
+##### [13.2.3 简述Linux中的5种I/O模式？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#320%E7%AE%80%E8%BF%B0linux%E4%B8%AD%E7%9A%845%E7%A7%8Dio%E6%A8%A1%E5%BC%8F)
 
-##### 13.2.4 解释Nginx是否支持将请求压缩到上游?
+##### [13.2.4 什么是死锁？四个死锁的条件？避免死锁的方法？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#321-%E4%BB%80%E4%B9%88%E6%98%AF%E6%AD%BB%E9%94%81%E5%9B%9B%E4%B8%AA%E6%AD%BB%E9%94%81%E7%9A%84%E6%9D%A1%E4%BB%B6%E9%81%BF%E5%85%8D%E6%AD%BB%E9%94%81%E7%9A%84%E6%96%B9%E6%B3%95)
 
-##### 13.2.5 解释如何在Nginx中获得当前的时间?
+##### [13.2.5 Linux的任务调度机制是什么？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#322-linux%E7%9A%84%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A6%E6%9C%BA%E5%88%B6%E6%98%AF%E4%BB%80%E4%B9%88)
 
-##### 13.2.6 用Nginx服务器解释-s的目的是什么?
+##### [13.2.6 标准库函数与系统调用的区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#323%E6%A0%87%E5%87%86%E5%BA%93%E5%87%BD%E6%95%B0%E4%B8%8E%E7%B3%BB%E7%BB%9F%E8%B0%83%E7%94%A8%E7%9A%84%E5%8C%BA%E5%88%AB)
 
-##### 13.2.7 解释如何在Nginx服务器上添加模块?
+##### [13.2.7 分别简述三次握手与四次挥手的过程？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#324-%E5%88%86%E5%88%AB%E7%AE%80%E8%BF%B0%E4%B8%89%E6%AC%A1%E6%8F%A1%E6%89%8B%E4%B8%8E%E5%9B%9B%E6%AC%A1%E6%8C%A5%E6%89%8B%E7%9A%84%E8%BF%87%E7%A8%8B)
 
-##### 13.2.8 nginx中多个work进程是如何监听同一个端口的？如何处理客户连接的惊群问题？
+##### [13.2.8 tcp和udp之间的区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#325-tcp%E5%92%8Cudp%E4%B9%8B%E9%97%B4%E7%9A%84%E5%8C%BA%E5%88%AB)
 
-##### 13.2.9 nginx程序的热更新是如何做的？
+##### [13.2.9 epoll有哪些触发模式？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#327-epoll%E6%9C%89%E5%93%AA%E4%BA%9B%E8%A7%A6%E5%8F%91%E6%A8%A1%E5%BC%8F)
 
+##### [13.3.1 C和C++的区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#329c%E5%92%8Cc%E7%9A%84%E5%8C%BA%E5%88%AB)
 
-<br/>
+##### [13.3.2 C++中指针和引用的区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#330c%E4%B8%AD%E6%8C%87%E9%92%88%E5%92%8C%E5%BC%95%E7%94%A8%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+##### [13.3.3 结构体struct和共同体union（联合）的区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#331%E7%BB%93%E6%9E%84%E4%BD%93struct%E5%92%8C%E5%85%B1%E5%90%8C%E4%BD%93union%E8%81%94%E5%90%88%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+##### [13.3.4 #define和const的区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#332define%E5%92%8Cconst%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+##### [13.3.5 重载overload，覆盖（重写）override，隐藏（重定义）overwrite，这三者之间的区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#333%E9%87%8D%E8%BD%BDoverload%E8%A6%86%E7%9B%96%E9%87%8D%E5%86%99override%E9%9A%90%E8%97%8F%E9%87%8D%E5%AE%9A%E4%B9%89overwrite%E8%BF%99%E4%B8%89%E8%80%85%E4%B9%8B%E9%97%B4%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+##### [13.3.6 new、delete、malloc、free之间的关系](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#334newdeletemallocfree%E4%B9%8B%E9%97%B4%E7%9A%84%E5%85%B3%E7%B3%BB)
+
+##### [13.3.7 delete和delete[]的区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#335delete%E5%92%8Cdelete%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+##### [13.3.8 虚函数、纯虚函数](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#336%E8%99%9A%E5%87%BD%E6%95%B0%E7%BA%AF%E8%99%9A%E5%87%BD%E6%95%B0)
+
+##### [13.3.9 STL库用过吗？常见的STL容器有哪些？算法用过几个？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#337stl%E5%BA%93%E7%94%A8%E8%BF%87%E5%90%97%E5%B8%B8%E8%A7%81%E7%9A%84stl%E5%AE%B9%E5%99%A8%E6%9C%89%E5%93%AA%E4%BA%9B%E7%AE%97%E6%B3%95%E7%94%A8%E8%BF%87%E5%87%A0%E4%B8%AA)
+
+##### [13.4.1 const知道吗？解释一下其作用](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#338const%E7%9F%A5%E9%81%93%E5%90%97%E8%A7%A3%E9%87%8A%E4%B8%80%E4%B8%8B%E5%85%B6%E4%BD%9C%E7%94%A8)
+
+##### [13.4.2 虚函数是怎么实现的](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#339%E8%99%9A%E5%87%BD%E6%95%B0%E6%98%AF%E6%80%8E%E4%B9%88%E5%AE%9E%E7%8E%B0%E7%9A%84)
+
+##### [13.4.3 堆和栈的区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#340%E5%A0%86%E5%92%8C%E6%A0%88%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+##### [13.4.4 关键字static的作用](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#341%E5%85%B3%E9%94%AE%E5%AD%97static%E7%9A%84%E4%BD%9C%E7%94%A8)
+
+##### [13.4.5 STL中map和set的原理（关联式容器）](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#342stl%E4%B8%ADmap%E5%92%8Cset%E7%9A%84%E5%8E%9F%E7%90%86%E5%85%B3%E8%81%94%E5%BC%8F%E5%AE%B9%E5%99%A8)
+
+##### [13.4.6 #include<file.h> #include "file.h" 的区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#343includefileh-include-fileh-%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+##### [13.4.7 什么是内存泄漏？面对内存泄漏和指针越界，你有哪些方法？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#344%E4%BB%80%E4%B9%88%E6%98%AF%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F%E9%9D%A2%E5%AF%B9%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F%E5%92%8C%E6%8C%87%E9%92%88%E8%B6%8A%E7%95%8C%E4%BD%A0%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B9%E6%B3%95)
+
+##### [13.4.8 定义和声明的区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#345%E5%AE%9A%E4%B9%89%E5%92%8C%E5%A3%B0%E6%98%8E%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+##### [13.4.9 C++文件编译与执行的四个阶段](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#346c%E6%96%87%E4%BB%B6%E7%BC%96%E8%AF%91%E4%B8%8E%E6%89%A7%E8%A1%8C%E7%9A%84%E5%9B%9B%E4%B8%AA%E9%98%B6%E6%AE%B5)
+
+##### [13.5.1 STL中unordered_map和map的区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#347stl%E4%B8%ADunordered_map%E5%92%8Cmap%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+##### [13.5.2 C++的内存管理](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#348c%E7%9A%84%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86)
+
+##### [13.5.3 构造函数为什么一般不定义为虚函数？而析构函数一般写成虚函数的原因 ？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#349%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%80%E8%88%AC%E4%B8%8D%E5%AE%9A%E4%B9%89%E4%B8%BA%E8%99%9A%E5%87%BD%E6%95%B0%E8%80%8C%E6%9E%90%E6%9E%84%E5%87%BD%E6%95%B0%E4%B8%80%E8%88%AC%E5%86%99%E6%88%90%E8%99%9A%E5%87%BD%E6%95%B0%E7%9A%84%E5%8E%9F%E5%9B%A0-)
+
+##### [13.5.4 静态绑定和动态绑定的介绍](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#350%E9%9D%99%E6%80%81%E7%BB%91%E5%AE%9A%E5%92%8C%E5%8A%A8%E6%80%81%E7%BB%91%E5%AE%9A%E7%9A%84%E4%BB%8B%E7%BB%8D)
+
+##### [13.5.5 引用是否能实现动态绑定，为什么引用可以实现](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#351%E5%BC%95%E7%94%A8%E6%98%AF%E5%90%A6%E8%83%BD%E5%AE%9E%E7%8E%B0%E5%8A%A8%E6%80%81%E7%BB%91%E5%AE%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BC%95%E7%94%A8%E5%8F%AF%E4%BB%A5%E5%AE%9E%E7%8E%B0)
+
+##### [13.5.6 深拷贝和浅拷贝的区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#352%E6%B7%B1%E6%8B%B7%E8%B4%9D%E5%92%8C%E6%B5%85%E6%8B%B7%E8%B4%9D%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+##### [13.5.7 什么情况下会调用拷贝构造函数（三种情况）](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#353%E4%BB%80%E4%B9%88%E6%83%85%E5%86%B5%E4%B8%8B%E4%BC%9A%E8%B0%83%E7%94%A8%E6%8B%B7%E8%B4%9D%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0%E4%B8%89%E7%A7%8D%E6%83%85%E5%86%B5)
+
+##### [13.5.8 C++的四种强制转换](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#354c%E7%9A%84%E5%9B%9B%E7%A7%8D%E5%BC%BA%E5%88%B6%E8%BD%AC%E6%8D%A2)
+
+##### [13.5.9 调试程序的方法](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#355%E8%B0%83%E8%AF%95%E7%A8%8B%E5%BA%8F%E7%9A%84%E6%96%B9%E6%B3%95)
+
+##### [13.6.1 extern“C”作用](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#356externc%E4%BD%9C%E7%94%A8)
+
+##### [13.6.2 typdef和define区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#357typdef%E5%92%8Cdefine%E5%8C%BA%E5%88%AB)
+
+##### [13.6.3 引用作为函数参数以及返回值的好处](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#358%E5%BC%95%E7%94%A8%E4%BD%9C%E4%B8%BA%E5%87%BD%E6%95%B0%E5%8F%82%E6%95%B0%E4%BB%A5%E5%8F%8A%E8%BF%94%E5%9B%9E%E5%80%BC%E7%9A%84%E5%A5%BD%E5%A4%84)
+
+##### [13.6.4 纯虚函数](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#359%E7%BA%AF%E8%99%9A%E5%87%BD%E6%95%B0)
+
+##### [13.6.5 什么是野指针](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#360%E4%BB%80%E4%B9%88%E6%98%AF%E9%87%8E%E6%8C%87%E9%92%88)
+
+##### [13.6.6 线程安全和线程不安全](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#361%E7%BA%BF%E7%A8%8B%E5%AE%89%E5%85%A8%E5%92%8C%E7%BA%BF%E7%A8%8B%E4%B8%8D%E5%AE%89%E5%85%A8)
+
+##### [13.6.7 C++中内存泄漏的几种情况](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#362c%E4%B8%AD%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F%E7%9A%84%E5%87%A0%E7%A7%8D%E6%83%85%E5%86%B5)
+
+##### [13.6.8 栈溢出的原因以及解决方法](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#363%E6%A0%88%E6%BA%A2%E5%87%BA%E7%9A%84%E5%8E%9F%E5%9B%A0%E4%BB%A5%E5%8F%8A%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95)
+
+##### [13.6.9 C++标准库vector以及迭代器](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#364c%E6%A0%87%E5%87%86%E5%BA%93vector%E4%BB%A5%E5%8F%8A%E8%BF%AD%E4%BB%A3%E5%99%A8)
+
+##### [13.7.1 C++中vector和list的区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#365c%E4%B8%ADvector%E5%92%8Clist%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+##### [13.7.2 C++中的基本数据类型及派生类型](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#366c%E4%B8%AD%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%8F%8A%E6%B4%BE%E7%94%9F%E7%B1%BB%E5%9E%8B)
+
+##### [13.7.3 友元函数和友元类](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#367%E5%8F%8B%E5%85%83%E5%87%BD%E6%95%B0%E5%92%8C%E5%8F%8B%E5%85%83%E7%B1%BB)
+
+##### [13.7.4 c++函数库中一些实用的函数](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#368c%E5%87%BD%E6%95%B0%E5%BA%93%E4%B8%AD%E4%B8%80%E4%BA%9B%E5%AE%9E%E7%94%A8%E7%9A%84%E5%87%BD%E6%95%B0)
+
+##### [13.7.5 线程的基本概念、线程的基本状态及状态之间的关系？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#369%E7%BA%BF%E7%A8%8B%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E7%BA%BF%E7%A8%8B%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%8A%B6%E6%80%81%E5%8F%8A%E7%8A%B6%E6%80%81%E4%B9%8B%E9%97%B4%E7%9A%84%E5%85%B3%E7%B3%BB)
+
+##### [13.7.6 线程与进程的区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#370%E7%BA%BF%E7%A8%8B%E4%B8%8E%E8%BF%9B%E7%A8%8B%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+<br/
 <br/>
 
 <h3 >加入我们</h3> 
