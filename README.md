@@ -1154,10 +1154,12 @@
 
 ---
 
-#### [偶遇技术大佬交流，群内不定期书籍红包福利，并且每晚技术直播！](https://jq.qq.com/?_wv=1027&k=sEIbk6yO)
+#### 交流群 [偶遇技术大佬交流，不定期书籍红包福利，每晚技术直播！](https://jq.qq.com/?_wv=1027&k=sEIbk6yO)
 
 #### 【每晚八点直播】[C/C++，Linux，Nginx，ZeroMQ，MySQL，Redis，fastdfs，MongoDB，ZK，流媒体，CDN，P2P，K8S，Docker，TCP/IP，协程，DPDK等等多个知识点高级技术分享.](https://ke.qq.com/course/417774?flowToken=1024646)
 
+<br/>
+<br/>
 
 ## 鸣谢
 
