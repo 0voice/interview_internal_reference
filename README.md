@@ -927,7 +927,7 @@
 
 ---
 
-#### 加入学习交流Q群【762073882】，获取本repo最全PDF学习文档！
+#### 加入学习交流Q群【[762073882](https://jq.qq.com/?_wv=1027&k=sEIbk6yO)】，获取本repo最全PDF学习文档！
 
 #### 【每晚八点】c/c++Linux服务器开发学习直播技术分享地址：https://ke.qq.com/course/417774?flowToken=1024646
 
