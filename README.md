@@ -537,85 +537,85 @@
 
 ##### [6.1.0 请写出int、bool、float、指针变量与"零值"比较的if语句？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#235%E8%AF%B7%E5%86%99%E5%87%BAintboolfloat%E6%8C%87%E9%92%88%E5%8F%98%E9%87%8F%E4%B8%8E%E9%9B%B6%E5%80%BC%E6%AF%94%E8%BE%83%E7%9A%84if%E8%AF%AD%E5%8F%A5)
 
-##### 6.1.1 给你一个有序整数数组，数组中的数可以是正数、负数、零，请实现一个函数，这个函数返回一个整数：返回这个数组所有数的平方值中有多少种不同的取值。
+##### [6.1.1 结构体是否可以直接赋值？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#236%E7%BB%93%E6%9E%84%E4%BD%93%E6%98%AF%E5%90%A6%E5%8F%AF%E4%BB%A5%E7%9B%B4%E6%8E%A5%E8%B5%8B%E5%80%BC)
 
-##### 6.1.2 一个环有10个节点，编号0-9。从0点出发，走N步又能回到0点，共有多少种走法？
+##### [6.1.2 sizeof和strlen的区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#237sizeof%E5%92%8Cstrlen%E7%9A%84%E5%8C%BA%E5%88%AB)
 
-##### 6.1.3 一个乱序数组，求第K大的数。排序方式使用字典序。
+##### [6.1.3 C语言和C++语言中的关键字static有什么区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#238c%E8%AF%AD%E8%A8%80%E5%92%8Cc%E8%AF%AD%E8%A8%80%E4%B8%AD%E7%9A%84%E5%85%B3%E9%94%AE%E5%AD%97static%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB)
 
-##### 6.1.4 一棵二叉树，求最大通路长度。（即最大左右子树高度之和）
+##### [6.1.4 C语言的malloc和C++中的new有什么区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#239c%E8%AF%AD%E8%A8%80%E7%9A%84malloc%E5%92%8Cc%E4%B8%AD%E7%9A%84new%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB)
 
-##### 6.1.5 进程和线程的区别，使用线程真的能节省时间？
+##### [6.1.5 请写一个标准宏MIN？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#240%E8%AF%B7%E5%86%99%E4%B8%80%E4%B8%AA%E6%A0%87%E5%87%86%E5%AE%8Fmin)
 
-##### 6.1.6 go协程的调度方式，使用协程真的能节省时间？
+##### [6.1.6 ++i和i++的区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#241i%E5%92%8Ci%E7%9A%84%E5%8C%BA%E5%88%AB)
 
-##### 6.1.7 水平触发边沿触发的区别？在边沿触发下，一个socket有500的数据，已读取200然后不再处理，是不是剩下的300就永远无法读取？
+##### 6.1.7 [关键字volatile有什么作用？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#242%E5%85%B3%E9%94%AE%E5%AD%97volatile%E6%9C%89%E4%BB%80%E4%B9%88%E4%BD%9C%E7%94%A8)
 
-##### 6.1.8 有函数如下，输入1，返回什么？
+##### [6.1.8 一个参数可以既是const又是volatile吗？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#243%E4%B8%80%E4%B8%AA%E5%8F%82%E6%95%B0%E5%8F%AF%E4%BB%A5%E6%97%A2%E6%98%AFconst%E5%8F%88%E6%98%AFvolatile%E5%90%97)
 
-##### 6.1.9 设计http协议，A端发送 AAAA，至少让B端知道AAAA已发送完成。
+##### [6.1.9 *a和&a有什么区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#244a%E5%92%8Ca%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB)
 
-##### 6.2.0 流量总入口为api_gateway，api_gateway挂了会导致全部挂挂，用什么机制增大可用性？
+##### [6.2.0 用C语言编写一个死循环程序？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#245%E7%94%A8c%E8%AF%AD%E8%A8%80%E7%BC%96%E5%86%99%E4%B8%80%E4%B8%AA%E6%AD%BB%E5%BE%AA%E7%8E%AF%E7%A8%8B%E5%BA%8F)
 
-##### 6.2.1 mysql为什么要用b+树，不用平衡二叉树做索引结构？
+##### [6.2.1 全局变量和局部变量有什么区别？是怎么实现的？操作系统和编译器是怎么知道的？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#247%E5%85%A8%E5%B1%80%E5%8F%98%E9%87%8F%E5%92%8C%E5%B1%80%E9%83%A8%E5%8F%98%E9%87%8F%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB%E6%98%AF%E6%80%8E%E4%B9%88%E5%AE%9E%E7%8E%B0%E7%9A%84%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%92%8C%E7%BC%96%E8%AF%91%E5%99%A8%E6%98%AF%E6%80%8E%E4%B9%88%E7%9F%A5%E9%81%93%E7%9A%84)
 
-##### 6.2.2 创建数据库索引应该怎么考虑？
+##### [6.2.2 请简述C/C++程序编译的内存分配情况？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#248%E8%AF%B7%E7%AE%80%E8%BF%B0cc%E7%A8%8B%E5%BA%8F%E7%BC%96%E8%AF%91%E7%9A%84%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D%E6%83%85%E5%86%B5)
 
-##### 6.2.3 使用int 做primary key和使用string 有什么优劣？
+##### [6.2.3 请简述strcpy、sprintf和memcpy的区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#249%E8%AF%B7%E7%AE%80%E8%BF%B0strcpysprintf%E5%92%8Cmemcpy%E7%9A%84%E5%8C%BA%E5%88%AB)
 
-##### 6.2.4 数据库分表的方法？
+##### [6.2.4 请解释((void ()())0)()的含义？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#250%E8%AF%B7%E8%A7%A3%E9%87%8Avoid-0%E7%9A%84%E5%90%AB%E4%B9%89)
 
-##### 6.2.5 表结构，订单纪录如下，写一个语句，求卖的最好的 top 10 product_id。
+##### [6.2.5 C语言的指针和引用和C++的有什么区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#251c%E8%AF%AD%E8%A8%80%E7%9A%84%E6%8C%87%E9%92%88%E5%92%8C%E5%BC%95%E7%94%A8%E5%92%8Cc%E7%9A%84%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB)
 
-##### 6.2.6 微服务，A服务请求B服务B1接口，B1接口又请求A服务A2接口。会不会有问题？
+##### [6.2.6 typedef和define有什么区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#252typedef%E5%92%8Cdefine%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB)
 
-##### 6.2.7 不使用高级工具，只使用Linux自带的工具，你会如何debug?
+##### [6.2.7 指针常量和常量指针有什么区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#253%E6%8C%87%E9%92%88%E5%B8%B8%E9%87%8F%E5%92%8C%E5%B8%B8%E9%87%8F%E6%8C%87%E9%92%88%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB)
 
-##### 6.2.8 如何预估一个mysql语句的性能？
+##### [6.2.8 请简述队列和栈的异同？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#254%E8%AF%B7%E7%AE%80%E8%BF%B0%E9%98%9F%E5%88%97%E5%92%8C%E6%A0%88%E7%9A%84%E5%BC%82%E5%90%8C)
 
-##### 6.2.9 go函数中，返回值未命名，发生了panic，但是在函数内recover了。函数返回什么值？
+##### [6.2.9 如何设置地址为0x67a9的整型变量的值为0xaa66？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#255%E5%A6%82%E4%BD%95%E8%AE%BE%E7%BD%AE%E5%9C%B0%E5%9D%80%E4%B8%BA0x67a9%E7%9A%84%E6%95%B4%E5%9E%8B%E5%8F%98%E9%87%8F%E7%9A%84%E5%80%BC%E4%B8%BA0xaa66)
 
-##### 6.3.0 socket中，在tcp协议层面，数据分为10个报文发放。1-7次很顺利，第8次丢失。这次通信一定失败吗？如果第8次数据会重发，那在接收端是不是：先读取到1-7次的数据，然后读取到8-10次的数据?还是9-10次的数据会先到达？
+##### [6.3.0 请编程实现字符串转换为数字？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#256%E8%AF%B7%E7%BC%96%E7%A8%8B%E5%AE%9E%E7%8E%B0%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E4%B8%BA%E6%95%B0%E5%AD%97)
 
-##### 6.3.1 free -h，buffers 和cached有什么不同
+##### [6.3.1 C语言的结构体和C++的有什么区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#257c%E8%AF%AD%E8%A8%80%E7%9A%84%E7%BB%93%E6%9E%84%E4%BD%93%E5%92%8Cc%E7%9A%84%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB)
 
-##### 6.3.2 后台进程有什么特点，如果要你设计一个进程是后台进程，你会考虑什么
+##### [6.3.2 简述指针常量与常量指针的区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#258%E7%AE%80%E8%BF%B0%E6%8C%87%E9%92%88%E5%B8%B8%E9%87%8F%E4%B8%8E%E5%B8%B8%E9%87%8F%E6%8C%87%E9%92%88%E7%9A%84%E5%8C%BA%E5%88%AB)
 
-##### 6.3.3 僵尸进程是什么，如果产生一个僵尸进程，如何查找僵尸进程
+##### [6.3.3 如何避免"野指针"？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#259%E5%A6%82%E4%BD%95%E9%81%BF%E5%85%8D%E9%87%8E%E6%8C%87%E9%92%88)
 
-##### 6.3.4 孤儿进程是什么
+##### [6.3.4 句柄和指针的区别和联系是什么？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#260%E5%8F%A5%E6%9F%84%E5%92%8C%E6%8C%87%E9%92%88%E7%9A%84%E5%8C%BA%E5%88%AB%E5%92%8C%E8%81%94%E7%B3%BB%E6%98%AF%E4%BB%80%E4%B9%88)
 
-##### 6.3.5 一个进程有20个线程，在某个线程中调用fork，新的进程会有20个线程吗？
+##### [6.3.5 new/delete与malloc/free的区别是什么？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#261newdelete%E4%B8%8Emallocfree%E7%9A%84%E5%8C%BA%E5%88%AB%E6%98%AF%E4%BB%80%E4%B9%88)
 
-##### 6.3.6 tcp/ip 流量控制和拥塞控制
+##### [6.3.6 请说一说extern "C"？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#262%E8%AF%B7%E8%AF%B4%E4%B8%80%E8%AF%B4extern-c)
 
-##### 6.3.7 301/302有什么区别？应用上有什么异同。
+##### [6.3.7 请说一说C++中struct和class的区别是什么？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#263%E8%AF%B7%E8%AF%B4%E4%B8%80%E8%AF%B4c%E4%B8%ADstruct%E5%92%8Cclass%E7%9A%84%E5%8C%BA%E5%88%AB%E6%98%AF%E4%BB%80%E4%B9%88)
 
-##### 6.3.8 50X相关错误码的内涵是什么？
+##### [6.3.8 new、delete、malloc、free关系](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#264newdeletemallocfree%E5%85%B3%E7%B3%BB)
 
-##### 6.3.9 close wait和time wait是什么？如何排查？有什么意义？
+##### [6.3.9 delete与 delete []区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#265delete%E4%B8%8E-delete-%E5%8C%BA%E5%88%AB)
 
-##### 6.4.0 http req和resp的中数据有哪些
+##### [6.4.0 C++有哪些性质（面向对象特点）](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#266c%E6%9C%89%E5%93%AA%E4%BA%9B%E6%80%A7%E8%B4%A8%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%89%B9%E7%82%B9)
 
-##### 6.4.1 什么是连接的半打开，半关闭状态
+##### [6.4.1 子类析构时要调用父类的析构函数吗？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#267%E5%AD%90%E7%B1%BB%E6%9E%90%E6%9E%84%E6%97%B6%E8%A6%81%E8%B0%83%E7%94%A8%E7%88%B6%E7%B1%BB%E7%9A%84%E6%9E%90%E6%9E%84%E5%87%BD%E6%95%B0%E5%90%97)
 
-##### 6.4.2 假如一个业务依赖单点redis，此redis故障将导致业务不可用，如何改进
+##### [6.4.2 多态，虚函数，纯虚函数](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#268%E5%A4%9A%E6%80%81%E8%99%9A%E5%87%BD%E6%95%B0%E7%BA%AF%E8%99%9A%E5%87%BD%E6%95%B0)
 
-##### 6.4.3 redis sharding有哪些做法
+##### [6.4.3 求下面函数的返回值（微软）](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#269%E6%B1%82%E4%B8%8B%E9%9D%A2%E5%87%BD%E6%95%B0%E7%9A%84%E8%BF%94%E5%9B%9E%E5%80%BC%E5%BE%AE%E8%BD%AF)
 
-##### 6.4.4 当大量数据要求用redis保存，单机单点难以满足需要，设计（换寻找）一个负载均衡的方案
+##### [6.4.4 什么是“引用”？申明和使用“引用”要注意哪些问题？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#270%E4%BB%80%E4%B9%88%E6%98%AF%E5%BC%95%E7%94%A8%E7%94%B3%E6%98%8E%E5%92%8C%E4%BD%BF%E7%94%A8%E5%BC%95%E7%94%A8%E8%A6%81%E6%B3%A8%E6%84%8F%E5%93%AA%E4%BA%9B%E9%97%AE%E9%A2%98)
 
-##### 6.4.5 当redis 采用hash做sharding，现在有8个节点，负载方案是 pos = hash(key) % 8，然后保存在pos节点上。这样做有什么好处坏处？当8个节点要扩充到10个节点，应该怎么办？有什么更方便扩充的方案吗？（一致性hash, presharding）
+##### [6.4.5 将“引用”作为函数参数有哪些特点？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#271%E5%B0%86%E5%BC%95%E7%94%A8%E4%BD%9C%E4%B8%BA%E5%87%BD%E6%95%B0%E5%8F%82%E6%95%B0%E6%9C%89%E5%93%AA%E4%BA%9B%E7%89%B9%E7%82%B9)
 
-##### 6.4.6 如何保证redis和数据库数据的一致性。比如用户名既保存在数据库，又保存在redis做缓存。有如下操作 update_db(username); update_redis(username)。但是执行update_db后故障，update_redis没有执行。有什么简单办法解决这个问题。
+##### [6.4.6 在什么时候需要使用“常引用”？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#272%E5%9C%A8%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E9%9C%80%E8%A6%81%E4%BD%BF%E7%94%A8%E5%B8%B8%E5%BC%95%E7%94%A8)
 
-##### 6.5.0 数据库表包含三列：广告编号ad_id，广告开始投放时间ad_start，广告投放结束时间ad_end。用一行SQL语句查询给定时间段内存在的广告。
+##### [6.5.0 结构与联合有和区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#273%E7%BB%93%E6%9E%84%E4%B8%8E%E8%81%94%E5%90%88%E6%9C%89%E5%92%8C%E5%8C%BA%E5%88%AB)
 
-##### 6.5.1 讲讲MapReduce的原理。
+##### [6.5.1 试写出程序结果](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#274%E8%AF%95%E5%86%99%E5%87%BA%E7%A8%8B%E5%BA%8F%E7%BB%93%E6%9E%9C)
 
-##### 6.5.2 举出几种进程通信、线程通信的方式。
+##### [6.5.2 重载（overload)和重写(overried，有的书也叫做“覆盖”）的区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#275%E9%87%8D%E8%BD%BDoverload%E5%92%8C%E9%87%8D%E5%86%99overried%E6%9C%89%E7%9A%84%E4%B9%A6%E4%B9%9F%E5%8F%AB%E5%81%9A%E8%A6%86%E7%9B%96%E7%9A%84%E5%8C%BA%E5%88%AB)
 
-##### 6.5.3 对列表中每一个元素找出比它大的第一个元素：输入一个listin，返回一个listout。对于任意listin[x]，将满足 y > x 且 listin[y] > listin[x] 的第一个 listin[y] 值作为 listout[x] 的值。时间复杂度限制为O(n)。
+##### [6.5.3 有哪几种情况只能用intialization list 而不能用assignment?](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#276%E6%9C%89%E5%93%AA%E5%87%A0%E7%A7%8D%E6%83%85%E5%86%B5%E5%8F%AA%E8%83%BD%E7%94%A8intialization-list-%E8%80%8C%E4%B8%8D%E8%83%BD%E7%94%A8assignment)
 
 
 <h3 id="7">滴滴篇</h3>
