@@ -295,7 +295,7 @@
 
 
 
-##### [4.1.0 [map插入方式有几种？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#121map%E6%8F%92%E5%85%A5%E6%96%B9%E5%BC%8F%E6%9C%89%E5%87%A0%E7%A7%8D)
+##### [4.1.0 map插入方式有几种？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#121map%E6%8F%92%E5%85%A5%E6%96%B9%E5%BC%8F%E6%9C%89%E5%87%A0%E7%A7%8D)
 
 ##### [4.1.1 STL中unordered_map(hash_map)和map的区别，hash_map如何解决冲突以及扩容](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#122stl%E4%B8%ADunordered_maphash_map%E5%92%8Cmap%E7%9A%84%E5%8C%BA%E5%88%ABhash_map%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3%E5%86%B2%E7%AA%81%E4%BB%A5%E5%8F%8A%E6%89%A9%E5%AE%B9)
 
@@ -549,7 +549,7 @@
 
 ##### [6.1.6 ++i和i++的区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#241i%E5%92%8Ci%E7%9A%84%E5%8C%BA%E5%88%AB)
 
-##### 6.1.7 [关键字volatile有什么作用？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#242%E5%85%B3%E9%94%AE%E5%AD%97volatile%E6%9C%89%E4%BB%80%E4%B9%88%E4%BD%9C%E7%94%A8)
+##### [6.1.7 关键字volatile有什么作用？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#242%E5%85%B3%E9%94%AE%E5%AD%97volatile%E6%9C%89%E4%BB%80%E4%B9%88%E4%BD%9C%E7%94%A8)
 
 ##### [6.1.8 一个参数可以既是const又是volatile吗？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#243%E4%B8%80%E4%B8%AA%E5%8F%82%E6%95%B0%E5%8F%AF%E4%BB%A5%E6%97%A2%E6%98%AFconst%E5%8F%88%E6%98%AFvolatile%E5%90%97)
 
@@ -1003,7 +1003,63 @@
 
 ##### [13.7.6 线程与进程的区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#370%E7%BA%BF%E7%A8%8B%E4%B8%8E%E8%BF%9B%E7%A8%8B%E7%9A%84%E5%8C%BA%E5%88%AB)
 
-<br/
+##### [13.7.7 C++多线程有几种实现方法，都是什么？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#371c%E5%A4%9A%E7%BA%BF%E7%A8%8B%E6%9C%89%E5%87%A0%E7%A7%8D%E5%AE%9E%E7%8E%B0%E6%96%B9%E6%B3%95%E9%83%BD%E6%98%AF%E4%BB%80%E4%B9%88)
+
+##### [13.7.8 C和C++的区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#373c%E5%92%8Cc%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+##### [13.7.9 封装、继承、多态](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#374%E5%B0%81%E8%A3%85%E7%BB%A7%E6%89%BF%E5%A4%9A%E6%80%81)
+
+##### [13.8.1 虚函数的作用及其实现原理](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#375%E8%99%9A%E5%87%BD%E6%95%B0%E7%9A%84%E4%BD%9C%E7%94%A8%E5%8F%8A%E5%85%B6%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86)
+
+##### [13.8.2 深拷贝和浅拷贝（值拷贝和位拷贝）](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#376%E6%B7%B1%E6%8B%B7%E8%B4%9D%E5%92%8C%E6%B5%85%E6%8B%B7%E8%B4%9D%E5%80%BC%E6%8B%B7%E8%B4%9D%E5%92%8C%E4%BD%8D%E6%8B%B7%E8%B4%9D)
+
+##### [13.8.3 虚函数、纯虚函数怎么实现](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#377%E8%99%9A%E5%87%BD%E6%95%B0%E7%BA%AF%E8%99%9A%E5%87%BD%E6%95%B0%E6%80%8E%E4%B9%88%E5%AE%9E%E7%8E%B0)
+
+##### [13.8.4 为什么要有纯虚函数](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#378%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%9C%89%E7%BA%AF%E8%99%9A%E5%87%BD%E6%95%B0)
+
+##### [13.8.5 纯虚函数](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#379%E7%BA%AF%E8%99%9A%E5%87%BD%E6%95%B0)
+
+##### [13.8.6 为什么要有虚析构函数](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#380%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%9C%89%E8%99%9A%E6%9E%90%E6%9E%84%E5%87%BD%E6%95%B0)
+
+##### [13.8.7 构造函数能不能是虚函数](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#381%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0%E8%83%BD%E4%B8%8D%E8%83%BD%E6%98%AF%E8%99%9A%E5%87%BD%E6%95%B0)
+
+##### [13.8.8 C++里面构造函数能有返回值吗？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#382c%E9%87%8C%E9%9D%A2%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0%E8%83%BD%E6%9C%89%E8%BF%94%E5%9B%9E%E5%80%BC%E5%90%97)
+
+##### [13.8.9 构造函数和析构函数能被继承吗？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#383%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0%E5%92%8C%E6%9E%90%E6%9E%84%E5%87%BD%E6%95%B0%E8%83%BD%E8%A2%AB%E7%BB%A7%E6%89%BF%E5%90%97)
+
+##### [13.9.1 C++中Overload、Overwrite及Override的区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#384c%E4%B8%ADoverloadoverwrite%E5%8F%8Aoverride%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+##### [13.9.2 一个空的class类里有什么](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#385%E4%B8%80%E4%B8%AA%E7%A9%BA%E7%9A%84class%E7%B1%BB%E9%87%8C%E6%9C%89%E4%BB%80%E4%B9%88)
+
+##### [13.9.3 C++中一个空类的大小为什么是1？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#386c%E4%B8%AD%E4%B8%80%E4%B8%AA%E7%A9%BA%E7%B1%BB%E7%9A%84%E5%A4%A7%E5%B0%8F%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF1)
+
+##### [13.9.4 一个结构体中有一个int，一个char，一个static int，问这个结构体占多少内存？（涉及到内存对齐机制）](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#387%E4%B8%80%E4%B8%AA%E7%BB%93%E6%9E%84%E4%BD%93%E4%B8%AD%E6%9C%89%E4%B8%80%E4%B8%AAint%E4%B8%80%E4%B8%AAchar%E4%B8%80%E4%B8%AAstatic-int%E9%97%AE%E8%BF%99%E4%B8%AA%E7%BB%93%E6%9E%84%E4%BD%93%E5%8D%A0%E5%A4%9A%E5%B0%91%E5%86%85%E5%AD%98%E6%B6%89%E5%8F%8A%E5%88%B0%E5%86%85%E5%AD%98%E5%AF%B9%E9%BD%90%E6%9C%BA%E5%88%B6)
+
+##### [13.9.5 结构体与联合体的区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#388%E7%BB%93%E6%9E%84%E4%BD%93%E4%B8%8E%E8%81%94%E5%90%88%E4%BD%93%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+##### [13.9.6 函数与宏的差别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#389%E5%87%BD%E6%95%B0%E4%B8%8E%E5%AE%8F%E7%9A%84%E5%B7%AE%E5%88%AB)
+
+##### [13.9.7 宏函数和inline函数的异同点](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#390%E5%AE%8F%E5%87%BD%E6%95%B0%E5%92%8Cinline%E5%87%BD%E6%95%B0%E7%9A%84%E5%BC%82%E5%90%8C%E7%82%B9)
+
+##### [13.9.8 define 和 typedef 区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#391define-%E5%92%8C-typedef-%E5%8C%BA%E5%88%AB)
+
+##### [13.9.9 标准C++中的include “” 与<>的区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#392%E6%A0%87%E5%87%86c%E4%B8%AD%E7%9A%84include--%E4%B8%8E%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+##### [14.1.1 C++的内存管理机制](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#393c%E7%9A%84%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E6%9C%BA%E5%88%B6)
+
+##### [14.1.2 C语言中的malloc/free和C++中的new/delete的区别和联系](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#394c%E8%AF%AD%E8%A8%80%E4%B8%AD%E7%9A%84mallocfree%E5%92%8Cc%E4%B8%AD%E7%9A%84newdelete%E7%9A%84%E5%8C%BA%E5%88%AB%E5%92%8C%E8%81%94%E7%B3%BB)
+
+##### [14.1.3 迭代和递归区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#395%E8%BF%AD%E4%BB%A3%E5%92%8C%E9%80%92%E5%BD%92%E5%8C%BA%E5%88%AB)
+
+##### [14.1.4 不可操作的操作符](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#396%E4%B8%8D%E5%8F%AF%E6%93%8D%E4%BD%9C%E7%9A%84%E6%93%8D%E4%BD%9C%E7%AC%A6)
+
+##### [14.1.5 C++关键字mutable作用](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#397c%E5%85%B3%E9%94%AE%E5%AD%97mutable%E4%BD%9C%E7%94%A8)
+
+##### [14.1.6 引用与指针有什么区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#398%E5%BC%95%E7%94%A8%E4%B8%8E%E6%8C%87%E9%92%88%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB)
+
+##### [14.1.7 什么是黑盒测试和白盒测试？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#399%E4%BB%80%E4%B9%88%E6%98%AF%E9%BB%91%E7%9B%92%E6%B5%8B%E8%AF%95%E5%92%8C%E7%99%BD%E7%9B%92%E6%B5%8B%E8%AF%95)
+
+<br/>
 <br/>
 
 <h3 >加入我们</h3> 
