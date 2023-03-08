@@ -1147,6 +1147,98 @@
 
 ##### [14.6.6 位操作](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#444%E4%BD%8D%E6%93%8D%E4%BD%9C)
 
+##### [14.6.7 在某工程中，要求设置一绝对地址为0x67a9的整型变量的值为0xaa66。编译器是一个纯粹的ANSI编译器。写代码去完成这一任务。](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#445%E5%9C%A8%E6%9F%90%E5%B7%A5%E7%A8%8B%E4%B8%AD%E8%A6%81%E6%B1%82%E8%AE%BE%E7%BD%AE%E4%B8%80%E7%BB%9D%E5%AF%B9%E5%9C%B0%E5%9D%80%E4%B8%BA0x67a9%E7%9A%84%E6%95%B4%E5%9E%8B%E5%8F%98%E9%87%8F%E7%9A%84%E5%80%BC%E4%B8%BA0xaa66%E7%BC%96%E8%AF%91%E5%99%A8%E6%98%AF%E4%B8%80%E4%B8%AA%E7%BA%AF%E7%B2%B9%E7%9A%84ansi%E7%BC%96%E8%AF%91%E5%99%A8%E5%86%99%E4%BB%A3%E7%A0%81%E5%8E%BB%E5%AE%8C%E6%88%90%E8%BF%99%E4%B8%80%E4%BB%BB%E5%8A%A1)
+
+##### [14.6.8 给定一个整型变量a，写两段代码，第一个设置a的bit3，第二个清除a的bit，在以上两个操作中，要保持其它位不变。](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#446%E7%BB%99%E5%AE%9A%E4%B8%80%E4%B8%AA%E6%95%B4%E5%9E%8B%E5%8F%98%E9%87%8Fa%E5%86%99%E4%B8%A4%E6%AE%B5%E4%BB%A3%E7%A0%81%E7%AC%AC%E4%B8%80%E4%B8%AA%E8%AE%BE%E7%BD%AEa%E7%9A%84bit3%E7%AC%AC%E4%BA%8C%E4%B8%AA%E6%B8%85%E9%99%A4a%E7%9A%84bit%E5%9C%A8%E4%BB%A5%E4%B8%8A%E4%B8%A4%E4%B8%AA%E6%93%8D%E4%BD%9C%E4%B8%AD%E8%A6%81%E4%BF%9D%E6%8C%81%E5%85%B6%E5%AE%83%E4%BD%8D%E4%B8%8D%E5%8F%98)
+
+##### [14.6.9 什么是右值引用，跟左值又有什么区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#446%E7%BB%99%E5%AE%9A%E4%B8%80%E4%B8%AA%E6%95%B4%E5%9E%8B%E5%8F%98%E9%87%8Fa%E5%86%99%E4%B8%A4%E6%AE%B5%E4%BB%A3%E7%A0%81%E7%AC%AC%E4%B8%80%E4%B8%AA%E8%AE%BE%E7%BD%AEa%E7%9A%84bit3%E7%AC%AC%E4%BA%8C%E4%B8%AA%E6%B8%85%E9%99%A4a%E7%9A%84bit%E5%9C%A8%E4%BB%A5%E4%B8%8A%E4%B8%A4%E4%B8%AA%E6%93%8D%E4%BD%9C%E4%B8%AD%E8%A6%81%E4%BF%9D%E6%8C%81%E5%85%B6%E5%AE%83%E4%BD%8D%E4%B8%8D%E5%8F%98)
+
+##### [14.7.1 判断x=x+1,x+=1,x++哪个效率最高?为什么?](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#448%E5%88%A4%E6%96%ADxx1x1x%E5%93%AA%E4%B8%AA%E6%95%88%E7%8E%87%E6%9C%80%E9%AB%98%E4%B8%BA%E4%BB%80%E4%B9%88)
+
+##### [14.7.2 用变量a定义](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#449%E7%94%A8%E5%8F%98%E9%87%8Fa%E5%AE%9A%E4%B9%89)
+
+##### [14.7.3 C语言是强类型的语言，这是什么意思？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#450c%E8%AF%AD%E8%A8%80%E6%98%AF%E5%BC%BA%E7%B1%BB%E5%9E%8B%E7%9A%84%E8%AF%AD%E8%A8%80%E8%BF%99%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D)
+
+##### [14.7.4 char 与 int之间的转换](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#450c%E8%AF%AD%E8%A8%80%E6%98%AF%E5%BC%BA%E7%B1%BB%E5%9E%8B%E7%9A%84%E8%AF%AD%E8%A8%80%E8%BF%99%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D)
+
+##### [14.7.5 float（单精度浮点型）和double（双精度浮点型）](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#452float%E5%8D%95%E7%B2%BE%E5%BA%A6%E6%B5%AE%E7%82%B9%E5%9E%8B%E5%92%8Cdouble%E5%8F%8C%E7%B2%BE%E5%BA%A6%E6%B5%AE%E7%82%B9%E5%9E%8B)
+
+##### [14.7.6 字符常量](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#453%E5%AD%97%E7%AC%A6%E5%B8%B8%E9%87%8F)
+
+##### [14.7.7 写出bool 、int、 指针变量与“零值”比较的if语句](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#454%E5%86%99%E5%87%BAbool-int-%E6%8C%87%E9%92%88%E5%8F%98%E9%87%8F%E4%B8%8E%E9%9B%B6%E5%80%BC%E6%AF%94%E8%BE%83%E7%9A%84if%E8%AF%AD%E5%8F%A5)
+
+##### [14.7.8 写出float x 与“零值”比较的if语句。](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#455%E5%86%99%E5%87%BAfloat-x-%E4%B8%8E%E9%9B%B6%E5%80%BC%E6%AF%94%E8%BE%83%E7%9A%84if%E8%AF%AD%E5%8F%A5)
+
+##### [14.7.9 区分 %d, %ld, %lld, %lf, %f](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#456%E5%8C%BA%E5%88%86-d-ld-lld-lf-f)
+
+##### [14.8.1 输出数据问题](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#457%E8%BE%93%E5%87%BA%E6%95%B0%E6%8D%AE%E9%97%AE%E9%A2%98)
+
+##### [14.8.2 嵌入式系统中经常要用到无限循环，你怎么样用C编写死循环](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#458%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%BB%8F%E5%B8%B8%E8%A6%81%E7%94%A8%E5%88%B0%E6%97%A0%E9%99%90%E5%BE%AA%E7%8E%AF%E4%BD%A0%E6%80%8E%E4%B9%88%E6%A0%B7%E7%94%A8c%E7%BC%96%E5%86%99%E6%AD%BB%E5%BE%AA%E7%8E%AF)
+
+##### [14.8.3 惰性计算方法](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#459%E6%83%B0%E6%80%A7%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95)
+
+##### [14.8.4 变量的声明和定义有什么区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#460%E5%8F%98%E9%87%8F%E7%9A%84%E5%A3%B0%E6%98%8E%E5%92%8C%E5%AE%9A%E4%B9%89%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB)
+
+##### [14.8.5 用预处理指令#define 声明一个常数，用以表明1年中有多少秒(忽略闰年问题)](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#461%E7%94%A8%E9%A2%84%E5%A4%84%E7%90%86%E6%8C%87%E4%BB%A4define-%E5%A3%B0%E6%98%8E%E4%B8%80%E4%B8%AA%E5%B8%B8%E6%95%B0%E7%94%A8%E4%BB%A5%E8%A1%A8%E6%98%8E1%E5%B9%B4%E4%B8%AD%E6%9C%89%E5%A4%9A%E5%B0%91%E7%A7%92%E5%BF%BD%E7%95%A5%E9%97%B0%E5%B9%B4%E9%97%AE%E9%A2%98)
+
+##### [14.8.6 写一个“标准”宏MIN，这个宏输入两个参数并返回较小的一个](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#462%E5%86%99%E4%B8%80%E4%B8%AA%E6%A0%87%E5%87%86%E5%AE%8Fmin%E8%BF%99%E4%B8%AA%E5%AE%8F%E8%BE%93%E5%85%A5%E4%B8%A4%E4%B8%AA%E5%8F%82%E6%95%B0%E5%B9%B6%E8%BF%94%E5%9B%9E%E8%BE%83%E5%B0%8F%E7%9A%84%E4%B8%80%E4%B8%AA)
+
+##### [14.8.7 sizeof和strlen的区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#464c%E8%AF%AD%E8%A8%80%E4%B8%AD%E7%9A%84static%E5%92%8Cc%E4%B8%ADstatic%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+##### [14.8.8 c语言中的static和C++中static的区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#464c%E8%AF%AD%E8%A8%80%E4%B8%AD%E7%9A%84static%E5%92%8Cc%E4%B8%ADstatic%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+##### [14.8.9 C++函数中值的传递方式有哪几种?](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#465c%E5%87%BD%E6%95%B0%E4%B8%AD%E5%80%BC%E7%9A%84%E4%BC%A0%E9%80%92%E6%96%B9%E5%BC%8F%E6%9C%89%E5%93%AA%E5%87%A0%E7%A7%8D)
+
+##### [14.9.1 C++里面是不是所有的动作都是main()引起的？如果不是，请举例。](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#466c%E9%87%8C%E9%9D%A2%E6%98%AF%E4%B8%8D%E6%98%AF%E6%89%80%E6%9C%89%E7%9A%84%E5%8A%A8%E4%BD%9C%E9%83%BD%E6%98%AFmain%E5%BC%95%E8%B5%B7%E7%9A%84%E5%A6%82%E6%9E%9C%E4%B8%8D%E6%98%AF%E8%AF%B7%E4%B8%BE%E4%BE%8B)
+
+##### [14.9.2 谈谈对面向对象的认识](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#467%E8%B0%88%E8%B0%88%E5%AF%B9%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%9A%84%E8%AE%A4%E8%AF%86)
+
+##### [14.9.3 谈谈你对编程规范的理解](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#468%E8%B0%88%E8%B0%88%E4%BD%A0%E5%AF%B9%E7%BC%96%E7%A8%8B%E8%A7%84%E8%8C%83%E7%9A%84%E7%90%86%E8%A7%A3)
+
+##### [14.9.4 面向对象的三大特性](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#469%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%9A%84%E4%B8%89%E5%A4%A7%E7%89%B9%E6%80%A7)
+
+##### [14.9.5 简述多态的原理](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#470%E7%AE%80%E8%BF%B0%E5%A4%9A%E6%80%81%E7%9A%84%E5%8E%9F%E7%90%86)
+
+##### [14.9.6 多态的作用？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#471%E5%A4%9A%E6%80%81%E7%9A%84%E4%BD%9C%E7%94%A8)
+
+##### [14.9.7 多态，虚函数，纯虚函数](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#472%E5%A4%9A%E6%80%81%E8%99%9A%E5%87%BD%E6%95%B0%E7%BA%AF%E8%99%9A%E5%87%BD%E6%95%B0)
+
+##### [14.9.8 重载（overload)、重写(override，有的书也叫做“覆盖”）、重定义（redefinition）的区别?](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#473%E9%87%8D%E8%BD%BDoverload%E9%87%8D%E5%86%99override%E6%9C%89%E7%9A%84%E4%B9%A6%E4%B9%9F%E5%8F%AB%E5%81%9A%E8%A6%86%E7%9B%96%E9%87%8D%E5%AE%9A%E4%B9%89redefinition%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+##### [14.9.9 所有的运算符都能重载吗？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#474%E6%89%80%E6%9C%89%E7%9A%84%E8%BF%90%E7%AE%97%E7%AC%A6%E9%83%BD%E8%83%BD%E9%87%8D%E8%BD%BD%E5%90%97)
+
+##### [15.1.1 用C++设计一个不能继承的类](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#475%E7%94%A8c%E8%AE%BE%E8%AE%A1%E4%B8%80%E4%B8%AA%E4%B8%8D%E8%83%BD%E7%BB%A7%E6%89%BF%E7%9A%84%E7%B1%BB)
+
+##### [15.1.2 构造函数能否为虚函数](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#476%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0%E8%83%BD%E5%90%A6%E4%B8%BA%E8%99%9A%E5%87%BD%E6%95%B0)
+
+##### [15.1.3 在C中用const 能定义真正意义上的常量吗？C++中的const呢？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#477%E5%9C%A8c%E4%B8%AD%E7%94%A8const-%E8%83%BD%E5%AE%9A%E4%B9%89%E7%9C%9F%E6%AD%A3%E6%84%8F%E4%B9%89%E4%B8%8A%E7%9A%84%E5%B8%B8%E9%87%8F%E5%90%97c%E4%B8%AD%E7%9A%84const%E5%91%A2)
+
+##### [15.1.4 宏和内联（inline）函数的比较？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#478%E5%AE%8F%E5%92%8C%E5%86%85%E8%81%94inline%E5%87%BD%E6%95%B0%E7%9A%84%E6%AF%94%E8%BE%83)
+
+##### [15.1.5 typedef和define由什么区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#479typedef%E5%92%8Cdefine%E7%94%B1%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB)
+
+##### [15.1.6 strcat、strncat、strcpy哪些函数会导致内存溢出？如何改进？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#480strcatstrncatstrcpy%E5%93%AA%E4%BA%9B%E5%87%BD%E6%95%B0%E4%BC%9A%E5%AF%BC%E8%87%B4%E5%86%85%E5%AD%98%E6%BA%A2%E5%87%BA%E5%A6%82%E4%BD%95%E6%94%B9%E8%BF%9B)
+
+##### [15.1.7 简述队列和栈的异同](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#481%E7%AE%80%E8%BF%B0%E9%98%9F%E5%88%97%E5%92%8C%E6%A0%88%E7%9A%84%E5%BC%82%E5%90%8C)
+
+##### [15.1.8 堆和栈的区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#482%E5%A0%86%E5%92%8C%E6%A0%88%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+##### [15.1.9 堆和自由存储区的区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#483%E5%A0%86%E5%92%8C%E8%87%AA%E7%94%B1%E5%AD%98%E5%82%A8%E5%8C%BA%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+##### [15.2.1 什么是内存泄漏？面对内存泄漏有什么避免方法](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#484%E4%BB%80%E4%B9%88%E6%98%AF%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F%E9%9D%A2%E5%AF%B9%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F%E6%9C%89%E4%BB%80%E4%B9%88%E9%81%BF%E5%85%8D%E6%96%B9%E6%B3%95)
+
+##### [15.2.2 链表和数组的区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#485%E9%93%BE%E8%A1%A8%E5%92%8C%E6%95%B0%E7%BB%84%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+##### [15.2.3 结构与联合有和区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#486%E7%BB%93%E6%9E%84%E4%B8%8E%E8%81%94%E5%90%88%E6%9C%89%E5%92%8C%E5%8C%BA%E5%88%AB)
+
+##### [15.2.4 什么是“引用”？申明和使用“引用”要注意哪些问题？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#487%E4%BB%80%E4%B9%88%E6%98%AF%E5%BC%95%E7%94%A8%E7%94%B3%E6%98%8E%E5%92%8C%E4%BD%BF%E7%94%A8%E5%BC%95%E7%94%A8%E8%A6%81%E6%B3%A8%E6%84%8F%E5%93%AA%E4%BA%9B%E9%97%AE%E9%A2%98)
+
+##### [15.2.5 将“引用”作为函数参数有哪些特点？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#488%E5%B0%86%E5%BC%95%E7%94%A8%E4%BD%9C%E4%B8%BA%E5%87%BD%E6%95%B0%E5%8F%82%E6%95%B0%E6%9C%89%E5%93%AA%E4%BA%9B%E7%89%B9%E7%82%B9)
+
+##### [15.2.6 STL标准模板库](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#489stl%E6%A0%87%E5%87%86%E6%A8%A1%E6%9D%BF%E5%BA%93)
+
+##### [15.2.7 陷阱题](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#490%E9%99%B7%E9%98%B1%E9%A2%98)
+
 <br/>
 <br/>
 
