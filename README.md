@@ -1154,11 +1154,11 @@
 
 ---
 
-安利术语：零声，专注于C/C++，Linux，Nginx，ZeroMQ，MySQL，Redis，fastdfs，MongoDB，ZK，流媒体，CDN，P2P，K8S，Docker，TCP/IP，协程，DPDK等等多个知识点高级技术分享。本repo零声的小伙伴推动以及所有提交patch的小伙伴（后面鸣谢部分）参与，共同完成。
+##### 安利术语：零声，专注于C/C++，Linux，Nginx，ZeroMQ，MySQL，Redis，fastdfs，MongoDB，ZK，流媒体，CDN，P2P，K8S，Docker，TCP/IP，协程，DPDK等等多个知识点高级技术分享。本repo零声的小伙伴推动以及所有提交patch的小伙伴（后面鸣谢部分）参与，共同完成。
 
-#### 零声交流群: 762073882, [偶遇技术大佬交流，不定期书籍红包福利，每晚技术直播！](https://jq.qq.com/?_wv=1027&k=sEIbk6yO)
+##### 零声交流群: 762073882, [偶遇技术大佬交流，不定期书籍红包福利，每晚技术直播！](https://jq.qq.com/?_wv=1027&k=sEIbk6yO)
 
-#### 点击进入 [每晚八点技术直播](https://ke.qq.com/course/417774?flowToken=1024646)
+##### 点击进入 [每晚八点技术直播](https://ke.qq.com/course/417774?flowToken=1024646)
 
 <br/>
 <br/>
