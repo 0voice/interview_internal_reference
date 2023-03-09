@@ -1239,7 +1239,7 @@
 
 ##### [15.2.7 陷阱题](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#490%E9%99%B7%E9%98%B1%E9%A2%98)
 
-##### [15.2.8 一个C++源文件从文本到可执行文件经历的过程]([#include 的顺序以及尖叫括号和双引号的区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#491%E4%B8%80%E4%B8%AAc%E6%BA%90%E6%96%87%E4%BB%B6%E4%BB%8E%E6%96%87%E6%9C%AC%E5%88%B0%E5%8F%AF%E6%89%A7%E8%A1%8C%E6%96%87%E4%BB%B6%E7%BB%8F%E5%8E%86%E7%9A%84%E8%BF%87%E7%A8%8B))
+##### [15.2.8 一个C++源文件从文本到可执行文件经历的过程](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#491%E4%B8%80%E4%B8%AAc%E6%BA%90%E6%96%87%E4%BB%B6%E4%BB%8E%E6%96%87%E6%9C%AC%E5%88%B0%E5%8F%AF%E6%89%A7%E8%A1%8C%E6%96%87%E4%BB%B6%E7%BB%8F%E5%8E%86%E7%9A%84%E8%BF%87%E7%A8%8B)
 
 ##### [15.2.9 #include 的顺序以及尖叫括号和双引号的区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#492include-%E7%9A%84%E9%A1%BA%E5%BA%8F%E4%BB%A5%E5%8F%8A%E5%B0%96%E5%8F%AB%E6%8B%AC%E5%8F%B7%E5%92%8C%E5%8F%8C%E5%BC%95%E5%8F%B7%E7%9A%84%E5%8C%BA%E5%88%AB)
 
@@ -1579,7 +1579,7 @@
 
 ##### [17.3.7 栈和堆的区别，什么时候必须使用堆](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#660%E6%A0%88%E5%92%8C%E5%A0%86%E7%9A%84%E5%8C%BA%E5%88%AB%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%BF%85%E9%A1%BB%E4%BD%BF%E7%94%A8%E5%A0%86)
 
-##### [17.3.8 用宏定义实现swap](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#661%E7%94%A8%E5%AE%8F%E5%AE%9A%E4%B9%89%E5%AE%9E%E7%8E%B0swap0
+##### [17.3.8 用宏定义实现swap](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#661%E7%94%A8%E5%AE%8F%E5%AE%9A%E4%B9%89%E5%AE%9E%E7%8E%B0swap)
 
 ##### [17.3.9 头文件<>和""的区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#662%E5%A4%B4%E6%96%87%E4%BB%B6%E5%92%8C%E7%9A%84%E5%8C%BA%E5%88%AB)
 
