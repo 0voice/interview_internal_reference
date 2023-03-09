@@ -1411,6 +1411,192 @@
 
 ##### [16.3.4 如何在C中初始化一个字符数组。](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#576%E5%A6%82%E4%BD%95%E5%9C%A8c%E4%B8%AD%E5%88%9D%E5%A7%8B%E5%8C%96%E4%B8%80%E4%B8%AA%E5%AD%97%E7%AC%A6%E6%95%B0%E7%BB%84)
 
+##### [16.3.5 参数传递有几种方式；实现多态参数传递采用什么方式，如果没有使用某种方式原因是什么](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#577%E5%8F%82%E6%95%B0%E4%BC%A0%E9%80%92%E6%9C%89%E5%87%A0%E7%A7%8D%E6%96%B9%E5%BC%8F%E5%AE%9E%E7%8E%B0%E5%A4%9A%E6%80%81%E5%8F%82%E6%95%B0%E4%BC%A0%E9%80%92%E9%87%87%E7%94%A8%E4%BB%80%E4%B9%88%E6%96%B9%E5%BC%8F%E5%A6%82%E6%9E%9C%E6%B2%A1%E6%9C%89%E4%BD%BF%E7%94%A8%E6%9F%90%E7%A7%8D%E6%96%B9%E5%BC%8F%E5%8E%9F%E5%9B%A0%E6%98%AF%E4%BB%80%E4%B9%88)
+
+##### [16.3.6 请填写BOOL , float, 指针变量 与“零值”比较的 if 语句。](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#578%E8%AF%B7%E5%A1%AB%E5%86%99bool--float-%E6%8C%87%E9%92%88%E5%8F%98%E9%87%8F-%E4%B8%8E%E9%9B%B6%E5%80%BC%E6%AF%94%E8%BE%83%E7%9A%84-if-%E8%AF%AD%E5%8F%A5)
+
+##### [16.3.7 C++特点是什么，如何实现多态？画出基类和子类在内存中的相互关系。](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#579c%E7%89%B9%E7%82%B9%E6%98%AF%E4%BB%80%E4%B9%88%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E5%A4%9A%E6%80%81%E7%94%BB%E5%87%BA%E5%9F%BA%E7%B1%BB%E5%92%8C%E5%AD%90%E7%B1%BB%E5%9C%A8%E5%86%85%E5%AD%98%E4%B8%AD%E7%9A%84%E7%9B%B8%E4%BA%92%E5%85%B3%E7%B3%BB)
+
+##### [16.3.8 什么是“引用”？申明和使用“引用”要注意哪些问题？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#580%E4%BB%80%E4%B9%88%E6%98%AF%E5%BC%95%E7%94%A8%E7%94%B3%E6%98%8E%E5%92%8C%E4%BD%BF%E7%94%A8%E5%BC%95%E7%94%A8%E8%A6%81%E6%B3%A8%E6%84%8F%E5%93%AA%E4%BA%9B%E9%97%AE%E9%A2%98)
+
+##### [16.3.9 触发器怎么工作的?](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#581%E8%A7%A6%E5%8F%91%E5%99%A8%E6%80%8E%E4%B9%88%E5%B7%A5%E4%BD%9C%E7%9A%84)
+
+##### [16.4.1 C也可以通过精心封装某些函数功能实现重用，那C++的类有什么优点吗，难道仅仅是为实现重用。](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#582c%E4%B9%9F%E5%8F%AF%E4%BB%A5%E9%80%9A%E8%BF%87%E7%B2%BE%E5%BF%83%E5%B0%81%E8%A3%85%E6%9F%90%E4%BA%9B%E5%87%BD%E6%95%B0%E5%8A%9F%E8%83%BD%E5%AE%9E%E7%8E%B0%E9%87%8D%E7%94%A8%E9%82%A3c%E7%9A%84%E7%B1%BB%E6%9C%89%E4%BB%80%E4%B9%88%E4%BC%98%E7%82%B9%E5%90%97%E9%9A%BE%E9%81%93%E4%BB%85%E4%BB%85%E6%98%AF%E4%B8%BA%E5%AE%9E%E7%8E%B0%E9%87%8D%E7%94%A8)
+
+##### [16.4.2 CSingleLock是干什么的。](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#583csinglelock%E6%98%AF%E5%B9%B2%E4%BB%80%E4%B9%88%E7%9A%84)
+
+##### [16.4.3 C++中引用和指针的区别?](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#584c%E4%B8%AD%E5%BC%95%E7%94%A8%E5%92%8C%E6%8C%87%E9%92%88%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+##### [16.4.4 C与C++各自是如何定义常量的?有什么不同?](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#585c%E4%B8%8Ec%E5%90%84%E8%87%AA%E6%98%AF%E5%A6%82%E4%BD%95%E5%AE%9A%E4%B9%89%E5%B8%B8%E9%87%8F%E7%9A%84%E6%9C%89%E4%BB%80%E4%B9%88%E4%B8%8D%E5%90%8C)
+
+##### [16.4.5 C++函数中值的传递方式有哪几种?](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#586c%E5%87%BD%E6%95%B0%E4%B8%AD%E5%80%BC%E7%9A%84%E4%BC%A0%E9%80%92%E6%96%B9%E5%BC%8F%E6%9C%89%E5%93%AA%E5%87%A0%E7%A7%8D)
+
+##### [16.4.6 一般数据库若出现日志满了，会出现什么情况，是否还能使用？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#587%E4%B8%80%E8%88%AC%E6%95%B0%E6%8D%AE%E5%BA%93%E8%8B%A5%E5%87%BA%E7%8E%B0%E6%97%A5%E5%BF%97%E6%BB%A1%E4%BA%86%E4%BC%9A%E5%87%BA%E7%8E%B0%E4%BB%80%E4%B9%88%E6%83%85%E5%86%B5%E6%98%AF%E5%90%A6%E8%BF%98%E8%83%BD%E4%BD%BF%E7%94%A8)
+
+##### [16.4.7 C++里面如何声明constvoidf(void)函数为C程序中的库函数？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#588c%E9%87%8C%E9%9D%A2%E5%A6%82%E4%BD%95%E5%A3%B0%E6%98%8Econstvoidfvoid%E5%87%BD%E6%95%B0%E4%B8%BAc%E7%A8%8B%E5%BA%8F%E4%B8%AD%E7%9A%84%E5%BA%93%E5%87%BD%E6%95%B0)
+
+##### [16.4.8 c++中类和c语言中struct的区别（至少两点）](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#589c%E4%B8%AD%E7%B1%BB%E5%92%8Cc%E8%AF%AD%E8%A8%80%E4%B8%ADstruct%E7%9A%84%E5%8C%BA%E5%88%AB%E8%87%B3%E5%B0%91%E4%B8%A4%E7%82%B9)
+
+##### [16.4.9 IP组播有那些好处?](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#590ip%E7%BB%84%E6%92%AD%E6%9C%89%E9%82%A3%E4%BA%9B%E5%A5%BD%E5%A4%84)
+
+##### [16.5.1 变量的声明和定义有什么区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#591%E5%8F%98%E9%87%8F%E7%9A%84%E5%A3%B0%E6%98%8E%E5%92%8C%E5%AE%9A%E4%B9%89%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB)
+
+##### [16.5.2 程序什么时候应该使用线程，什么时候单线程效率高。](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#592%E7%A8%8B%E5%BA%8F%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%BA%94%E8%AF%A5%E4%BD%BF%E7%94%A8%E7%BA%BF%E7%A8%8B%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%8D%95%E7%BA%BF%E7%A8%8B%E6%95%88%E7%8E%87%E9%AB%98)
+
+##### [16.5.3 介绍一下模板和容器。如何实现？（也许会让你当场举例实现）](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#593%E4%BB%8B%E7%BB%8D%E4%B8%80%E4%B8%8B%E6%A8%A1%E6%9D%BF%E5%92%8C%E5%AE%B9%E5%99%A8%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E4%B9%9F%E8%AE%B8%E4%BC%9A%E8%AE%A9%E4%BD%A0%E5%BD%93%E5%9C%BA%E4%B8%BE%E4%BE%8B%E5%AE%9E%E7%8E%B0)
+
+##### [16.5.4 以下为WindowsNT下的32位C++程序，请计算sizeof的值](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#594%E4%BB%A5%E4%B8%8B%E4%B8%BAwindowsnt%E4%B8%8B%E7%9A%8432%E4%BD%8Dc%E7%A8%8B%E5%BA%8F%E8%AF%B7%E8%AE%A1%E7%AE%97sizeof%E7%9A%84%E5%80%BC)
+
+##### [16.5.5 C语言同意一些令人震惊的结构,下面的结构是合法的吗，如果是它做些什么？inta=5,b=7,c;c=a+++b;](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#595c%E8%AF%AD%E8%A8%80%E5%90%8C%E6%84%8F%E4%B8%80%E4%BA%9B%E4%BB%A4%E4%BA%BA%E9%9C%87%E6%83%8A%E7%9A%84%E7%BB%93%E6%9E%84%E4%B8%8B%E9%9D%A2%E7%9A%84%E7%BB%93%E6%9E%84%E6%98%AF%E5%90%88%E6%B3%95%E7%9A%84%E5%90%97%E5%A6%82%E6%9E%9C%E6%98%AF%E5%AE%83%E5%81%9A%E4%BA%9B%E4%BB%80%E4%B9%88inta5b7ccab)
+
+##### [16.5.6 #include与#include“file.h”的区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#596include%E4%B8%8Eincludefileh%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+##### [16.5.7 如何在C中初始化一个字符数组。](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#597%E5%A6%82%E4%BD%95%E5%9C%A8c%E4%B8%AD%E5%88%9D%E5%A7%8B%E5%8C%96%E4%B8%80%E4%B8%AA%E5%AD%97%E7%AC%A6%E6%95%B0%E7%BB%84)
+
+##### [16.5.8 在C++程序中调用被C编译器编译后的函数，为什么要加extern“C”？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#598%E5%9C%A8c%E7%A8%8B%E5%BA%8F%E4%B8%AD%E8%B0%83%E7%94%A8%E8%A2%ABc%E7%BC%96%E8%AF%91%E5%99%A8%E7%BC%96%E8%AF%91%E5%90%8E%E7%9A%84%E5%87%BD%E6%95%B0%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%8A%A0externc)
+
+##### [16.5.9 内存的分配方式的分配方式有几种?](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#599%E5%86%85%E5%AD%98%E7%9A%84%E5%88%86%E9%85%8D%E6%96%B9%E5%BC%8F%E7%9A%84%E5%88%86%E9%85%8D%E6%96%B9%E5%BC%8F%E6%9C%89%E5%87%A0%E7%A7%8D)
+
+##### [16.6.1 在C++程序中调用被C编译器编译后的函数，为什么要加extern"C"?](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#600%E5%9C%A8c%E7%A8%8B%E5%BA%8F%E4%B8%AD%E8%B0%83%E7%94%A8%E8%A2%ABc%E7%BC%96%E8%AF%91%E5%99%A8%E7%BC%96%E8%AF%91%E5%90%8E%E7%9A%84%E5%87%BD%E6%95%B0%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%8A%A0externc)
+
+##### [16.6.2 如何让局部变量具有全局生命期。](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#601%E5%A6%82%E4%BD%95%E8%AE%A9%E5%B1%80%E9%83%A8%E5%8F%98%E9%87%8F%E5%85%B7%E6%9C%89%E5%85%A8%E5%B1%80%E7%94%9F%E5%91%BD%E6%9C%9F)
+
+##### [16.6.3 解释堆和栈的区别。](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#602%E8%A7%A3%E9%87%8A%E5%A0%86%E5%92%8C%E6%A0%88%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+##### [16.6.4 在C++程序中调用被C编译器编译后的函数，为什么要加extern“C”声明？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#603%E5%9C%A8c%E7%A8%8B%E5%BA%8F%E4%B8%AD%E8%B0%83%E7%94%A8%E8%A2%ABc%E7%BC%96%E8%AF%91%E5%99%A8%E7%BC%96%E8%AF%91%E5%90%8E%E7%9A%84%E5%87%BD%E6%95%B0%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%8A%A0externc%E5%A3%B0%E6%98%8E)
+
+##### [16.6.5 strtok函数在使用上要注意什么问题。](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#604strtok%E5%87%BD%E6%95%B0%E5%9C%A8%E4%BD%BF%E7%94%A8%E4%B8%8A%E8%A6%81%E6%B3%A8%E6%84%8F%E4%BB%80%E4%B9%88%E9%97%AE%E9%A2%98)
+
+##### [16.6.6 用预处理指令#define声明一个常数，用以表明1年中有多少秒（忽略闰年问题）](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#605%E7%94%A8%E9%A2%84%E5%A4%84%E7%90%86%E6%8C%87%E4%BB%A4define%E5%A3%B0%E6%98%8E%E4%B8%80%E4%B8%AA%E5%B8%B8%E6%95%B0%E7%94%A8%E4%BB%A5%E8%A1%A8%E6%98%8E1%E5%B9%B4%E4%B8%AD%E6%9C%89%E5%A4%9A%E5%B0%91%E7%A7%92%E5%BF%BD%E7%95%A5%E9%97%B0%E5%B9%B4%E9%97%AE%E9%A2%98)
+
+##### [16.6.7 说一说C与C++的内存分配方式?](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#606%E8%AF%B4%E4%B8%80%E8%AF%B4c%E4%B8%8Ec%E7%9A%84%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D%E6%96%B9%E5%BC%8F)
+
+##### [16.6.8 你如何理解MVC。简单举例来说明其应用。](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#607%E4%BD%A0%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3mvc%E7%AE%80%E5%8D%95%E4%B8%BE%E4%BE%8B%E6%9D%A5%E8%AF%B4%E6%98%8E%E5%85%B6%E5%BA%94%E7%94%A8)
+
+##### [16.6.9 在C++程序中调用被C编译器编译后的函数，为什么要加extern“C”声明？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#608%E5%9C%A8c%E7%A8%8B%E5%BA%8F%E4%B8%AD%E8%B0%83%E7%94%A8%E8%A2%ABc%E7%BC%96%E8%AF%91%E5%99%A8%E7%BC%96%E8%AF%91%E5%90%8E%E7%9A%84%E5%87%BD%E6%95%B0%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%8A%A0externc%E5%A3%B0%E6%98%8E)
+
+##### [16.7.1 inti=(j=4,k=8,l=16,m=32);printf(“%d”,i);输出是多少？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#609intij4k8l16m32printfdi%E8%BE%93%E5%87%BA%E6%98%AF%E5%A4%9A%E5%B0%91)
+
+##### [16.7.2 ＃include与＃include“file.h”的区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#610include%E4%B8%8Eincludefileh%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+##### [16.7.3 既然C++中有更好的const为什么还要使用宏?](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#611%E6%97%A2%E7%84%B6c%E4%B8%AD%E6%9C%89%E6%9B%B4%E5%A5%BD%E7%9A%84const%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%98%E8%A6%81%E4%BD%BF%E7%94%A8%E5%AE%8F)
+
+##### [16.7.4 重载（overload)和重写(overried，有的书也叫做“覆盖”）的区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#612%E9%87%8D%E8%BD%BDoverload%E5%92%8C%E9%87%8D%E5%86%99overried%E6%9C%89%E7%9A%84%E4%B9%A6%E4%B9%9F%E5%8F%AB%E5%81%9A%E8%A6%86%E7%9B%96%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+##### [16.7.5 C++和C定义结构的分别是什么。](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#613c%E5%92%8Cc%E5%AE%9A%E4%B9%89%E7%BB%93%E6%9E%84%E7%9A%84%E5%88%86%E5%88%AB%E6%98%AF%E4%BB%80%E4%B9%88)
+
+##### [16.7.6 #include和#include"a.h"有什么区别?](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#614include%E5%92%8Cincludeah%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB)
+
+##### [16.7.7 ＃include和＃include“filename.h”有什么区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#615include%E5%92%8Cincludefilenameh%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB)
+
+##### [16.7.8 C函数可否单独编译？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#616c%E5%87%BD%E6%95%B0%E5%8F%AF%E5%90%A6%E5%8D%95%E7%8B%AC%E7%BC%96%E8%AF%91)
+
+##### [16.7.9 请简述以下两个for循环的优缺点](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#617%E8%AF%B7%E7%AE%80%E8%BF%B0%E4%BB%A5%E4%B8%8B%E4%B8%A4%E4%B8%AAfor%E5%BE%AA%E7%8E%AF%E7%9A%84%E4%BC%98%E7%BC%BA%E7%82%B9)
+
+##### [16.8.1 完成程序，实现对数组的降序排序](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#618%E5%AE%8C%E6%88%90%E7%A8%8B%E5%BA%8F%E5%AE%9E%E7%8E%B0%E5%AF%B9%E6%95%B0%E7%BB%84%E7%9A%84%E9%99%8D%E5%BA%8F%E6%8E%92%E5%BA%8F)
+
+##### [16.8.2 delete[]arry和deletearry一样吗？不一样请说明；](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#619deletearry%E5%92%8Cdeletearry%E4%B8%80%E6%A0%B7%E5%90%97%E4%B8%8D%E4%B8%80%E6%A0%B7%E8%AF%B7%E8%AF%B4%E6%98%8E)
+
+##### [16.8.3 结合1个你认为比较能体现OOP思想的项目，用UML来描述。](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#620%E7%BB%93%E5%90%881%E4%B8%AA%E4%BD%A0%E8%AE%A4%E4%B8%BA%E6%AF%94%E8%BE%83%E8%83%BD%E4%BD%93%E7%8E%B0oop%E6%80%9D%E6%83%B3%E7%9A%84%E9%A1%B9%E7%9B%AE%E7%94%A8uml%E6%9D%A5%E6%8F%8F%E8%BF%B0)
+
+##### [16.8.4 C与C++各自是如何定义常量的?有什么不同?](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#621c%E4%B8%8Ec%E5%90%84%E8%87%AA%E6%98%AF%E5%A6%82%E4%BD%95%E5%AE%9A%E4%B9%89%E5%B8%B8%E9%87%8F%E7%9A%84%E6%9C%89%E4%BB%80%E4%B9%88%E4%B8%8D%E5%90%8C)
+
+##### [16.8.5 头文件中的ifndef/define/endif干什么用？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#622%E5%A4%B4%E6%96%87%E4%BB%B6%E4%B8%AD%E7%9A%84ifndefdefineendif%E5%B9%B2%E4%BB%80%E4%B9%88%E7%94%A8)
+
+##### [16.8.6 C++中为什么用模板类。](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#623c%E4%B8%AD%E4%B8%BA%E4%BB%80%E4%B9%88%E7%94%A8%E6%A8%A1%E6%9D%BF%E7%B1%BB)
+
+##### [16.8.7 动态连接库的两种方式?](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#624%E5%8A%A8%E6%80%81%E8%BF%9E%E6%8E%A5%E5%BA%93%E7%9A%84%E4%B8%A4%E7%A7%8D%E6%96%B9%E5%BC%8F)
+
+##### [16.8.8 在什么时候需要使用“常引用”？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#625%E5%9C%A8%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E9%9C%80%E8%A6%81%E4%BD%BF%E7%94%A8%E5%B8%B8%E5%BC%95%E7%94%A8)
+
+##### [16.8.9 预处理器标识#error的目的是什么？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#626%E9%A2%84%E5%A4%84%E7%90%86%E5%99%A8%E6%A0%87%E8%AF%86error%E7%9A%84%E7%9B%AE%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88)
+
+##### [16.9.1 GCC3.2.2版本中支持哪几种编程语言。](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#627gcc322%E7%89%88%E6%9C%AC%E4%B8%AD%E6%94%AF%E6%8C%81%E5%93%AA%E5%87%A0%E7%A7%8D%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80)
+
+##### [16.9.2 已知strcpy的函数原型：charstrcpy(charstrDest,constchar*strSrc)其中strDest是目的字符串，strSrc是源字符串。不调用C++/C的字符串库函数，请编写函数strcpy。](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#628%E5%B7%B2%E7%9F%A5strcpy%E7%9A%84%E5%87%BD%E6%95%B0%E5%8E%9F%E5%9E%8Bcharstrcpycharstrdestconstcharstrsrc%E5%85%B6%E4%B8%ADstrdest%E6%98%AF%E7%9B%AE%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2strsrc%E6%98%AF%E6%BA%90%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%8D%E8%B0%83%E7%94%A8cc%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%BA%93%E5%87%BD%E6%95%B0%E8%AF%B7%E7%BC%96%E5%86%99%E5%87%BD%E6%95%B0strcpy)
+
+##### [16.9.3 重载（overload)和重写(overried，有的书也叫做“覆盖”）的区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#629%E9%87%8D%E8%BD%BDoverload%E5%92%8C%E9%87%8D%E5%86%99overried%E6%9C%89%E7%9A%84%E4%B9%A6%E4%B9%9F%E5%8F%AB%E5%81%9A%E8%A6%86%E7%9B%96%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+##### [16.9.4 多重继承如何消除向上继承的二义性。](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#630%E5%A4%9A%E9%87%8D%E7%BB%A7%E6%89%BF%E5%A6%82%E4%BD%95%E6%B6%88%E9%99%A4%E5%90%91%E4%B8%8A%E7%BB%A7%E6%89%BF%E7%9A%84%E4%BA%8C%E4%B9%89%E6%80%A7)
+
+##### [16.9.5 #include与#include“file.h”的区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#631include%E4%B8%8Eincludefileh%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+##### [16.9.6 对数据库的一张表进行操作,同时要对另一张表进行操作,如何实现?](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#632%E5%AF%B9%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%84%E4%B8%80%E5%BC%A0%E8%A1%A8%E8%BF%9B%E8%A1%8C%E6%93%8D%E4%BD%9C%E5%90%8C%E6%97%B6%E8%A6%81%E5%AF%B9%E5%8F%A6%E4%B8%80%E5%BC%A0%E8%A1%A8%E8%BF%9B%E8%A1%8C%E6%93%8D%E4%BD%9C%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0)
+
+##### [16.9.7 #include<filename.h>和#include“filename.h”有什么区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#633includefilenameh%E5%92%8Cincludefilenameh%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB)
+
+##### [16.9.8 预处理器标识#error的目的是什么？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#634%E9%A2%84%E5%A4%84%E7%90%86%E5%99%A8%E6%A0%87%E8%AF%86error%E7%9A%84%E7%9B%AE%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88)
+
+##### [16.9.9 头文件的作用是什么?](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#635%E5%A4%B4%E6%96%87%E4%BB%B6%E7%9A%84%E4%BD%9C%E7%94%A8%E6%98%AF%E4%BB%80%E4%B9%88)
+
+##### [17.1.1 请问运行Test函数会有什么样的结果？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#636%E8%AF%B7%E9%97%AE%E8%BF%90%E8%A1%8Ctest%E5%87%BD%E6%95%B0%E4%BC%9A%E6%9C%89%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E7%BB%93%E6%9E%9C)
+
+##### [17.1.2 delete[]arry和deletearry一样吗？不一样请说明；](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#637deletearry%E5%92%8Cdeletearry%E4%B8%80%E6%A0%B7%E5%90%97%E4%B8%8D%E4%B8%80%E6%A0%B7%E8%AF%B7%E8%AF%B4%E6%98%8E)
+
+##### [17.1.3 请问运行Test函数会有什么样的结果？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#638%E8%AF%B7%E9%97%AE%E8%BF%90%E8%A1%8Ctest%E5%87%BD%E6%95%B0%E4%BC%9A%E6%9C%89%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E7%BB%93%E6%9E%9C)
+
+##### [17.1.4 请简述以下两个for循环的优缺点](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#639%E8%AF%B7%E7%AE%80%E8%BF%B0%E4%BB%A5%E4%B8%8B%E4%B8%A4%E4%B8%AAfor%E5%BE%AA%E7%8E%AF%E7%9A%84%E4%BC%98%E7%BC%BA%E7%82%B9)
+
+##### [17.1.5 构造函数可否是虚汗数，为什么？析构函数呢，可否是纯虚的呢？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#640%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0%E5%8F%AF%E5%90%A6%E6%98%AF%E8%99%9A%E6%B1%97%E6%95%B0%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9E%90%E6%9E%84%E5%87%BD%E6%95%B0%E5%91%A2%E5%8F%AF%E5%90%A6%E6%98%AF%E7%BA%AF%E8%99%9A%E7%9A%84%E5%91%A2)
+
+##### [17.1.6 在C++程序中调用被C编译器编译后的函数，为什么要加extern"C"?](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#641%E5%9C%A8c%E7%A8%8B%E5%BA%8F%E4%B8%AD%E8%B0%83%E7%94%A8%E8%A2%ABc%E7%BC%96%E8%AF%91%E5%99%A8%E7%BC%96%E8%AF%91%E5%90%8E%E7%9A%84%E5%87%BD%E6%95%B0%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%8A%A0externc)
+
+##### [17.1.7 请写出下面代码在32位平台上的运行结果，并说明sizeof的性质：](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#642%E8%AF%B7%E5%86%99%E5%87%BA%E4%B8%8B%E9%9D%A2%E4%BB%A3%E7%A0%81%E5%9C%A832%E4%BD%8D%E5%B9%B3%E5%8F%B0%E4%B8%8A%E7%9A%84%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C%E5%B9%B6%E8%AF%B4%E6%98%8Esizeof%E7%9A%84%E6%80%A7%E8%B4%A8)
+
+##### [17.1.8 高级通信包括信号量，——-，——–](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#643%E9%AB%98%E7%BA%A7%E9%80%9A%E4%BF%A1%E5%8C%85%E6%8B%AC%E4%BF%A1%E5%8F%B7%E9%87%8F-)
+
+##### [17.1.9 关联、聚合(Aggregation)以及组合(Composition)的区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#644%E5%85%B3%E8%81%94%E8%81%9A%E5%90%88aggregation%E4%BB%A5%E5%8F%8A%E7%BB%84%E5%90%88composition%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+##### [17.2.1 尽管不像非嵌入式计算机那么常见，嵌入式系统还是有从堆（heap）中动态分配内存的过程的。那么嵌入式系统中，动态分配内存可能发生的问题是什么？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#645%E5%B0%BD%E7%AE%A1%E4%B8%8D%E5%83%8F%E9%9D%9E%E5%B5%8C%E5%85%A5%E5%BC%8F%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%82%A3%E4%B9%88%E5%B8%B8%E8%A7%81%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F%E8%BF%98%E6%98%AF%E6%9C%89%E4%BB%8E%E5%A0%86heap%E4%B8%AD%E5%8A%A8%E6%80%81%E5%88%86%E9%85%8D%E5%86%85%E5%AD%98%E7%9A%84%E8%BF%87%E7%A8%8B%E7%9A%84%E9%82%A3%E4%B9%88%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F%E4%B8%AD%E5%8A%A8%E6%80%81%E5%88%86%E9%85%8D%E5%86%85%E5%AD%98%E5%8F%AF%E8%83%BD%E5%8F%91%E7%94%9F%E7%9A%84%E9%97%AE%E9%A2%98%E6%98%AF%E4%BB%80%E4%B9%88)
+
+##### [17.2.2 请问运行Test函数会有什么样的结果？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#646%E8%AF%B7%E9%97%AE%E8%BF%90%E8%A1%8Ctest%E5%87%BD%E6%95%B0%E4%BC%9A%E6%9C%89%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E7%BB%93%E6%9E%9C)
+
+##### [17.2.3 多态的实现](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#647%E5%A4%9A%E6%80%81%E7%9A%84%E5%AE%9E%E7%8E%B0)
+
+##### [17.2.4 Cpp四种强制类型转换](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#648cpp%E5%9B%9B%E7%A7%8D%E5%BC%BA%E5%88%B6%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2)
+
+##### [17.2.5 类的static成员的特点](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#649%E7%B1%BB%E7%9A%84static%E6%88%90%E5%91%98%E7%9A%84%E7%89%B9%E7%82%B9)
+
+##### [17.2.6 指针和引用的区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#650%E6%8C%87%E9%92%88%E5%92%8C%E5%BC%95%E7%94%A8%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+##### [17.2.7 谈谈对Cpp内存的理解](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#651%E8%B0%88%E8%B0%88%E5%AF%B9cpp%E5%86%85%E5%AD%98%E7%9A%84%E7%90%86%E8%A7%A3)
+
+##### [17.2.8 谈谈new、delete、malloc、free](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#652%E8%B0%88%E8%B0%88newdeletemallocfree)
+
+##### [17.2.9 const关键字](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#653const%E5%85%B3%E9%94%AE%E5%AD%97)
+
+##### [17.3.1 知道STL吗，挑两个你最常用的容器说一说](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#654%E7%9F%A5%E9%81%93stl%E5%90%97%E6%8C%91%E4%B8%A4%E4%B8%AA%E4%BD%A0%E6%9C%80%E5%B8%B8%E7%94%A8%E7%9A%84%E5%AE%B9%E5%99%A8%E8%AF%B4%E4%B8%80%E8%AF%B4)
+
+##### [17.3.2 怎么确定一个程序是C编译的还是C++编译的](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#655%E6%80%8E%E4%B9%88%E7%A1%AE%E5%AE%9A%E4%B8%80%E4%B8%AA%E7%A8%8B%E5%BA%8F%E6%98%AFc%E7%BC%96%E8%AF%91%E7%9A%84%E8%BF%98%E6%98%AFc%E7%BC%96%E8%AF%91%E7%9A%84)
+
+##### [17.3.3 一个文件从源码到可执行文件所经历的过程](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#656%E4%B8%80%E4%B8%AA%E6%96%87%E4%BB%B6%E4%BB%8E%E6%BA%90%E7%A0%81%E5%88%B0%E5%8F%AF%E6%89%A7%E8%A1%8C%E6%96%87%E4%BB%B6%E6%89%80%E7%BB%8F%E5%8E%86%E7%9A%84%E8%BF%87%E7%A8%8B)
+
+##### [17.3.4 了解C++新特性吗](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#657%E4%BA%86%E8%A7%A3c%E6%96%B0%E7%89%B9%E6%80%A7%E5%90%97)
+
+##### [17.3.5 什么是纯虚函数](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#658%E4%BB%80%E4%B9%88%E6%98%AF%E7%BA%AF%E8%99%9A%E5%87%BD%E6%95%B0)
+
+##### [17.3.6 构造函数和析构函数可以为虚函数吗](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#659%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0%E5%92%8C%E6%9E%90%E6%9E%84%E5%87%BD%E6%95%B0%E5%8F%AF%E4%BB%A5%E4%B8%BA%E8%99%9A%E5%87%BD%E6%95%B0%E5%90%97)
+
+##### [17.3.7 栈和堆的区别，什么时候必须使用堆](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#660%E6%A0%88%E5%92%8C%E5%A0%86%E7%9A%84%E5%8C%BA%E5%88%AB%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%BF%85%E9%A1%BB%E4%BD%BF%E7%94%A8%E5%A0%86)
+
+##### [17.3.8 用宏定义实现swap](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#661%E7%94%A8%E5%AE%8F%E5%AE%9A%E4%B9%89%E5%AE%9E%E7%8E%B0swap0
+
+##### [17.3.9 头文件<>和""的区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#662%E5%A4%B4%E6%96%87%E4%BB%B6%E5%92%8C%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+##### [17.4.1 编写string的构造函数、拷贝构造函数、赋值操作符重载和析构函数](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#663%E7%BC%96%E5%86%99string%E7%9A%84%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0%E6%8B%B7%E8%B4%9D%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0%E8%B5%8B%E5%80%BC%E6%93%8D%E4%BD%9C%E7%AC%A6%E9%87%8D%E8%BD%BD%E5%92%8C%E6%9E%90%E6%9E%84%E5%87%BD%E6%95%B0)
+
+##### [17.4.2 进程和线程间的通信方式](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#664%E8%BF%9B%E7%A8%8B%E5%92%8C%E7%BA%BF%E7%A8%8B%E9%97%B4%E7%9A%84%E9%80%9A%E4%BF%A1%E6%96%B9%E5%BC%8F)
+
+##### [17.4.3 死锁产生的原因和死锁的条件](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#665%E6%AD%BB%E9%94%81%E4%BA%A7%E7%94%9F%E7%9A%84%E5%8E%9F%E5%9B%A0%E5%92%8C%E6%AD%BB%E9%94%81%E7%9A%84%E6%9D%A1%E4%BB%B6)
+
+##### [17.4.4 如何采用单线程处理高并发](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#666%E5%A6%82%E4%BD%95%E9%87%87%E7%94%A8%E5%8D%95%E7%BA%BF%E7%A8%8B%E5%A4%84%E7%90%86%E9%AB%98%E5%B9%B6%E5%8F%91)
+
+##### [17.4.5 线程的状态](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#667%E7%BA%BF%E7%A8%8B%E7%9A%84%E7%8A%B6%E6%80%81)
+
+##### [17.4.6 进程的状态](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#668%E8%BF%9B%E7%A8%8B%E7%9A%84%E7%8A%B6%E6%80%81)
+
+##### [17.4.7 系统调用brk和mmap](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#669%E7%B3%BB%E7%BB%9F%E8%B0%83%E7%94%A8brk%E5%92%8Cmmap)
+
 
 <br/>
 <br/>
