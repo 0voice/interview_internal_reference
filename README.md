@@ -1369,7 +1369,49 @@
 
 ##### [15.9.9 编写my_strcpy函数，实现与库函数strcpy类似的功能，不能使用任何库函数；](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#555%E7%BC%96%E5%86%99my_strcpy%E5%87%BD%E6%95%B0%E5%AE%9E%E7%8E%B0%E4%B8%8E%E5%BA%93%E5%87%BD%E6%95%B0strcpy%E7%B1%BB%E4%BC%BC%E7%9A%84%E5%8A%9F%E8%83%BD%E4%B8%8D%E8%83%BD%E4%BD%BF%E7%94%A8%E4%BB%BB%E4%BD%95%E5%BA%93%E5%87%BD%E6%95%B0)
 
-##### [16.1.1 完成程序，实现对数组的降序排序](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#556%E5%AE%8C%E6%88%90%E7%A8%8B%E5%BA%8F%E5%AE%9E%E7%8E%B0%E5%AF%B9%E6%95%B0%E7%BB%84%E7%9A%84%E9%99%8D%E5%BA%8F%E6%8E%92%E5%BA%8F)
+##### [16.1.2 完成程序，实现对数组的降序排序](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#556%E5%AE%8C%E6%88%90%E7%A8%8B%E5%BA%8F%E5%AE%9E%E7%8E%B0%E5%AF%B9%E6%95%B0%E7%BB%84%E7%9A%84%E9%99%8D%E5%BA%8F%E6%8E%92%E5%BA%8F)
+
+##### [16.1.3 .ICMP是什么协议,处于哪一层?](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#557icmp%E6%98%AF%E4%BB%80%E4%B9%88%E5%8D%8F%E8%AE%AE%E5%A4%84%E4%BA%8E%E5%93%AA%E4%B8%80%E5%B1%82)
+
+##### [16.1.4 C中static有什么作用](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#558c%E4%B8%ADstatic%E6%9C%89%E4%BB%80%E4%B9%88%E4%BD%9C%E7%94%A8)
+
+##### [16.1.5 请问运行Test函数会有什么样的结果？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#559%E8%AF%B7%E9%97%AE%E8%BF%90%E8%A1%8Ctest%E5%87%BD%E6%95%B0%E4%BC%9A%E6%9C%89%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E7%BB%93%E6%9E%9C)
+
+##### [16.1.6 C++特点是什么，如何实现多态？画出基类和子类在内存中的相互关系。](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#560c%E7%89%B9%E7%82%B9%E6%98%AF%E4%BB%80%E4%B9%88%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E5%A4%9A%E6%80%81%E7%94%BB%E5%87%BA%E5%9F%BA%E7%B1%BB%E5%92%8C%E5%AD%90%E7%B1%BB%E5%9C%A8%E5%86%85%E5%AD%98%E4%B8%AD%E7%9A%84%E7%9B%B8%E4%BA%92%E5%85%B3%E7%B3%BB)
+
+##### [16.1.7 C++中的什么是多态性? 是如何实现的?](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#561c%E4%B8%AD%E7%9A%84%E4%BB%80%E4%B9%88%E6%98%AF%E5%A4%9A%E6%80%81%E6%80%A7-%E6%98%AF%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%9A%84)
+
+##### [16.1.8 关键字static的作用是什么？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#562%E5%85%B3%E9%94%AE%E5%AD%97static%E7%9A%84%E4%BD%9C%E7%94%A8%E6%98%AF%E4%BB%80%E4%B9%88)
+
+##### [16.1.9 #define MAX_LEN 500 char arry[MAX_LEN]; cin>>arry; 这段代码有问题吗？若有，请指出并修改；](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#563define-max_len-500-char-arrymax_len-cinarry-%E8%BF%99%E6%AE%B5%E4%BB%A3%E7%A0%81%E6%9C%89%E9%97%AE%E9%A2%98%E5%90%97%E8%8B%A5%E6%9C%89%E8%AF%B7%E6%8C%87%E5%87%BA%E5%B9%B6%E4%BF%AE%E6%94%B9)
+
+##### [16.2.1 delete []arry 和 delete arry 一样吗？不一样请说明；](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#564delete-arry-%E5%92%8C-delete-arry-%E4%B8%80%E6%A0%B7%E5%90%97%E4%B8%8D%E4%B8%80%E6%A0%B7%E8%AF%B7%E8%AF%B4%E6%98%8E)
+
+##### [16.2.2 多态的作用？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#565%E5%A4%9A%E6%80%81%E7%9A%84%E4%BD%9C%E7%94%A8)
+
+##### [16.2.3 C语言的volatile的含义是什么。使用时会对编译器有什么暗示。](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#566c%E8%AF%AD%E8%A8%80%E7%9A%84volatile%E7%9A%84%E5%90%AB%E4%B9%89%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%BF%E7%94%A8%E6%97%B6%E4%BC%9A%E5%AF%B9%E7%BC%96%E8%AF%91%E5%99%A8%E6%9C%89%E4%BB%80%E4%B9%88%E6%9A%97%E7%A4%BA)
+
+##### [16.2.4 请简述以下两个for循环的优缺点](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#567%E8%AF%B7%E7%AE%80%E8%BF%B0%E4%BB%A5%E4%B8%8B%E4%B8%A4%E4%B8%AAfor%E5%BE%AA%E7%8E%AF%E7%9A%84%E4%BC%98%E7%BC%BA%E7%82%B9)
+
+##### [16.2.5 预处理器标识#error的目的是什么？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#568%E9%A2%84%E5%A4%84%E7%90%86%E5%99%A8%E6%A0%87%E8%AF%86error%E7%9A%84%E7%9B%AE%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88)
+
+##### [16.2.6 C语言的volatile的含义是什么。使用时会对编译器有什么暗示。](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#569c%E8%AF%AD%E8%A8%80%E7%9A%84volatile%E7%9A%84%E5%90%AB%E4%B9%89%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%BF%E7%94%A8%E6%97%B6%E4%BC%9A%E5%AF%B9%E7%BC%96%E8%AF%91%E5%99%A8%E6%9C%89%E4%BB%80%E4%B9%88%E6%9A%97%E7%A4%BA)
+
+##### [16.2.7 MFC中CString是类型安全类么？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#570mfc%E4%B8%ADcstring%E6%98%AF%E7%B1%BB%E5%9E%8B%E5%AE%89%E5%85%A8%E7%B1%BB%E4%B9%88)
+
+##### [16.2.8 内联函数INline和宏定义一起使用的区别。](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#571%E5%86%85%E8%81%94%E5%87%BD%E6%95%B0inline%E5%92%8C%E5%AE%8F%E5%AE%9A%E4%B9%89%E4%B8%80%E8%B5%B7%E4%BD%BF%E7%94%A8%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+##### [16.2.9 C++中什么数据分配在栈或堆中，New分配数据是在近堆还是远堆中？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#572c%E4%B8%AD%E4%BB%80%E4%B9%88%E6%95%B0%E6%8D%AE%E5%88%86%E9%85%8D%E5%9C%A8%E6%A0%88%E6%88%96%E5%A0%86%E4%B8%ADnew%E5%88%86%E9%85%8D%E6%95%B0%E6%8D%AE%E6%98%AF%E5%9C%A8%E8%BF%91%E5%A0%86%E8%BF%98%E6%98%AF%E8%BF%9C%E5%A0%86%E4%B8%AD)
+
+##### [16.3.1 DB事务处理的四个特性：](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#573db%E4%BA%8B%E5%8A%A1%E5%A4%84%E7%90%86%E7%9A%84%E5%9B%9B%E4%B8%AA%E7%89%B9%E6%80%A7)
+
+##### [16.3.2 如何初始化一个指针数组。](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#574%E5%A6%82%E4%BD%95%E5%88%9D%E5%A7%8B%E5%8C%96%E4%B8%80%E4%B8%AA%E6%8C%87%E9%92%88%E6%95%B0%E7%BB%84)
+
+##### [16.3.3 int i=(j=4,k=8,l=16,m=32); printf(“%d”, i); 输出是多少？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#575int-ij4k8l16m32-printfd-i-%E8%BE%93%E5%87%BA%E6%98%AF%E5%A4%9A%E5%B0%91)
+
+##### [16.3.4 如何在C中初始化一个字符数组。](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#576%E5%A6%82%E4%BD%95%E5%9C%A8c%E4%B8%AD%E5%88%9D%E5%A7%8B%E5%8C%96%E4%B8%80%E4%B8%AA%E5%AD%97%E7%AC%A6%E6%95%B0%E7%BB%84)
+
+
 <br/>
 <br/>
 
