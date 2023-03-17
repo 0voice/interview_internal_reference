@@ -1999,6 +1999,123 @@
 
 ##### [19.9.1 下面的代码有什么问题？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#882%E4%B8%8B%E9%9D%A2%E7%9A%84%E4%BB%A3%E7%A0%81%E6%9C%89%E4%BB%80%E4%B9%88%E9%97%AE%E9%A2%98)
 
+##### [19.9.2 下面的代码有什么问题？并请给出正确的写法。](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#883%E4%B8%8B%E9%9D%A2%E7%9A%84%E4%BB%A3%E7%A0%81%E6%9C%89%E4%BB%80%E4%B9%88%E9%97%AE%E9%A2%98%E5%B9%B6%E8%AF%B7%E7%BB%99%E5%87%BA%E6%AD%A3%E7%A1%AE%E7%9A%84%E5%86%99%E6%B3%95)
+
+##### [19.9.3 下面代码有什么错误?](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#884%E4%B8%8B%E9%9D%A2%E4%BB%A3%E7%A0%81%E6%9C%89%E4%BB%80%E4%B9%88%E9%94%99%E8%AF%AF)
+
+##### [19.9.4 下面代码有什么问题?](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#885%E4%B8%8B%E9%9D%A2%E4%BB%A3%E7%A0%81%E6%9C%89%E4%BB%80%E4%B9%88%E9%97%AE%E9%A2%98)
+
+##### [19.9.5 下面的代码有什么问题？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#886%E4%B8%8B%E9%9D%A2%E4%BB%A3%E7%A0%81%E6%9C%89%E4%BB%80%E4%B9%88%E9%97%AE%E9%A2%98)
+
+##### [19.9.6 下面的代码有什么问题？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#887%E4%B8%8B%E9%9D%A2%E4%BB%A3%E7%A0%81%E6%9C%89%E4%BB%80%E4%B9%88%E9%97%AE%E9%A2%98)
+
+##### [19.9.7 下面的代码有什么问题？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#888%E4%B8%8B%E9%9D%A2%E4%BB%A3%E7%A0%81%E6%9C%89%E4%BB%80%E4%B9%88%E9%97%AE%E9%A2%98)
+
+##### [19.9.8 下面这个程序执行后会有什么错误或者效果](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#889%E4%B8%8B%E9%9D%A2%E8%BF%99%E4%B8%AA%E7%A8%8B%E5%BA%8F%E6%89%A7%E8%A1%8C%E5%90%8E%E4%BC%9A%E6%9C%89%E4%BB%80%E4%B9%88%E9%94%99%E8%AF%AF%E6%88%96%E8%80%85%E6%95%88%E6%9E%9C)
+
+##### [19.9.9 请找出下面代码中的所以错误](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#890%E8%AF%B7%E6%89%BE%E5%87%BA%E4%B8%8B%E9%9D%A2%E4%BB%A3%E7%A0%81%E4%B8%AD%E7%9A%84%E6%89%80%E4%BB%A5%E9%94%99%E8%AF%AF)
+
+##### [20.1.1 请问下面程序有什么错误?](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#891%E8%AF%B7%E9%97%AE%E4%B8%8B%E9%9D%A2%E7%A8%8B%E5%BA%8F%E6%9C%89%E4%BB%80%E4%B9%88%E9%94%99%E8%AF%AF)
+
+##### [20.1.2 32位，64位系统中，各种常用内置数据类型占用的字节数？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#89232%E4%BD%8D64%E4%BD%8D%E7%B3%BB%E7%BB%9F%E4%B8%AD%E5%90%84%E7%A7%8D%E5%B8%B8%E7%94%A8%E5%86%85%E7%BD%AE%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%8D%A0%E7%94%A8%E7%9A%84%E5%AD%97%E8%8A%82%E6%95%B0)
+
+##### [20.1.3 悬空指针与野指针区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#893%E6%82%AC%E7%A9%BA%E6%8C%87%E9%92%88%E4%B8%8E%E9%87%8E%E6%8C%87%E9%92%88%E5%8C%BA%E5%88%AB)
+
+##### [20.1.4 vector、map、multimap底层数据结构](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#894vectormapmultimap%E5%BA%95%E5%B1%82%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
+
+##### [20.1.5 C++的内存分区](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#895c%E7%9A%84%E5%86%85%E5%AD%98%E5%88%86%E5%8C%BA)
+
+##### [20.1.6 结构与联合有和区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#896%E7%BB%93%E6%9E%84%E4%B8%8E%E8%81%94%E5%90%88%E6%9C%89%E5%92%8C%E5%8C%BA%E5%88%AB)
+
+##### [20.1.7 将“引用”作为函数参数有哪些特点？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#897%E5%B0%86%E5%BC%95%E7%94%A8%E4%BD%9C%E4%B8%BA%E5%87%BD%E6%95%B0%E5%8F%82%E6%95%B0%E6%9C%89%E5%93%AA%E4%BA%9B%E7%89%B9%E7%82%B9)
+
+##### [20.1.8 多态，虚函数，纯虚函数](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#898%E5%A4%9A%E6%80%81%E8%99%9A%E5%87%BD%E6%95%B0%E7%BA%AF%E8%99%9A%E5%87%BD%E6%95%B0)
+
+##### [20.1.9 delete与 delete []区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#899delete%E4%B8%8E-delete-%E5%8C%BA%E5%88%AB)
+
+##### [20.2.1 new、delete、malloc、free关系](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#900newdeletemallocfree%E5%85%B3%E7%B3%BB)
+
+##### [20.2.2 链表和数组存储线性表的比较](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#901%E9%93%BE%E8%A1%A8%E5%92%8C%E6%95%B0%E7%BB%84%E5%AD%98%E5%82%A8%E7%BA%BF%E6%80%A7%E8%A1%A8%E7%9A%84%E6%AF%94%E8%BE%83)
+
+##### [20.2.3 C语言中链表的特点](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#902c%E8%AF%AD%E8%A8%80%E4%B8%AD%E9%93%BE%E8%A1%A8%E7%9A%84%E7%89%B9%E7%82%B9)
+
+##### [20.2.4 C语言中链表定义及结构](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#903c%E8%AF%AD%E8%A8%80%E4%B8%AD%E9%93%BE%E8%A1%A8%E5%AE%9A%E4%B9%89%E5%8F%8A%E7%BB%93%E6%9E%84)
+
+##### [20.2.5 C++中的临时对象](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#904c%E4%B8%AD%E7%9A%84%E4%B8%B4%E6%97%B6%E5%AF%B9%E8%B1%A1)
+
+##### [20.2.6 C++中的析构函数](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#905c%E4%B8%AD%E7%9A%84%E6%9E%90%E6%9E%84%E5%87%BD%E6%95%B0)
+
+##### [20.2.7 C++中对象的构造的顺序](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#906c%E4%B8%AD%E5%AF%B9%E8%B1%A1%E7%9A%84%E6%9E%84%E9%80%A0%E7%9A%84%E9%A1%BA%E5%BA%8F)
+
+##### [20.2.8 C++中赋值和初始化的区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#907c%E4%B8%AD%E8%B5%8B%E5%80%BC%E5%92%8C%E5%88%9D%E5%A7%8B%E5%8C%96%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+##### [20.2.9 C++类成员的初始化](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#908c%E7%B1%BB%E6%88%90%E5%91%98%E7%9A%84%E5%88%9D%E5%A7%8B%E5%8C%96)
+
+##### [20.3.1 C++什么时候需要进行深拷贝](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#909c%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E9%9C%80%E8%A6%81%E8%BF%9B%E8%A1%8C%E6%B7%B1%E6%8B%B7%E8%B4%9D)
+
+##### [20.3.2 拷贝构造函数的意义](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#910%E6%8B%B7%E8%B4%9D%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0%E7%9A%84%E6%84%8F%E4%B9%89)
+
+##### [20.3.3 C++中对象的声明和定义](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#912c%E4%B8%AD%E5%AF%B9%E8%B1%A1%E7%9A%84%E5%A3%B0%E6%98%8E%E5%92%8C%E5%AE%9A%E4%B9%89)
+
+##### [20.3.4 C++中带参数的构造函数](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#913c%E4%B8%AD%E5%B8%A6%E5%8F%82%E6%95%B0%E7%9A%84%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0)
+
+##### [20.3.5 C++中的构造函数](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#914c%E4%B8%AD%E7%9A%84%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0)
+
+##### [20.3.6 C++对象初始化](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#915c%E5%AF%B9%E8%B1%A1%E5%88%9D%E5%A7%8B%E5%8C%96)
+
+##### [20.3.7 C++面向对象的意义](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#917c%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%9A%84%E6%84%8F%E4%B9%89)
+
+##### [20.3.8 C++中类之间的基本关系](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#918c%E4%B8%AD%E7%B1%BB%E4%B9%8B%E9%97%B4%E7%9A%84%E5%9F%BA%E6%9C%AC%E5%85%B3%E7%B3%BB)
+
+##### [20.3.9 C++中类成员的作用域](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#919c%E4%B8%AD%E7%B1%BB%E6%88%90%E5%91%98%E7%9A%84%E4%BD%9C%E7%94%A8%E5%9F%9F)
+
+##### [20.4.1 C++中类的关键字](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#920c%E4%B8%AD%E7%B1%BB%E7%9A%84%E5%85%B3%E9%94%AE%E5%AD%97)
+
+##### [20.4.2 C++中类声明和实现的分离](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#921c%E4%B8%AD%E7%B1%BB%E5%A3%B0%E6%98%8E%E5%92%8C%E5%AE%9E%E7%8E%B0%E7%9A%84%E5%88%86%E7%A6%BB)
+
+##### [20.4.3 C++中的命名空间](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#922c%E4%B8%AD%E7%9A%84%E5%91%BD%E5%90%8D%E7%A9%BA%E9%97%B4)
+
+##### [20.4.4 C和C++相互调用](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#923c%E5%92%8Cc%E7%9B%B8%E4%BA%92%E8%B0%83%E7%94%A8)
+
+##### [20.4.5 函数重载的定义、条件、注意事项](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#924%E5%87%BD%E6%95%B0%E9%87%8D%E8%BD%BD%E7%9A%84%E5%AE%9A%E4%B9%89%E6%9D%A1%E4%BB%B6%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9)
+
+##### [20.4.6 C++中 inline 内联编译的限制](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#925c%E4%B8%AD-inline-%E5%86%85%E8%81%94%E7%BC%96%E8%AF%91%E7%9A%84%E9%99%90%E5%88%B6)
+
+##### [20.4.7 内联函数的定义和特点](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#926%E5%86%85%E8%81%94%E5%87%BD%E6%95%B0%E7%9A%84%E5%AE%9A%E4%B9%89%E5%92%8C%E7%89%B9%E7%82%B9)
+
+##### [20.4.8 C++引用的意义](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#927c%E5%BC%95%E7%94%A8%E7%9A%84%E6%84%8F%E4%B9%89)
+
+##### [20.4.9 C++引用的本质](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#928c%E5%BC%95%E7%94%A8%E7%9A%84%E6%9C%AC%E8%B4%A8)
+
+##### [20.5.1 C++中特殊的引用--const引用](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#929c%E4%B8%AD%E7%89%B9%E6%AE%8A%E7%9A%84%E5%BC%95%E7%94%A8--const%E5%BC%95%E7%94%A8)
+
+##### [20.5.2 C 到 C++ 的升级](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#930c-%E5%88%B0-c-%E7%9A%84%E5%8D%87%E7%BA%A7%E8%87%B3%E5%B0%91%E5%88%97%E5%87%BA%E4%B8%89%E7%82%B9)
+
+##### [20.5.3 C和C++语言中的三目运算符](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#931c%E5%92%8Cc%E8%AF%AD%E8%A8%80%E4%B8%AD%E7%9A%84%E4%B8%89%E7%9B%AE%E8%BF%90%E7%AE%97%E7%AC%A6)
+
+##### [20.5.4 宏的局限和妙用](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#932%E5%AE%8F%E7%9A%84%E5%B1%80%E9%99%90%E5%92%8C%E5%A6%99%E7%94%A8)
+
+##### [20.5.5 C 语言中的顺序点](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#933c-%E8%AF%AD%E8%A8%80%E4%B8%AD%E7%9A%84%E9%A1%BA%E5%BA%8F%E7%82%B9)
+
+##### [20.5.6 C/C++语言中的函数参数](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#934cc%E8%AF%AD%E8%A8%80%E4%B8%AD%E7%9A%84%E5%87%BD%E6%95%B0%E5%8F%82%E6%95%B0)
+
+##### [20.5.7 声明和定义](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#935%E5%A3%B0%E6%98%8E%E5%92%8C%E5%AE%9A%E4%B9%89)
+
+##### [20.5.8 C/C++语言中内存操作的交通规则](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#936cc%E8%AF%AD%E8%A8%80%E4%B8%AD%E5%86%85%E5%AD%98%E6%93%8D%E4%BD%9C%E7%9A%84%E4%BA%A4%E9%80%9A%E8%A7%84%E5%88%99)
+
+##### [20.5.9 C/C++语言中常见的内存错误](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#937cc%E8%AF%AD%E8%A8%80%E4%B8%AD%E5%B8%B8%E8%A7%81%E7%9A%84%E5%86%85%E5%AD%98%E9%94%99%E8%AF%AF)
+
+##### [20.6.1 内存操作的基本原则](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#938%E5%86%85%E5%AD%98%E6%93%8D%E4%BD%9C%E7%9A%84%E5%9F%BA%E6%9C%AC%E5%8E%9F%E5%88%99)
+
+##### [20.6.2 C/C++语言中野指针的含义](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#939cc%E8%AF%AD%E8%A8%80%E4%B8%AD%E9%87%8E%E6%8C%87%E9%92%88%E7%9A%84%E5%90%AB%E4%B9%89)
+
+##### [20.6.3 C/C++语言中文件布局在内存中的映射](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#940cc%E8%AF%AD%E8%A8%80%E4%B8%AD%E6%96%87%E4%BB%B6%E5%B8%83%E5%B1%80%E5%9C%A8%E5%86%85%E5%AD%98%E4%B8%AD%E7%9A%84%E6%98%A0%E5%B0%84)
+
+##### [20.6.4 C/C++语言中程序与进程](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#941cc%E8%AF%AD%E8%A8%80%E4%B8%AD%E7%A8%8B%E5%BA%8F%E4%B8%8E%E8%BF%9B%E7%A8%8B)
+
+##### [20.6.5 C/C++程序中的静态存储区](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#942cc%E7%A8%8B%E5%BA%8F%E4%B8%AD%E7%9A%84%E9%9D%99%E6%80%81%E5%AD%98%E5%82%A8%E5%8C%BA)
+
+##### [20.6.6 C/C++程序中的堆](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#943cc%E7%A8%8B%E5%BA%8F%E4%B8%AD%E7%9A%84%E5%A0%86)
 
 <br/>
 <br/>
