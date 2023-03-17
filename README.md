@@ -2117,6 +2117,119 @@
 
 ##### [20.6.6 C/C++程序中的堆](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#943cc%E7%A8%8B%E5%BA%8F%E4%B8%AD%E7%9A%84%E5%A0%86)
 
+##### [20.6.7 C语言中calloc 和 realloc 函数](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#945c%E8%AF%AD%E8%A8%80%E4%B8%ADcalloc-%E5%92%8C-realloc-%E5%87%BD%E6%95%B0)
+
+##### [20.6.8 malloc和free函数及使用过程需要注意的地方](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#946malloc%E5%92%8Cfree%E5%87%BD%E6%95%B0%E5%8F%8A%E4%BD%BF%E7%94%A8%E8%BF%87%E7%A8%8B%E9%9C%80%E8%A6%81%E6%B3%A8%E6%84%8F%E7%9A%84%E5%9C%B0%E6%96%B9)
+
+##### [20.6.9 C语言中动态内存分配](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#947c%E8%AF%AD%E8%A8%80%E4%B8%AD%E5%8A%A8%E6%80%81%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D)
+
+##### [20.7.1 C语言中的指针阅读技巧](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#948c%E8%AF%AD%E8%A8%80%E4%B8%AD%E7%9A%84%E6%8C%87%E9%92%88%E9%98%85%E8%AF%BB%E6%8A%80%E5%B7%A7)
+
+##### [20.7.2 C语言中的函数指针](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#949c%E8%AF%AD%E8%A8%80%E4%B8%AD%E7%9A%84%E5%87%BD%E6%95%B0%E6%8C%87%E9%92%88)
+
+##### [20.7.3 C语言中指向指针的指针](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#950c%E8%AF%AD%E8%A8%80%E4%B8%AD%E6%8C%87%E5%90%91%E6%8C%87%E9%92%88%E7%9A%84%E6%8C%87%E9%92%88)
+
+##### [20.7.4 C语言中的数组指针和指针数组](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#951c%E8%AF%AD%E8%A8%80%E4%B8%AD%E7%9A%84%E6%95%B0%E7%BB%84%E6%8C%87%E9%92%88%E5%92%8C%E6%8C%87%E9%92%88%E6%95%B0%E7%BB%84)
+
+##### [20.7.5 C语言中字符串相等的比较](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#952c%E8%AF%AD%E8%A8%80%E4%B8%AD%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9B%B8%E7%AD%89%E7%9A%84%E6%AF%94%E8%BE%83)
+
+##### [20.7.6 C语言中的字符串和字符数组](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#953c%E8%AF%AD%E8%A8%80%E4%B8%AD%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%92%8C%E5%AD%97%E7%AC%A6%E6%95%B0%E7%BB%84)
+
+##### [20.7.7 数组参数](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#954%E6%95%B0%E7%BB%84%E5%8F%82%E6%95%B0)
+
+##### [20.7.8 数组的访问方式](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#955%E6%95%B0%E7%BB%84%E7%9A%84%E8%AE%BF%E9%97%AE%E6%96%B9%E5%BC%8F)
+
+##### [20.7.9 数组地址与数组名](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#956%E6%95%B0%E7%BB%84%E5%9C%B0%E5%9D%80%E4%B8%8E%E6%95%B0%E7%BB%84%E5%90%8D)
+
+##### [20.8.1 C++中类封装的基本概念](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#957c%E4%B8%AD%E7%B1%BB%E5%B0%81%E8%A3%85%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5)
+
+##### [20.8.2 C++中的引用基本点](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#958c%E4%B8%AD%E7%9A%84%E5%BC%95%E7%94%A8%E5%9F%BA%E6%9C%AC%E7%82%B9)
+
+##### [20.8.3 函数设计原则](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#959%E5%87%BD%E6%95%B0%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99)
+
+##### [20.8.4 C语言中的回调函数](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#960c%E8%AF%AD%E8%A8%80%E4%B8%AD%E7%9A%84%E5%9B%9E%E8%B0%83%E5%87%BD%E6%95%B0)
+
+##### [20.8.5 C语言中二维数组参数](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#961c%E8%AF%AD%E8%A8%80%E4%B8%AD%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E5%8F%82%E6%95%B0)
+
+##### [20.8.6 数组的本质](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#962%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%AC%E8%B4%A8)
+
+##### [20.8.7 数组的含义](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#963%E6%95%B0%E7%BB%84%E7%9A%84%E5%90%AB%E4%B9%89)
+
+##### [20.8.8 C语言中#pragma 的使用](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#964c%E8%AF%AD%E8%A8%80%E4%B8%ADpragma-%E7%9A%84%E4%BD%BF%E7%94%A8)
+
+##### [20.8.9 C语言中#line的用法](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#965c%E8%AF%AD%E8%A8%80%E4%B8%ADline%E7%9A%84%E7%94%A8%E6%B3%95)
+
+##### [20.9.1 C语言中#error的用法](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#966c%E8%AF%AD%E8%A8%80%E4%B8%ADerror%E7%9A%84%E7%94%A8%E6%B3%95)
+
+##### [20.9.2 c语言中数组参数退化为指针的意义](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#967c%E8%AF%AD%E8%A8%80%E4%B8%AD%E6%95%B0%E7%BB%84%E5%8F%82%E6%95%B0%E9%80%80%E5%8C%96%E4%B8%BA%E6%8C%87%E9%92%88%E7%9A%84%E6%84%8F%E4%B9%89)
+
+##### [20.9.3 程序中的顺序点](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#968%E7%A8%8B%E5%BA%8F%E4%B8%AD%E7%9A%84%E9%A1%BA%E5%BA%8F%E7%82%B9)
+
+##### [20.9.4 面向过程的程序设计](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#969%E9%9D%A2%E5%90%91%E8%BF%87%E7%A8%8B%E7%9A%84%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1)
+
+##### [20.9.5 C语言中的函数类型](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#970c%E8%AF%AD%E8%A8%80%E4%B8%AD%E7%9A%84%E5%87%BD%E6%95%B0%E7%B1%BB%E5%9E%8B)
+
+##### [20.9.6 C语言二维数组与二级指针](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#971c%E8%AF%AD%E8%A8%80%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%8E%E4%BA%8C%E7%BA%A7%E6%8C%87%E9%92%88)
+
+##### [20.9.7 C语言中字符串的长度](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#972c%E8%AF%AD%E8%A8%80%E4%B8%AD%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E9%95%BF%E5%BA%A6)
+
+##### [20.9.8 指针的运算](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#973%E6%8C%87%E9%92%88%E7%9A%84%E8%BF%90%E7%AE%97)
+
+##### [20.9.9 数组名的知识点](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#974%E6%95%B0%E7%BB%84%E5%90%8D%E7%9A%84%E7%9F%A5%E8%AF%86%E7%82%B9)
+
+##### [21.1.1 C语言中的条件编译](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#975c%E8%AF%AD%E8%A8%80%E4%B8%AD%E7%9A%84%E6%9D%A1%E4%BB%B6%E7%BC%96%E8%AF%91)
+
+##### [21.1.2 C语言中函数和宏定义的对比](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#976c%E8%AF%AD%E8%A8%80%E4%B8%AD%E5%87%BD%E6%95%B0%E5%92%8C%E5%AE%8F%E5%AE%9A%E4%B9%89%E7%9A%84%E5%AF%B9%E6%AF%94)
+
+##### [21.1.3 c语言中动态库和静态库的使用](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#977c%E8%AF%AD%E8%A8%80%E4%B8%AD%E5%8A%A8%E6%80%81%E5%BA%93%E5%92%8C%E9%9D%99%E6%80%81%E5%BA%93%E7%9A%84%E4%BD%BF%E7%94%A8)
+
+##### [21.1.4 c语言中的逗号表达式](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#978c%E8%AF%AD%E8%A8%80%E4%B8%AD%E7%9A%84%E9%80%97%E5%8F%B7%E8%A1%A8%E8%BE%BE%E5%BC%8F)
+
+##### [21.1.5 C语言中的单引号和双引号](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#979c%E8%AF%AD%E8%A8%80%E4%B8%AD%E7%9A%84%E5%8D%95%E5%BC%95%E5%8F%B7%E5%92%8C%E5%8F%8C%E5%BC%95%E5%8F%B7)
+
+##### [21.1.6 C语言中接续符和转义符](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#980c%E8%AF%AD%E8%A8%80%E4%B8%AD%E6%8E%A5%E7%BB%AD%E7%AC%A6%E5%92%8C%E8%BD%AC%E4%B9%89%E7%AC%A6)
+
+##### [21.1.7 C语言中union关键字](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#981c%E8%AF%AD%E8%A8%80%E4%B8%ADunion%E5%85%B3%E9%94%AE%E5%AD%97)
+
+##### [21.1.8 C语言中变量的属性关键字](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#982c%E8%AF%AD%E8%A8%80%E4%B8%AD%E5%8F%98%E9%87%8F%E7%9A%84%E5%B1%9E%E6%80%A7%E5%85%B3%E9%94%AE%E5%AD%97)
+
+##### [21.1.9 c语言中enum关键字的作用](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#983c%E8%AF%AD%E8%A8%80%E4%B8%ADenum%E5%85%B3%E9%94%AE%E5%AD%97%E7%9A%84%E4%BD%9C%E7%94%A8)
+
+##### [21.2.1 C语言中sizeof关键字的作用](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#984c%E8%AF%AD%E8%A8%80%E4%B8%ADsizeof%E5%85%B3%E9%94%AE%E5%AD%97%E7%9A%84%E4%BD%9C%E7%94%A8)
+
+##### [21.2.2 c语言中extern关键字的作用](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#985c%E8%AF%AD%E8%A8%80%E4%B8%ADextern%E5%85%B3%E9%94%AE%E5%AD%97%E7%9A%84%E4%BD%9C%E7%94%A8)
+
+##### [21.2.3 C语言中volatile关键字的作用](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#986c%E8%AF%AD%E8%A8%80%E4%B8%ADvolatile%E5%85%B3%E9%94%AE%E5%AD%97%E7%9A%84%E4%BD%9C%E7%94%A8)
+
+##### [21.2.4 C语言中const关键字的作用](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#987c%E8%AF%AD%E8%A8%80%E4%B8%ADconst%E5%85%B3%E9%94%AE%E5%AD%97%E7%9A%84%E4%BD%9C%E7%94%A8)
+
+##### [21.2.5 ‘#’与‘##’的区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#988%E4%B8%8E%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+##### [21.2.6 如何引用一个已经定义过的全局变量？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#989%E5%A6%82%E4%BD%95%E5%BC%95%E7%94%A8%E4%B8%80%E4%B8%AA%E5%B7%B2%E7%BB%8F%E5%AE%9A%E4%B9%89%E8%BF%87%E7%9A%84%E5%85%A8%E5%B1%80%E5%8F%98%E9%87%8F)
+
+##### [21.2.7 大小端问题](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#990%E5%A4%A7%E5%B0%8F%E7%AB%AF%E9%97%AE%E9%A2%98)
+
+##### [21.2.8 typedef关键字](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#991typedef%E5%85%B3%E9%94%AE%E5%AD%97)
+
+##### [21.2.9 什么是封装？C++中是如何实现的？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#992%E4%BB%80%E4%B9%88%E6%98%AF%E5%B0%81%E8%A3%85c%E4%B8%AD%E6%98%AF%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%9A%84)
+
+##### [21.3.1 C与C++各自是如何定义常量的？有什么不同？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#993c%E4%B8%8Ec%E5%90%84%E8%87%AA%E6%98%AF%E5%A6%82%E4%BD%95%E5%AE%9A%E4%B9%89%E5%B8%B8%E9%87%8F%E7%9A%84%E6%9C%89%E4%BB%80%E4%B9%88%E4%B8%8D%E5%90%8C)
+
+##### [21.3.2 内存的分配方式的分配方式有几种?](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#994%E5%86%85%E5%AD%98%E7%9A%84%E5%88%86%E9%85%8D%E6%96%B9%E5%BC%8F%E7%9A%84%E5%88%86%E9%85%8D%E6%96%B9%E5%BC%8F%E6%9C%89%E5%87%A0%E7%A7%8D)
+
+##### [21.3.3 头文件中的 ifndef/define/endif 干什么用?](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#995%E5%A4%B4%E6%96%87%E4%BB%B6%E4%B8%AD%E7%9A%84-ifndefdefineendif-%E5%B9%B2%E4%BB%80%E4%B9%88%E7%94%A8)
+
+##### [21.3.4 什么是预编译？何时需要预编译？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#996%E4%BB%80%E4%B9%88%E6%98%AF%E9%A2%84%E7%BC%96%E8%AF%91%E4%BD%95%E6%97%B6%E9%9C%80%E8%A6%81%E9%A2%84%E7%BC%96%E8%AF%91)
+
+##### [21.3.5 在C++程序中调用被C编译器编译后的函数，为什么要加extern“C”声明?](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#997%E5%9C%A8c%E7%A8%8B%E5%BA%8F%E4%B8%AD%E8%B0%83%E7%94%A8%E8%A2%ABc%E7%BC%96%E8%AF%91%E5%99%A8%E7%BC%96%E8%AF%91%E5%90%8E%E7%9A%84%E5%87%BD%E6%95%B0%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%8A%A0externc%E5%A3%B0%E6%98%8E)
+
+##### [21.3.6 memset ,memcpy 的区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#998memset-memcpy-%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+##### [21.3.7 一下三种指针的区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#999%E4%B8%80%E4%B8%8B%E4%B8%89%E7%A7%8D%E6%8C%87%E9%92%88%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+##### [21.3.8 “常量指针”和“指针常量”有什么区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#1000%E5%B8%B8%E9%87%8F%E6%8C%87%E9%92%88%E5%92%8C%E6%8C%87%E9%92%88%E5%B8%B8%E9%87%8F%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB)
+
+
 <br/>
 <br/>
 
