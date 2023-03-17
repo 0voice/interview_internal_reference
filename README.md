@@ -1898,6 +1898,108 @@
 ##### [19.3.4 实现strcmp函数](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#827%E5%AE%9E%E7%8E%B0strcmp%E5%87%BD%E6%95%B0)
 
 ##### [19.3.5 实现字符串翻转](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#828%E5%AE%9E%E7%8E%B0%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%BF%BB%E8%BD%AC)
+
+##### [19.3.6 用指针的方法，将字符串“ABCD1234efgh”前后对调显示](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#829%E7%94%A8%E6%8C%87%E9%92%88%E7%9A%84%E6%96%B9%E6%B3%95%E5%B0%86%E5%AD%97%E7%AC%A6%E4%B8%B2abcd1234efgh%E5%89%8D%E5%90%8E%E5%AF%B9%E8%B0%83%E6%98%BE%E7%A4%BA)
+
+##### [19.3.7 给定字符串A和B,输出A和B中的最大公共子串。比如A="aocdfe" B="pmcdfa" 则输出"cdf"](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#830%E7%BB%99%E5%AE%9A%E5%AD%97%E7%AC%A6%E4%B8%B2a%E5%92%8Cb%E8%BE%93%E5%87%BAa%E5%92%8Cb%E4%B8%AD%E7%9A%84%E6%9C%80%E5%A4%A7%E5%85%AC%E5%85%B1%E5%AD%90%E4%B8%B2%E6%AF%94%E5%A6%82aaocdfe-bpmcdfa-%E5%88%99%E8%BE%93%E5%87%BAcdf)
+
+##### [19.3.8 判断一个字符串是不是回文](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#831%E5%88%A4%E6%96%AD%E4%B8%80%E4%B8%AA%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%98%AF%E4%B8%8D%E6%98%AF%E5%9B%9E%E6%96%87)
+
+##### [19.3.9 写函数完成内存的拷贝](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#832%E5%86%99%E5%87%BD%E6%95%B0%E5%AE%8C%E6%88%90%E5%86%85%E5%AD%98%E7%9A%84%E6%8B%B7%E8%B4%9D)
+
+##### [19.4.1 写一个函数,它的原形是int continumax(char *outputstr,char *intputstr)](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#833%E5%86%99%E4%B8%80%E4%B8%AA%E5%87%BD%E6%95%B0%E5%AE%83%E7%9A%84%E5%8E%9F%E5%BD%A2%E6%98%AFint-continumaxchar-outputstrchar-intputstr)
+
+##### [19.4.2 编写一个 C 函数，该函数在一个字符串中找到可能的最长的子字符串，且该字符串是由同一字符组成的](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#834%E7%BC%96%E5%86%99%E4%B8%80%E4%B8%AA-c-%E5%87%BD%E6%95%B0%E8%AF%A5%E5%87%BD%E6%95%B0%E5%9C%A8%E4%B8%80%E4%B8%AA%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E6%89%BE%E5%88%B0%E5%8F%AF%E8%83%BD%E7%9A%84%E6%9C%80%E9%95%BF%E7%9A%84%E5%AD%90%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%94%E8%AF%A5%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%98%AF%E7%94%B1%E5%90%8C%E4%B8%80%E5%AD%97%E7%AC%A6%E7%BB%84%E6%88%90%E7%9A%84)
+
+##### [19.4.3 写出快速排序或者某种排序算法代码](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#835%E5%86%99%E5%87%BA%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F%E6%88%96%E8%80%85%E6%9F%90%E7%A7%8D%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95%E4%BB%A3%E7%A0%81)
+
+##### [19.4.4 将一个单链表逆序](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#836%E5%B0%86%E4%B8%80%E4%B8%AA%E5%8D%95%E9%93%BE%E8%A1%A8%E9%80%86%E5%BA%8F)
+
+##### [19.4.5 循环链表的节点对换和删除](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#837%E5%BE%AA%E7%8E%AF%E9%93%BE%E8%A1%A8%E7%9A%84%E8%8A%82%E7%82%B9%E5%AF%B9%E6%8D%A2%E5%92%8C%E5%88%A0%E9%99%A4)
+
+##### [19.4.6 有双向循环链表结点定义为](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#838%E6%9C%89%E5%8F%8C%E5%90%91%E5%BE%AA%E7%8E%AF%E9%93%BE%E8%A1%A8%E7%BB%93%E7%82%B9%E5%AE%9A%E4%B9%89%E4%B8%BA)
+
+##### [19.4.7 写出程序删除链表中的所有接点](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#839%E5%86%99%E5%87%BA%E7%A8%8B%E5%BA%8F%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E6%89%80%E6%9C%89%E6%8E%A5%E7%82%B9)
+
+##### [19.4.8 线形表a、b为两个有序升序的线形表，编写一程序，使两个有序线形表合并成一个有序升序线形表h](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#840%E7%BA%BF%E5%BD%A2%E8%A1%A8ab%E4%B8%BA%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E5%8D%87%E5%BA%8F%E7%9A%84%E7%BA%BF%E5%BD%A2%E8%A1%A8%E7%BC%96%E5%86%99%E4%B8%80%E7%A8%8B%E5%BA%8F%E4%BD%BF%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E7%BA%BF%E5%BD%A2%E8%A1%A8%E5%90%88%E5%B9%B6%E6%88%90%E4%B8%80%E4%B8%AA%E6%9C%89%E5%BA%8F%E5%8D%87%E5%BA%8F%E7%BA%BF%E5%BD%A2%E8%A1%A8h)
+
+##### [19.4.9 怎么判断链表中是否有环？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#841%E6%80%8E%E4%B9%88%E5%88%A4%E6%96%AD%E9%93%BE%E8%A1%A8%E4%B8%AD%E6%98%AF%E5%90%A6%E6%9C%89%E7%8E%AF)
+
+##### [19.5.1 static有什么用途？（请至少说明两种）](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#842static%E6%9C%89%E4%BB%80%E4%B9%88%E7%94%A8%E9%80%94%E8%AF%B7%E8%87%B3%E5%B0%91%E8%AF%B4%E6%98%8E%E4%B8%A4%E7%A7%8D)
+
+##### [19.5.2 引用与指针有什么区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#843%E5%BC%95%E7%94%A8%E4%B8%8E%E6%8C%87%E9%92%88%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB)
+
+##### [19.5.3 全局变量和局部变量在内存中是否有区别？如果有，是什么区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#844%E5%85%A8%E5%B1%80%E5%8F%98%E9%87%8F%E5%92%8C%E5%B1%80%E9%83%A8%E5%8F%98%E9%87%8F%E5%9C%A8%E5%86%85%E5%AD%98%E4%B8%AD%E6%98%AF%E5%90%A6%E6%9C%89%E5%8C%BA%E5%88%AB%E5%A6%82%E6%9E%9C%E6%9C%89%E6%98%AF%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB)
+
+##### [19.5.4 static变量和static 函数各有什么特点？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#845static%E5%8F%98%E9%87%8F%E5%92%8Cstatic-%E5%87%BD%E6%95%B0%E5%90%84%E6%9C%89%E4%BB%80%E4%B9%88%E7%89%B9%E7%82%B9)
+
+##### [19.5.5 static全局变量与普通的全局变量有什么区别？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#846static%E5%85%A8%E5%B1%80%E5%8F%98%E9%87%8F%E4%B8%8E%E6%99%AE%E9%80%9A%E7%9A%84%E5%85%A8%E5%B1%80%E5%8F%98%E9%87%8F%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB)
+
+##### [19.5.6 static函数与普通函数有什么区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#847static%E5%87%BD%E6%95%B0%E4%B8%8E%E6%99%AE%E9%80%9A%E5%87%BD%E6%95%B0%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB)
+
+##### [19.5.7 什么是平衡二叉树？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#848%E4%BB%80%E4%B9%88%E6%98%AF%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91)
+
+##### [19.5.8 什么函数不能声明为虚函数？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#849%E4%BB%80%E4%B9%88%E5%87%BD%E6%95%B0%E4%B8%8D%E8%83%BD%E5%A3%B0%E6%98%8E%E4%B8%BA%E8%99%9A%E5%87%BD%E6%95%B0)
+
+##### [19.5.9 写出float x 与“零值”比较的if语句](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#851%E5%86%99%E5%87%BAfloat-x-%E4%B8%8E%E9%9B%B6%E5%80%BC%E6%AF%94%E8%BE%83%E7%9A%84if%E8%AF%AD%E5%8F%A5)
+
+##### [19.6.1 进程间通信的方式有?](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#852%E8%BF%9B%E7%A8%8B%E9%97%B4%E9%80%9A%E4%BF%A1%E7%9A%84%E6%96%B9%E5%BC%8F%E6%9C%89)
+
+##### [19.6.2 const 符号常量](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#853const-%E7%AC%A6%E5%8F%B7%E5%B8%B8%E9%87%8F)
+
+##### [19.6.3 c和c++中的struct有什么不同？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#854c%E5%92%8Cc%E4%B8%AD%E7%9A%84struct%E6%9C%89%E4%BB%80%E4%B9%88%E4%B8%8D%E5%90%8C)
+
+##### [19.6.4 纯虚函数如何定义？使用时应注意什么？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#855%E7%BA%AF%E8%99%9A%E5%87%BD%E6%95%B0%E5%A6%82%E4%BD%95%E5%AE%9A%E4%B9%89%E4%BD%BF%E7%94%A8%E6%97%B6%E5%BA%94%E6%B3%A8%E6%84%8F%E4%BB%80%E4%B9%88)
+
+##### [19.6.5 数组和链表的区别](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#856%E6%95%B0%E7%BB%84%E5%92%8C%E9%93%BE%E8%A1%A8%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+##### [19.6.6 线程与进程的区别和联系? 线程是否具有相同的堆栈? dll是否有独立的堆栈?](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#857%E7%BA%BF%E7%A8%8B%E4%B8%8E%E8%BF%9B%E7%A8%8B%E7%9A%84%E5%8C%BA%E5%88%AB%E5%92%8C%E8%81%94%E7%B3%BB-%E7%BA%BF%E7%A8%8B%E6%98%AF%E5%90%A6%E5%85%B7%E6%9C%89%E7%9B%B8%E5%90%8C%E7%9A%84%E5%A0%86%E6%A0%88-dll%E6%98%AF%E5%90%A6%E6%9C%89%E7%8B%AC%E7%AB%8B%E7%9A%84%E5%A0%86%E6%A0%88)
+
+##### [19.6.7 一语句实现x是否为2的若干次幂的判断](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#858%E4%B8%80%E8%AF%AD%E5%8F%A5%E5%AE%9E%E7%8E%B0x%E6%98%AF%E5%90%A6%E4%B8%BA2%E7%9A%84%E8%8B%A5%E5%B9%B2%E6%AC%A1%E5%B9%82%E7%9A%84%E5%88%A4%E6%96%AD)
+
+##### [19.6.8 计算结果题目](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#859%E8%AE%A1%E7%AE%97%E7%BB%93%E6%9E%9C%E9%A2%98%E7%9B%AE)
+
+##### [19.6.9 输出下面程序结果](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#860%E8%BE%93%E5%87%BA%E4%B8%8B%E9%9D%A2%E7%A8%8B%E5%BA%8F%E7%BB%93%E6%9E%9C)
+
+##### [19.7.1 写出程序运行结果](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#861%E5%86%99%E5%87%BA%E7%A8%8B%E5%BA%8F%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C)
+
+##### [19.7.2 求函数返回值，输入x=9999](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#862%E6%B1%82%E5%87%BD%E6%95%B0%E8%BF%94%E5%9B%9E%E5%80%BC%E8%BE%93%E5%85%A5x9999)
+
+##### [19.7.3 用户输入M,N值，从1至N开始顺序循环数数，每数到M输出该数值，直至全部输出。写出C程序](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#863%E7%94%A8%E6%88%B7%E8%BE%93%E5%85%A5mn%E5%80%BC%E4%BB%8E1%E8%87%B3n%E5%BC%80%E5%A7%8B%E9%A1%BA%E5%BA%8F%E5%BE%AA%E7%8E%AF%E6%95%B0%E6%95%B0%E6%AF%8F%E6%95%B0%E5%88%B0m%E8%BE%93%E5%87%BA%E8%AF%A5%E6%95%B0%E5%80%BC%E7%9B%B4%E8%87%B3%E5%85%A8%E9%83%A8%E8%BE%93%E5%87%BA%E5%86%99%E5%87%BAc%E7%A8%8B%E5%BA%8F)
+
+##### [19.7.4 有10亿个浮点数，求出其中最大的10000个 ,用了标准库的，不让用的话，只能自己写堆函数](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#864%E6%9C%8910%E4%BA%BF%E4%B8%AA%E6%B5%AE%E7%82%B9%E6%95%B0%E6%B1%82%E5%87%BA%E5%85%B6%E4%B8%AD%E6%9C%80%E5%A4%A7%E7%9A%8410000%E4%B8%AA-%E7%94%A8%E4%BA%86%E6%A0%87%E5%87%86%E5%BA%93%E7%9A%84%E4%B8%8D%E8%AE%A9%E7%94%A8%E7%9A%84%E8%AF%9D%E5%8F%AA%E8%83%BD%E8%87%AA%E5%B7%B1%E5%86%99%E5%A0%86%E5%87%BD%E6%95%B0)
+
+##### [19.7.5 在不用第三方参数的情况下，交换两个参数的值 感觉比较:( , bt 而且还是基础题](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#865%E5%9C%A8%E4%B8%8D%E7%94%A8%E7%AC%AC%E4%B8%89%E6%96%B9%E5%8F%82%E6%95%B0%E7%9A%84%E6%83%85%E5%86%B5%E4%B8%8B%E4%BA%A4%E6%8D%A2%E4%B8%A4%E4%B8%AA%E5%8F%82%E6%95%B0%E7%9A%84%E5%80%BC-%E6%84%9F%E8%A7%89%E6%AF%94%E8%BE%83--bt-%E8%80%8C%E4%B8%94%E8%BF%98%E6%98%AF%E5%9F%BA%E7%A1%80%E9%A2%98)
+
+##### [19.7.6 写一段程序，找出数组中第k大小的数，输出数所在的位置](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#866%E5%86%99%E4%B8%80%E6%AE%B5%E7%A8%8B%E5%BA%8F%E6%89%BE%E5%87%BA%E6%95%B0%E7%BB%84%E4%B8%AD%E7%AC%ACk%E5%A4%A7%E5%B0%8F%E7%9A%84%E6%95%B0%E8%BE%93%E5%87%BA%E6%95%B0%E6%89%80%E5%9C%A8%E7%9A%84%E4%BD%8D%E7%BD%AE)
+
+##### [19.7.7 求1000！的未尾有几个0（用素数相乘的方法来做，如72=22233）](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#867%E6%B1%821000%E7%9A%84%E6%9C%AA%E5%B0%BE%E6%9C%89%E5%87%A0%E4%B8%AA0%E7%94%A8%E7%B4%A0%E6%95%B0%E7%9B%B8%E4%B9%98%E7%9A%84%E6%96%B9%E6%B3%95%E6%9D%A5%E5%81%9A%E5%A6%827222233)
+
+##### [19.7.8 编程实现：把十进制数(long型)分别以二进制和十六进制形式输出，不能使用printf系列库函数](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#868%E7%BC%96%E7%A8%8B%E5%AE%9E%E7%8E%B0%E6%8A%8A%E5%8D%81%E8%BF%9B%E5%88%B6%E6%95%B0long%E5%9E%8B%E5%88%86%E5%88%AB%E4%BB%A5%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%92%8C%E5%8D%81%E5%85%AD%E8%BF%9B%E5%88%B6%E5%BD%A2%E5%BC%8F%E8%BE%93%E5%87%BA%E4%B8%8D%E8%83%BD%E4%BD%BF%E7%94%A8printf%E7%B3%BB%E5%88%97%E5%BA%93%E5%87%BD%E6%95%B0)
+
+##### [19.7.9 输入N, 打印 N*N 矩阵](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#869%E8%BE%93%E5%85%A5n-%E6%89%93%E5%8D%B0-nn-%E7%9F%A9%E9%98%B5)
+
+##### [19.8.1 斐波拉契数列递归实现的方法如下](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#870%E6%96%90%E6%B3%A2%E6%8B%89%E5%A5%91%E6%95%B0%E5%88%97%E9%80%92%E5%BD%92%E5%AE%9E%E7%8E%B0%E7%9A%84%E6%96%B9%E6%B3%95%E5%A6%82%E4%B8%8B)
+
+##### [19.8.2 将一个数字字符串转换为数字."1234" -->1234](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#871%E5%B0%86%E4%B8%80%E4%B8%AA%E6%95%B0%E5%AD%97%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E4%B8%BA%E6%95%B0%E5%AD%971234---1234)
+
+##### [19.8.3 编程实现：把十进制数(long型)分别以二进制和十六进制形式输出，不能使用printf系列库函数](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#872%E7%BC%96%E7%A8%8B%E5%AE%9E%E7%8E%B0%E6%8A%8A%E5%8D%81%E8%BF%9B%E5%88%B6%E6%95%B0long%E5%9E%8B%E5%88%86%E5%88%AB%E4%BB%A5%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%92%8C%E5%8D%81%E5%85%AD%E8%BF%9B%E5%88%B6%E5%BD%A2%E5%BC%8F%E8%BE%93%E5%87%BA%E4%B8%8D%E8%83%BD%E4%BD%BF%E7%94%A8printf%E7%B3%BB%E5%88%97%E5%BA%93%E5%87%BD%E6%95%B0)
+
+##### [19.8.4 实现任意长度的整数相加或者相乘功能](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#873%E5%AE%9E%E7%8E%B0%E4%BB%BB%E6%84%8F%E9%95%BF%E5%BA%A6%E7%9A%84%E6%95%B4%E6%95%B0%E7%9B%B8%E5%8A%A0%E6%88%96%E8%80%85%E7%9B%B8%E4%B9%98%E5%8A%9F%E8%83%BD)
+
+##### [19.8.5 用递归算法判断数组a[N]是否为一个递增数组](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#874%E7%94%A8%E9%80%92%E5%BD%92%E7%AE%97%E6%B3%95%E5%88%A4%E6%96%AD%E6%95%B0%E7%BB%84an%E6%98%AF%E5%90%A6%E4%B8%BA%E4%B8%80%E4%B8%AA%E9%80%92%E5%A2%9E%E6%95%B0%E7%BB%84)
+
+##### [19.8.6 给两个数组和他们的大小，还有一动态开辟的内存，求交集，把交集放到动态内存dongtai，并且返回交集个数](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#876%E7%BB%99%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E5%92%8C%E4%BB%96%E4%BB%AC%E7%9A%84%E5%A4%A7%E5%B0%8F%E8%BF%98%E6%9C%89%E4%B8%80%E5%8A%A8%E6%80%81%E5%BC%80%E8%BE%9F%E7%9A%84%E5%86%85%E5%AD%98%E6%B1%82%E4%BA%A4%E9%9B%86%E6%8A%8A%E4%BA%A4%E9%9B%86%E6%94%BE%E5%88%B0%E5%8A%A8%E6%80%81%E5%86%85%E5%AD%98dongtai%E5%B9%B6%E4%B8%94%E8%BF%94%E5%9B%9E%E4%BA%A4%E9%9B%86%E4%B8%AA%E6%95%B0)
+
+##### [19.8.7 用两个栈实现一个队列的功能？要求给出算法和思路！](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#879%E7%94%A8%E4%B8%A4%E4%B8%AA%E6%A0%88%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E9%98%9F%E5%88%97%E7%9A%84%E5%8A%9F%E8%83%BD%E8%A6%81%E6%B1%82%E7%BB%99%E5%87%BA%E7%AE%97%E6%B3%95%E5%92%8C%E6%80%9D%E8%B7%AF)
+
+##### [19.8.8 求组合数： 求n个数（1....n）中k个数的组合.... 如：combination(5,3)](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#880%E6%B1%82%E7%BB%84%E5%90%88%E6%95%B0-%E6%B1%82n%E4%B8%AA%E6%95%B01n%E4%B8%ADk%E4%B8%AA%E6%95%B0%E7%9A%84%E7%BB%84%E5%90%88-%E5%A6%82combination53)
+
+##### [19.8.9 下面是C语言中两种if语句判断方式。请问哪种写法更好？为什么？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#881%E4%B8%8B%E9%9D%A2%E6%98%AFc%E8%AF%AD%E8%A8%80%E4%B8%AD%E4%B8%A4%E7%A7%8Dif%E8%AF%AD%E5%8F%A5%E5%88%A4%E6%96%AD%E6%96%B9%E5%BC%8F%E8%AF%B7%E9%97%AE%E5%93%AA%E7%A7%8D%E5%86%99%E6%B3%95%E6%9B%B4%E5%A5%BD%E4%B8%BA%E4%BB%80%E4%B9%88)
+
+##### [19.9.1 下面的代码有什么问题？](https://github.com/0voice/interview_internal_reference/blob/master/2023adding.md#882%E4%B8%8B%E9%9D%A2%E7%9A%84%E4%BB%A3%E7%A0%81%E6%9C%89%E4%BB%80%E4%B9%88%E9%97%AE%E9%A2%98)
+
+
 <br/>
 <br/>
 
