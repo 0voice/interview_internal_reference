@@ -2233,15 +2233,13 @@
 <br/>
 <br/>
 
-<h3 >金主爸爸</h3> 
+<h3 >零领工作</h3> 
 
 ---
 
-##### 安利术语：零声，专注于C/C++，Linux，Nginx，ZeroMQ，MySQL，Redis，fastdfs，MongoDB，ZK，流媒体，CDN，P2P，K8S，Docker，TCP/IP，协程，DPDK, SPDK, bpf/ebpf等等相关技术分享。本repo由零声的小伙伴推动以及所有提交patch的小伙伴（后面鸣谢部分）参与，共同完成。内容来源于互联网，本repo仅限于整理总结。
+##### 实时提供，每周发布北京，上海，广州，深圳，杭州，南京，合肥，武汉，长沙，重庆，成都，西安，厦门的c/c++，golang方向的招聘岗位信息。 校招，社招，实习岗位都有的。 面经，八股，简历都有的
 
-##### 零声交流群: 762073882, [偶遇技术大佬交流，不定期书籍红包福利，每晚技术直播通知！](https://jq.qq.com/?_wv=1027&k=sEIbk6yO)
-
-##### 点击进入 [每晚八点技术直播](https://ke.qq.com/course/417774?flowToken=1024646)
+<img src="https://img.0voice.com/public/0e59910091576beaebe20f303357edf7.jpg" alt="零领工作" style="width:300px;height:300px;">
 
 <br/>
 <br/>
